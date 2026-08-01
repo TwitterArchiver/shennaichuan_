@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074044090355007667",
+    "created_at": "2026-07-06T12:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074106083254407597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 32,
+          "id": "1868205822511288320",
+          "start": 16,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074106083254407597",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074079618982625488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @vicoOci_Olvidar 本质河南压抑b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074044090355007667",
+        "created_at": "2026-07-06T12:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074106083254407597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 32,
+              "id": "1868205822511288320",
+              "start": 16,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074106083254407597",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074079618982625488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @vicoOci_Olvidar 本质河南压抑b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2074044090355007667",
+        "created_at": "2026-07-06T10:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074079618982625488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074079618982625488",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074079006752907416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 琵琶牧牧无非是修炼时间长罢了，比我多修炼6年，待我保持现在的状态，一年内功力比超越牧狗☝🏻😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4754,
+          "following_count": 570,
+          "like_count": 819,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 3021
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1167,
+          "like_count": 243176,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 17605
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜關注騷dd謝謝喵@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿胃名立希",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 416,
+          "like_count": 25183,
+          "listed_count": 18,
+          "media_count": 1473,
+          "tweet_count": 18509
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

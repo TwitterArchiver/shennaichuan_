@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064708361552314852",
+    "created_at": "2026-06-10T14:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064718779276480642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        },
+        {
+          "end": 26,
+          "id": "1751084995312275456",
+          "start": 13,
+          "username": "mikumiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064718779276480642",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064712108265361641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ @mikumiku3648 哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2064712105291571201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdUuG9aYAE0bP5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064708361552314852",
+        "created_at": "2026-06-10T14:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064718779276480642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            },
+            {
+              "end": 26,
+              "id": "1751084995312275456",
+              "start": 13,
+              "username": "mikumiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718779276480642",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064712108265361641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ @mikumiku3648 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064712105291571201"
+          ]
+        },
+        "author_id": "1779149099084009472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064708361552314852",
+        "created_at": "2026-06-10T14:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064712108265361641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "mikumiku3648"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWvPp4yewk",
+              "end": 41,
+              "expanded_url": "https://x.com/MikuLoverr_/status/2064712108265361641/photo/1",
+              "media_key": "3_2064712105291571201",
+              "start": 18,
+              "url": "https://t.co/GWvPp4yewk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064712108265361641",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064708361552314852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumiku3648 我不说 https://t.co/GWvPp4yewk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 464,
+          "like_count": 756,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2316
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "2057687285504868573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055369844737146880/2rM6iWiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1142,
+          "like_count": 30584,
+          "listed_count": 10,
+          "media_count": 1017,
+          "tweet_count": 15023
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」 友達！：@meguruKirara Remi @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Yuuteki",
+                "end": 23,
+                "expanded_url": "https://github.com/Yuuteki",
+                "start": 0,
+                "url": "https://t.co/Wcto2ghIDr"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "2022938243470401923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055371914752008192/buXiE2oc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4010,
+          "following_count": 1355,
+          "like_count": 39400,
+          "listed_count": 18,
+          "media_count": 2898,
+          "tweet_count": 15604
+        },
+        "url": "https://t.co/Wcto2ghIDr",
+        "username": "mikumiku3648",
+        "verified": true
+      }
+    ]
+  }
+}

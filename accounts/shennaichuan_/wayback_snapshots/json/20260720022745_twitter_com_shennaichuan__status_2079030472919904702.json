@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078945627803689392",
+    "created_at": "2026-07-20T02:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079030472919904702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 29,
+          "id": "1355638440",
+          "start": 16,
+          "username": "MistsDerarme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079030472919904702",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079028707218645428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @MistsDerarme 当老师还是舒服的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078945627803689392",
+        "created_at": "2026-07-20T02:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079030472919904702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 29,
+              "id": "1355638440",
+              "start": 16,
+              "username": "MistsDerarme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079030472919904702",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079028707218645428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @MistsDerarme 当老师还是舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2078945627803689392",
+        "created_at": "2026-07-20T02:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079028707218645428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355638440",
+              "start": 0,
+              "username": "MistsDerarme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079028707218645428",
+        "in_reply_to_user_id": "1355638440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078945627803689392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MistsDerarme 师范早就没落了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 620,
+          "like_count": 858,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3351
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1173,
+          "like_count": 246875,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 18089
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T00:16:02.000Z",
+        "description": "蒙面洞中三无\n庶民ですので，お金はありません。\nIch bin ein einfacher Mensch, ich habe kein Geld.",
+        "id": "1355638440",
+        "location": "Altstadt-Lehel, München",
+        "name": "𝓓𝓮𝓻 𝓐𝓻𝓶𝓮",
+        "pinned_tweet_id": "1581989798541086720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058845154904035328/B0yEm7Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 877,
+          "like_count": 28818,
+          "listed_count": 19,
+          "media_count": 32816,
+          "tweet_count": 91372
+        },
+        "url": "",
+        "username": "MistsDerarme",
+        "verified": false
+      }
+    ]
+  }
+}

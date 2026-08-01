@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082327418350838139",
+    "created_at": "2026-07-29T08:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082379455407022275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082379455407022275",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082327418350838139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist 不尬不尬，，地府网易云耍起嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082327409152622592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXpvviaAAAVNgC.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082327409161043968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXpvvkagAA8wAI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082327418350838139",
+        "created_at": "2026-07-29T08:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082379455407022275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082379455407022275",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327418350838139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist 不尬不尬，，地府网易云耍起嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082327409152622592",
+            "3_2082327409161043968"
+          ]
+        },
+        "author_id": "1689275528572760064",
+        "conversation_id": "2082327418350838139",
+        "created_at": "2026-07-29T04:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082327418350838139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0PdLjzG0m",
+              "end": 49,
+              "expanded_url": "https://x.com/5mRtist/status/2082327418350838139/photo/1",
+              "media_key": "3_2082327409152622592",
+              "start": 26,
+              "url": "https://t.co/n0PdLjzG0m"
+            },
+            {
+              "display_url": "pic.x.com/n0PdLjzG0m",
+              "end": 49,
+              "expanded_url": "https://x.com/5mRtist/status/2082327418350838139/photo/1",
+              "media_key": "3_2082327409161043968",
+              "start": 26,
+              "url": "https://t.co/n0PdLjzG0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082327418350838139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1976,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "假死听歌中，好舒服呀\n就这样享受用欺骗换取的关心呢 https://t.co/n0PdLjzG0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 632,
+          "like_count": 916,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 3489
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "总设计师",
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268,
+          "following_count": 1653,
+          "like_count": 32537,
+          "listed_count": 12,
+          "media_count": 238,
+          "tweet_count": 7129
+        },
+        "url": "",
+        "username": "5mRtist",
+        "verified": false
+      }
+    ]
+  }
+}

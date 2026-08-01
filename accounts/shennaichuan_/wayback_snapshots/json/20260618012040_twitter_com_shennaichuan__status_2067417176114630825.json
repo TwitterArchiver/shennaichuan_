@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-18T01:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067417176114630825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430531888515452929",
+          "start": 0,
+          "username": "bass_1664"
+        },
+        {
+          "end": 27,
+          "id": "1977285398557552640",
+          "start": 11,
+          "username": "zippstorm277318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067417176114630825",
+    "in_reply_to_user_id": "1430531888515452929",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067163399113646556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bass_1664 @zippstorm277318 lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-18T01:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067417176114630825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430531888515452929",
+              "start": 0,
+              "username": "bass_1664"
+            },
+            {
+              "end": 27,
+              "id": "1977285398557552640",
+              "start": 11,
+              "username": "zippstorm277318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067417176114630825",
+        "in_reply_to_user_id": "1430531888515452929",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067163399113646556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bass_1664 @zippstorm277318 lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430531888515452929",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T08:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067163399113646556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977285398557552640",
+              "start": 0,
+              "username": "zippstorm277318"
+            },
+            {
+              "end": 31,
+              "id": "2010357366466990080",
+              "start": 17,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067163399113646556",
+        "in_reply_to_user_id": "1977285398557552640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 641,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067162933839229180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zippstorm277318 @shennaichuan_ You speak english because it's the only language you understand. I speak english because it's the only language you understand."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n互关扩列友好tut",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 519,
+          "like_count": 768,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 2483
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T14:07:27.000Z",
+        "description": "",
+        "id": "1430531888515452929",
+        "name": "b a s s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831247063025098752/MvG59xNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1209,
+          "like_count": 150298,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "bass_1664",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T08:09:23.000Z",
+        "description": "18",
+        "id": "1977285398557552640",
+        "name": "ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034553745057443840/geZy04RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 33,
+          "like_count": 11615,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "zippstorm277318",
+        "verified": false
+      }
+    ]
+  }
+}

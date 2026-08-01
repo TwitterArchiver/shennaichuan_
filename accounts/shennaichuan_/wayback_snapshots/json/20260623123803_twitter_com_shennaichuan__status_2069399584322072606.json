@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069337710280532267",
+    "created_at": "2026-06-23T12:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069399584322072606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 29,
+          "id": "1538522826826829825",
+          "start": 16,
+          "username": "DorothyL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069399584322072606",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069340143534883116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @DorothyL8964 宝子能别乳女了行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069337710280532267",
+        "created_at": "2026-06-23T12:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069399584322072606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 29,
+              "id": "1538522826826829825",
+              "start": 16,
+              "username": "DorothyL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069399584322072606",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069340143534883116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @DorothyL8964 宝子能别乳女了行吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2069337710280532267",
+        "created_at": "2026-06-23T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069340143534883116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538522826826829825",
+              "start": 0,
+              "username": "DorothyL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069340143534883116",
+        "in_reply_to_user_id": "1538522826826829825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069337710280532267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DorothyL8964 没人拿枪逼他们当门槛鸡吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 544,
+          "like_count": 800,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2666
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1148,
+          "like_count": 241708,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 17147
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:03:30.000Z",
+        "description": "中专（护校），云南人，在美帝挣扎求生。 (A man, made from enormous pain, disrespect, rejection, failure and losses; unstoppable, unyielding, offers his life for the call of duty.)",
+        "id": "1538522826826829825",
+        "location": "Mexico ",
+        "name": "Hippocratic Patriotism",
+        "pinned_tweet_id": "1549723342286082051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838482594867871744/QccqDUlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 223,
+          "like_count": 43241,
+          "listed_count": 7,
+          "media_count": 3876,
+          "tweet_count": 49689
+        },
+        "url": "",
+        "username": "DorothyL8964",
+        "verified": true
+      }
+    ]
+  }
+}

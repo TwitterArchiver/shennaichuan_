@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073279724261187690",
+    "created_at": "2026-07-04T18:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073480393530266063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820843841190256640",
+          "start": 0,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073480393530266063",
+    "in_reply_to_user_id": "1820843841190256640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073328790676410739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira5th 我打算设计一个可食用避孕套 射完就吃了 有和我一起做的吗 一起来创业 快来巴结我吧 以后成老钱了就说不上话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073279724261187690",
+        "created_at": "2026-07-04T18:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073480393530266063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820843841190256640",
+              "start": 0,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073480393530266063",
+        "in_reply_to_user_id": "1820843841190256640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073328790676410739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira5th 我打算设计一个可食用避孕套 射完就吃了 有和我一起做的吗 一起来创业 快来巴结我吧 以后成老钱了就说不上话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820843841190256640",
+        "conversation_id": "2073279724261187690",
+        "created_at": "2026-07-04T08:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073328790676410739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073328790676410739",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073324619742990691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 做题区滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 568,
+          "like_count": 819,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 3001
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "纯良萌萌人",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "哈基夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 830,
+          "like_count": 5107,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1866
+        },
+        "url": "",
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

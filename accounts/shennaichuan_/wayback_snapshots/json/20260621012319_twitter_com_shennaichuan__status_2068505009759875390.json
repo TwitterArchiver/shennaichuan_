@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068271506980007956",
+    "created_at": "2026-06-21T01:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068505009759875390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2047196027141181440",
+          "start": 0,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068505009759875390",
+    "in_reply_to_user_id": "2047196027141181440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068271506980007956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangangqinmao1 有无弹吉他弹拨片弹指一挥间节奏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068271506980007956",
+        "created_at": "2026-06-21T01:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068505009759875390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047196027141181440",
+              "start": 0,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068505009759875390",
+        "in_reply_to_user_id": "2047196027141181440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068271506980007956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao1 有无弹吉他弹拨片弹指一挥间节奏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047196027141181440",
+        "conversation_id": "2068271506980007956",
+        "created_at": "2026-06-20T09:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068271506980007956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068271506980007956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 864,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊吉他的左手真踏马难啊我操\n我的手指要死掉了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 531,
+          "like_count": 786,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 2598
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 右÷ 支黑\n希望上面提到的这三类人全+死光\n反毛贼不屠能行吗？\n支持毛主席的可以找我互fo",
+        "id": "2047196027141181440",
+        "location": "反毛贼智能屠宰基地（扒皮生腌反毛贼处理厂）",
+        "name": "弹钢琴",
+        "pinned_tweet_id": "2065289300175118371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 45,
+          "like_count": 2239,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 3010
+        },
+        "url": "",
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

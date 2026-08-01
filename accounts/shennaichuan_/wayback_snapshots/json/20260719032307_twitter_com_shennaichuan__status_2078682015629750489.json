@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078643370197696531",
+    "created_at": "2026-07-19T03:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078682015629750489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055304428803198976",
+          "start": 0,
+          "username": "koi685549028481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078682015629750489",
+    "in_reply_to_user_id": "2055304428803198976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078676827858690331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koi685549028481 hyk真是尬杂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078643370197696531",
+        "created_at": "2026-07-19T03:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078682015629750489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055304428803198976",
+              "start": 0,
+              "username": "koi685549028481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078682015629750489",
+        "in_reply_to_user_id": "2055304428803198976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078676827858690331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koi685549028481 hyk真是尬杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055304428803198976",
+        "conversation_id": "2078643370197696531",
+        "created_at": "2026-07-19T03:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078676827858690331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078676827858690331",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078654287891370117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 南神粉絲素質低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 615,
+          "like_count": 854,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T15:09:46.000Z",
+        "description": "全世界最想變可愛的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi1",
+                "start": 0,
+                "url": "https://t.co/IBVGiSNQuX"
+              }
+            ]
+          }
+        },
+        "id": "2055304428803198976",
+        "location": "v",
+        "name": "こうゆ_い",
+        "pinned_tweet_id": "2076241860755132924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073724657052856320/nyc4fQaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 38,
+          "like_count": 11688,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/IBVGiSNQuX",
+        "username": "koi685549028481",
+        "verified": false
+      }
+    ]
+  }
+}

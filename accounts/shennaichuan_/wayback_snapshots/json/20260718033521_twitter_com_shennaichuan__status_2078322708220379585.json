@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078322699672457216"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078322708220379585",
+    "created_at": "2026-07-18T03:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078322708220379585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CurgojD4i",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2078322708220379585/photo/1",
+          "media_key": "3_2078322699672457216",
+          "start": 0,
+          "url": "https://t.co/7CurgojD4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078322708220379585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/7CurgojD4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2078322699672457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeve-KbkAANckj.jpg",
+        "width": 2004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078322699672457216"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078322708220379585",
+        "created_at": "2026-07-18T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078322708220379585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CurgojD4i",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078322708220379585/photo/1",
+              "media_key": "3_2078322699672457216",
+              "start": 0,
+              "url": "https://t.co/7CurgojD4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078322708220379585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7CurgojD4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 592,
+          "like_count": 843,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 3193
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

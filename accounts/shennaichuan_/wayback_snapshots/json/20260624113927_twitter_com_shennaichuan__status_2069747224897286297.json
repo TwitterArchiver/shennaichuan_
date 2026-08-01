@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069590707174572162",
+    "created_at": "2026-06-24T11:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069747224897286297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        },
+        {
+          "end": 20,
+          "id": "1844290406391103488",
+          "start": 9,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069747224897286297",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069685257469923736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 @qhqq114514 ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069590707174572162",
+        "created_at": "2026-06-24T11:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069747224897286297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            },
+            {
+              "end": 20,
+              "id": "1844290406391103488",
+              "start": 9,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069747224897286297",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069685257469923736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 @qhqq114514 ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738252244607512576",
+        "conversation_id": "2069590707174572162",
+        "created_at": "2026-06-24T07:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069685257469923736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 26,
+              "id": "1844290406391103488",
+              "start": 15,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069685257469923736",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069600329130488166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @qhqq114514 你比我还轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 552,
+          "like_count": 804,
+          "listed_count": 3,
+          "media_count": 386,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "我接ow/瓦娱乐\n我很喜欢玩游戏，周末可以找我打瓦\n互fo私我，偶尔发散生活游戏怨气",
+        "id": "1738252244607512576",
+        "name": "Naomi",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068410236831223809/BAYUaGot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 2828,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "Gess828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@FoxGod__ 信任的人过：@BadFoxGod_ 纯良号预备中：@die11037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "FoxGod__"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "BadFoxGod_"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "die11037"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067954130652442624/zpxDRoVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 258,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 4192
+        },
+        "url": "",
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

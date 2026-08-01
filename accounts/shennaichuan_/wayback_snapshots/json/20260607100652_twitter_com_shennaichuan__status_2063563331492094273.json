@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063536849071841655",
+    "created_at": "2026-06-07T10:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063563331492094273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063563331492094273",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063536849071841655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x 米米嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063536840993603584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn0uRbAAAz1RO.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063536837113806848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn0f0aAAAvBQR.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063536838346997760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn0kabAAAIave.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063536840825847808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn0tpbQAAS2zm.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063536849071841655",
+        "created_at": "2026-06-07T10:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063563331492094273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063563331492094273",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063536849071841655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 米米嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063536840993603584",
+            "3_2063536837113806848",
+            "3_2063536838346997760",
+            "3_2063536840825847808"
+          ]
+        },
+        "author_id": "1778616836214439936",
+        "conversation_id": "2063536849071841655",
+        "created_at": "2026-06-07T08:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063536849071841655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0az1RA3sHP",
+              "end": 50,
+              "expanded_url": "https://x.com/H20_chemistry_x/status/2063536849071841655/photo/1",
+              "media_key": "3_2063536840993603584",
+              "start": 27,
+              "url": "https://t.co/0az1RA3sHP"
+            },
+            {
+              "display_url": "pic.x.com/0az1RA3sHP",
+              "end": 50,
+              "expanded_url": "https://x.com/H20_chemistry_x/status/2063536849071841655/photo/1",
+              "media_key": "3_2063536837113806848",
+              "start": 27,
+              "url": "https://t.co/0az1RA3sHP"
+            },
+            {
+              "display_url": "pic.x.com/0az1RA3sHP",
+              "end": 50,
+              "expanded_url": "https://x.com/H20_chemistry_x/status/2063536849071841655/photo/1",
+              "media_key": "3_2063536838346997760",
+              "start": 27,
+              "url": "https://t.co/0az1RA3sHP"
+            },
+            {
+              "display_url": "pic.x.com/0az1RA3sHP",
+              "end": 50,
+              "expanded_url": "https://x.com/H20_chemistry_x/status/2063536849071841655/photo/1",
+              "media_key": "3_2063536840825847808",
+              "start": 27,
+              "url": "https://t.co/0az1RA3sHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063536849071841655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好看了8雨落青瓷😭\n错过了和闺蜜出双子的机会QAQ https://t.co/0az1RA3sHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 435,
+          "like_count": 737,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2212
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1974,
+          "like_count": 43638,
+          "listed_count": 3,
+          "media_count": 1074,
+          "tweet_count": 13540
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

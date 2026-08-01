@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2075024814608359486",
+    "created_at": "2026-07-09T01:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075029575810290162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "888086394710765568",
+          "start": 0,
+          "username": "JHS_FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075029575810290162",
+    "in_reply_to_user_id": "888086394710765568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075024814608359486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHS_FR 我就这样耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075024798195826688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv4D1yWwAAh06j.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2075024814608359486",
+        "created_at": "2026-07-09T01:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075029575810290162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "888086394710765568",
+              "start": 0,
+              "username": "JHS_FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075029575810290162",
+        "in_reply_to_user_id": "888086394710765568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075024814608359486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHS_FR 我就这样耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075024798195826688"
+          ]
+        },
+        "author_id": "888086394710765568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075024814608359486",
+        "created_at": "2026-07-09T01:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075024814608359486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpfWYPHDmq",
+              "end": 79,
+              "expanded_url": "https://x.com/JHS_FR/status/2075024814608359486/photo/1",
+              "media_key": "3_2075024798195826688",
+              "start": 56,
+              "url": "https://t.co/NpfWYPHDmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075024814608359486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个活动量，每天喝 4-4.5 升水，吃没咋控制，就多吃了点肉蛋奶，不到一个月体重掉了 3.2kg，美滋滋🥴 https://t.co/NpfWYPHDmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4803,
+          "following_count": 588,
+          "like_count": 837,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 3159
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "西北人，在天主教会慕道半年受洗，在修道静修数月，已脱离且不认同你国地上教会，洁身保守，加强身体锻炼，自建武装团体，以行动践行理念",
+        "id": "888086394710765568",
+        "location": "洼地",
+        "name": "小王（推油寻回）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049484839871823872/DjdULdKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 662,
+          "like_count": 4476,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "JHS_FR",
+        "verified": false
+      }
+    ]
+  }
+}

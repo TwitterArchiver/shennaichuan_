@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2070335851612291546",
+    "created_at": "2026-06-26T03:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070346813916545237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070346813916545237",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070335851612291546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Bitterpearlbird 幽默"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2070335843005534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPeugakAAOeJH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070335851612291546",
+        "created_at": "2026-06-26T03:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070346813916545237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070346813916545237",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070335851612291546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Bitterpearlbird 幽默"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070335843005534208"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070335851612291546",
+        "created_at": "2026-06-26T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070335851612291546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3t5C6SWfIf",
+              "end": 23,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2070335851612291546/photo/1",
+              "media_key": "3_2070335843005534208",
+              "start": 0,
+              "url": "https://t.co/3t5C6SWfIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335851612291546",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/3t5C6SWfIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 546,
+          "like_count": 813,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "Komm,süsser Tod\n这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "好友位88",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2017848011024675046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 447,
+          "like_count": 31167,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

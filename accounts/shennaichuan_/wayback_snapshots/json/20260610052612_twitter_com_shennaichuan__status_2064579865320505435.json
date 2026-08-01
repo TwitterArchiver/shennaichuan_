@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064029573629825448",
+    "created_at": "2026-06-10T05:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064579865320505435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822741639368171520",
+          "start": 0,
+          "username": "ziy0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064579865320505435",
+    "in_reply_to_user_id": "1822741639368171520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064029573629825448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziy0609 生日快乐子玉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064029573629825448",
+        "created_at": "2026-06-10T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064579865320505435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822741639368171520",
+              "start": 0,
+              "username": "ziy0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064579865320505435",
+        "in_reply_to_user_id": "1822741639368171520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064029573629825448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziy0609 生日快乐子玉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822741639368171520",
+        "conversation_id": "2064029573629825448",
+        "created_at": "2026-06-08T16:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064029573629825448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064029573629825448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日呀 17岁啦🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 463,
+          "like_count": 750,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2295
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T21:07:50.000Z",
+        "description": "我是子钰｜泛性恋 我的内心世界@qipianhuangyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "qipianhuangyan"
+              }
+            ]
+          }
+        },
+        "id": "1822741639368171520",
+        "location": "异世界",
+        "name": "感康我恨你",
+        "pinned_tweet_id": "2011456134360813738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885765348861083648/BVomAhJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 552,
+          "like_count": 62676,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 968
+        },
+        "username": "ziy0609",
+        "verified": false
+      }
+    ]
+  }
+}

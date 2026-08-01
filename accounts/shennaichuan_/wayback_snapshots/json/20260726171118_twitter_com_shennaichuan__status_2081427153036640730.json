@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081426775717105665",
+        "3_2081426775754895360"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081427153036640730",
+    "created_at": "2026-07-26T17:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081427153036640730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPBYI5V0rF",
+          "end": 178,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081427153036640730/photo/1",
+          "media_key": "3_2081426775717105665",
+          "start": 155,
+          "url": "https://t.co/QPBYI5V0rF"
+        },
+        {
+          "display_url": "pic.x.com/QPBYI5V0rF",
+          "end": 178,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081427153036640730/photo/1",
+          "media_key": "3_2081426775754895360",
+          "start": 155,
+          "url": "https://t.co/QPBYI5V0rF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081427153036640730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 171,
+            "id": "1868205822511288320",
+            "start": 155,
+            "username": "vicoOci_Olvidar"
+          }
+        ]
+      },
+      "text": "八月和方宝宝👶🏻  vico又是谁？oci又是谁？340111是什么？娟姐又是谁？勇哥又是谁？子文小弟弟又是谁？兰阿婆又是谁？20070821又是谁的生日？216026又是什么代码？谁的猫条味大？谁天天造谣别人说强奸犯？谁自慰的时候把假鸡巴塞逼里又是谁？谁住在安徽省合肥市包河区屯溪路152号4幢208室……\n@vicoOci_Olvidar 谁他妈搁那坑馒头几万块钱"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "八月和方宝宝👶🏻  vico又是谁？oci又是谁？340111是什么？娟姐又是谁？勇哥又是谁？子文小弟弟又是谁？兰阿婆又是谁？20070821又是谁的生日？216026又是什么代码？谁的猫条味大？谁天天造谣别人说强奸犯？谁自慰的时候把假鸡巴塞逼里又是谁？谁住在安徽省合肥市包河区屯溪路152号4幢208室…… https://t.co/QPBYI5V0rF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2081426775717105665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK2n-ia0AEkM7J.jpg",
+        "width": 911
+      },
+      {
+        "height": 933,
+        "media_key": "3_2081426775754895360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK2n-rbcAAjITV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081426775717105665",
+            "3_2081426775754895360"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081427153036640730",
+        "created_at": "2026-07-26T17:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081427153036640730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPBYI5V0rF",
+              "end": 178,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081427153036640730/photo/1",
+              "media_key": "3_2081426775717105665",
+              "start": 155,
+              "url": "https://t.co/QPBYI5V0rF"
+            },
+            {
+              "display_url": "pic.x.com/QPBYI5V0rF",
+              "end": 178,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081427153036640730/photo/1",
+              "media_key": "3_2081426775754895360",
+              "start": 155,
+              "url": "https://t.co/QPBYI5V0rF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081427153036640730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 171,
+                "id": "1868205822511288320",
+                "start": 155,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "text": "八月和方宝宝👶🏻  vico又是谁？oci又是谁？340111是什么？娟姐又是谁？勇哥又是谁？子文小弟弟又是谁？兰阿婆又是谁？20070821又是谁的生日？216026又是什么代码？谁的猫条味大？谁天天造谣别人说强奸犯？谁自慰的时候把假鸡巴塞逼里又是谁？谁住在安徽省合肥市包河区屯溪路152号4幢208室……\n@vicoOci_Olvidar 谁他妈搁那坑馒头几万块钱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月和方宝宝👶🏻  vico又是谁？oci又是谁？340111是什么？娟姐又是谁？勇哥又是谁？子文小弟弟又是谁？兰阿婆又是谁？20070821又是谁的生日？216026又是什么代码？谁的猫条味大？谁天天造谣别人说强奸犯？谁自慰的时候把假鸡巴塞逼里又是谁？谁住在安徽省合肥市包河区屯溪路152号4幢208室…… https://t.co/QPBYI5V0rF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 629,
+          "like_count": 880,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3452
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本人串子，帖子很少有真情實感（私下不一定｜所有時間線全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿wkoc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 406,
+          "like_count": 25371,
+          "listed_count": 17,
+          "media_count": 1580,
+          "tweet_count": 19235
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

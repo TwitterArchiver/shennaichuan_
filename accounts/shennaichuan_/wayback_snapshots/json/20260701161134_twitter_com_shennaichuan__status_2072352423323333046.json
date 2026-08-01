@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2072352423323333046",
+    "created_at": "2026-07-01T16:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072352423323333046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072352423323333046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你曾加入过研讨会，请按1；如果你曾加入过c&amp;c，请按2；如果你曾加入过游戏开发部，或者小时候陪爱丽丝打过游戏的，请按3；重听，请按4。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2072352423323333046",
+        "created_at": "2026-07-01T16:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072352423323333046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072352423323333046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你曾加入过研讨会，请按1；如果你曾加入过c&amp;c，请按2；如果你曾加入过游戏开发部，或者小时候陪爱丽丝打过游戏的，请按3；重听，请按4。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 545,
+          "like_count": 816,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

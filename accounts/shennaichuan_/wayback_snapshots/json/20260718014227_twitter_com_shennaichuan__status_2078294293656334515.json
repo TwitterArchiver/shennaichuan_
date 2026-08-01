@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078291197500780557",
+    "created_at": "2026-07-18T01:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078294293656334515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799961465044258816",
+          "start": 0,
+          "username": "hHDD8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078294293656334515",
+    "in_reply_to_user_id": "1799961465044258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078293759352291640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hHDD8964 我房间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078291197500780557",
+        "created_at": "2026-07-18T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078294293656334515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799961465044258816",
+              "start": 0,
+              "username": "hHDD8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078294293656334515",
+        "in_reply_to_user_id": "1799961465044258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078293759352291640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hHDD8964 我房间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799961465044258816",
+        "conversation_id": "2078291197500780557",
+        "created_at": "2026-07-18T01:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078293759352291640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078293759352291640",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078291197500780557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 赛博🐔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 592,
+          "like_count": 842,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 3184
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T00:27:26.000Z",
+        "description": "中国スパイ N1 /漢奸 6级/ MAGA 8.0/勃学家🔰/當你開始抽象，這個世界就不再抽象/當你開始支持習主席，坦克就不曾存在/",
+        "id": "1799961465044258816",
+        "location": "臺北市",
+        "name": "習門金瓶大官人👿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810996792278069248/eqd0nY8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 201,
+          "like_count": 81874,
+          "listed_count": 20,
+          "media_count": 1216,
+          "tweet_count": 18303
+        },
+        "url": "",
+        "username": "hHDD8964",
+        "verified": true
+      }
+    ]
+  }
+}

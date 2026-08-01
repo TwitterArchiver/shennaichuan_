@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067983733077225546",
+    "created_at": "2026-06-19T19:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068054661614211210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963694775770685440",
+          "start": 0,
+          "username": "Fiona_Coyn3"
+        },
+        {
+          "end": 29,
+          "id": "1868205822511288320",
+          "start": 13,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 39,
+          "id": "1713520270198358016",
+          "start": 30,
+          "username": "D_D_ovO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068054661614211210",
+    "in_reply_to_user_id": "1963694775770685440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068004504822526174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiona_Coyn3 @vicoOci_Olvidar @D_D_ovO_ 吉他张吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067983733077225546",
+        "created_at": "2026-06-19T19:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068054661614211210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963694775770685440",
+              "start": 0,
+              "username": "Fiona_Coyn3"
+            },
+            {
+              "end": 29,
+              "id": "1868205822511288320",
+              "start": 13,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 39,
+              "id": "1713520270198358016",
+              "start": 30,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068054661614211210",
+        "in_reply_to_user_id": "1963694775770685440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068004504822526174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiona_Coyn3 @vicoOci_Olvidar @D_D_ovO_ 吉他张吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963694775770685440",
+        "conversation_id": "2067983733077225546",
+        "created_at": "2026-06-19T16:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068004504822526174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 26,
+              "id": "1713520270198358016",
+              "start": 17,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068004504822526174",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067983733077225546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @D_D_ovO_ 為什麼這個吉他把我拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "￴\n￴互关找我聊天\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 525,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 366,
+          "tweet_count": 2520
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber\n目前的戀人@7zip33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "7zip33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "location": "中南海",
+        "name": "49 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 77,
+          "like_count": 7123,
+          "listed_count": 7,
+          "media_count": 544,
+          "tweet_count": 4153
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "当我感到最幸福时我会把五颗星星都涂满★ ★ ★  ☆ ☆ ｜老婆❤️@D_D_ovo_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "胃口呕呲呲呲呲！！",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 394,
+          "like_count": 24754,
+          "listed_count": 19,
+          "media_count": 1383,
+          "tweet_count": 17525
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T11:40:55.000Z",
+        "description": "音楽＆アニメ＆料理&ヨルシカ好き、「@vicoOci_Olvidar だけが僕の音楽なんだ」、ギター歴3年目→だから僕はギターを辞めた。「前世◂Ⓘ▸後書き」日本語/English/中文",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1713520270198358016",
+        "name": "DD🎸◂Ⓘ▸",
+        "pinned_tweet_id": "2064686597103333846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819675808186970112/urNf3mLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 536,
+          "like_count": 126346,
+          "listed_count": 4,
+          "media_count": 697,
+          "tweet_count": 15881
+        },
+        "url": "",
+        "username": "D_D_ovO_",
+        "verified": false
+      }
+    ]
+  }
+}

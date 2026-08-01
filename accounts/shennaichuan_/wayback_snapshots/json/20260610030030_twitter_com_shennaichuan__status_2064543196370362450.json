@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064275409123058002",
+    "created_at": "2026-06-10T03:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064543196370362450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064543196370362450",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064275409123058002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ 脑弱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064275409123058002].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064275409123058002",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064275409123058002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064275409123058002",
+        "created_at": "2026-06-10T03:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064543196370362450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064543196370362450",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064275409123058002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ 脑弱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 461,
+          "like_count": 750,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2283
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨疯狂宇宙型人格丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨有时可能没看到消息请见谅丨本人戾气极重请谨慎关注丨反物质级别负能量场丨习近平在此百鬼退避！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/I0k2RlXlLS"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "location": "au bout de la terre",
+        "name": "🦇𝔉𝔩𝔞𝔫𝔡𝔯𝔢🐦‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053006091844452352/ZzOW170Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 4397,
+          "like_count": 57728,
+          "listed_count": 1,
+          "media_count": 3245,
+          "tweet_count": 30446
+        },
+        "url": "https://t.co/I0k2RlXlLS",
+        "username": "Flandre_OvO_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067518444724179304",
+    "created_at": "2026-06-18T14:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067609258066374696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822741639368171520",
+          "start": 0,
+          "username": "ziy0609"
+        },
+        {
+          "end": 22,
+          "id": "2022424861709303808",
+          "start": 9,
+          "username": "17sfellingss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067609258066374696",
+    "in_reply_to_user_id": "1822741639368171520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067530159704731701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziy0609 @17sfellingss 😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067518444724179304",
+        "created_at": "2026-06-18T14:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067609258066374696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822741639368171520",
+              "start": 0,
+              "username": "ziy0609"
+            },
+            {
+              "end": 22,
+              "id": "2022424861709303808",
+              "start": 9,
+              "username": "17sfellingss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067609258066374696",
+        "in_reply_to_user_id": "1822741639368171520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067530159704731701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziy0609 @17sfellingss 😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822741639368171520",
+        "conversation_id": "2067518444724179304",
+        "created_at": "2026-06-18T08:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067530159704731701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022424861709303808",
+              "start": 0,
+              "username": "17sfellingss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067530159704731701",
+        "in_reply_to_user_id": "2022424861709303808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067518444724179304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17sfellingss 想蹭别人毒品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "搁外边一定要注意自身，因为外边传染病太多了\n一定要学会保护自己，听到了吗\n洁身自爱，因为外边传染病太多了",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 521,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2497
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T21:07:50.000Z",
+        "description": "我是子钰｜泛性恋 我的内心世界@qipianhuangyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "qipianhuangyan"
+              }
+            ]
+          }
+        },
+        "id": "1822741639368171520",
+        "location": "异世界",
+        "name": "感康我恨你",
+        "pinned_tweet_id": "2011456134360813738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885765348861083648/BVomAhJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 554,
+          "like_count": 62972,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "ziy0609",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T21:37:47.000Z",
+        "description": "前世@EShyfs 过🚪只收赞赏码和口令 可验证 ip和视频都是30 出处方药 策划药 还有上头电子烟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "EShyfs"
+              }
+            ]
+          }
+        },
+        "id": "2022424861709303808",
+        "name": "idontcareyouatall",
+        "pinned_tweet_id": "2041124389446733848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046694618629316608/LBI0_DsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 52,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "17sfellingss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063441217384227073",
+    "created_at": "2026-06-07T02:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063448024786104536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063448024786104536",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063441217384227073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 给个fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2063441215643582464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLQ2mFWAAALKTX.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063441217384227073",
+        "created_at": "2026-06-07T02:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063448024786104536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063448024786104536",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063441217384227073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 给个fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063441215643582464"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063441217384227073",
+        "created_at": "2026-06-07T02:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063441217384227073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvBcUXz1FF",
+              "end": 38,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2063441217384227073/photo/1",
+              "media_key": "3_2063441215643582464",
+              "start": 15,
+              "url": "https://t.co/AvBcUXz1FF"
+            },
+            {
+              "display_url": "x.com/LoveMikuBX/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/LoveMikuBX/status/2063281534631874839",
+              "start": 39,
+              "url": "https://t.co/2hlLyvxUrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063441217384227073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063281534631874839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fo们觉得我是一个什么样的人 https://t.co/AvBcUXz1FF https://t.co/2hlLyvxUrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 433,
+          "like_count": 733,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2195
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "(Alan) NE美留一枚，支持枝江国际喵\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇺🇦🇵🇸🇻🇪☮️↙️\n#中推名人评分 DemSoc, MLM\n\n欢迎友好交流(8964=勿转内网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmQgyh"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(MA)分区",
+        "name": "蓝蓝🫐然然浪浪(🏳️‍🌈🐻🤚🏻 Di Alan Chan)",
+        "pinned_tweet_id": "2062722437213524036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062898467513532416/hKPNkjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 714,
+          "like_count": 9016,
+          "listed_count": 8,
+          "media_count": 1016,
+          "tweet_count": 4198
+        },
+        "url": "https://t.co/wy2TJmQgyh",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

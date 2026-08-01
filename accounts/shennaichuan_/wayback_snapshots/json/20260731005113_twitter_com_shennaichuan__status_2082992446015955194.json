@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082727062536880534",
+    "created_at": "2026-07-31T00:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082992446015955194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970865362368610304",
+          "start": 0,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082992446015955194",
+    "in_reply_to_user_id": "1970865362368610304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082727062536880534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brandy322512322 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2082727030869942273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVMycbYAEWD40.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2082727041716387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVNa2bAAAaJZf.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2082727054102122496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVOI_aUAAK_fD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082727062536880534",
+        "created_at": "2026-07-31T00:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082992446015955194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970865362368610304",
+              "start": 0,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082992446015955194",
+        "in_reply_to_user_id": "1970865362368610304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082727062536880534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brandy322512322 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082727030869942273",
+            "3_2082727041716387840",
+            "3_2082727054102122496"
+          ]
+        },
+        "author_id": "1970865362368610304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082727062536880534",
+        "created_at": "2026-07-30T07:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082727062536880534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8kbapcLkv",
+              "end": 62,
+              "expanded_url": "https://x.com/Brandy322512322/status/2082727062536880534/photo/1",
+              "media_key": "3_2082727030869942273",
+              "start": 39,
+              "url": "https://t.co/J8kbapcLkv"
+            },
+            {
+              "display_url": "pic.x.com/J8kbapcLkv",
+              "end": 62,
+              "expanded_url": "https://x.com/Brandy322512322/status/2082727062536880534/photo/1",
+              "media_key": "3_2082727041716387840",
+              "start": 39,
+              "url": "https://t.co/J8kbapcLkv"
+            },
+            {
+              "display_url": "pic.x.com/J8kbapcLkv",
+              "end": 62,
+              "expanded_url": "https://x.com/Brandy322512322/status/2082727062536880534/photo/1",
+              "media_key": "3_2082727054102122496",
+              "start": 39,
+              "url": "https://t.co/J8kbapcLkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082727062536880534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谨遵用法用量，上网快乐冲浪\n我是OT夏树 前世被msk玩死了 目前是第七个号 https://t.co/J8kbapcLkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 650,
+          "like_count": 952,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3527
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082932544400769207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 16,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}

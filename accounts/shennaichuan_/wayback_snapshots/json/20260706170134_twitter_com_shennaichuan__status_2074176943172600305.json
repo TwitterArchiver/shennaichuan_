@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074176943172600305",
+    "created_at": "2026-07-06T17:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074176943172600305"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074176943172600305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，我叫yuki，今年5岁了，我从小得了脑瘫，我还有小儿麻痹症，我还有面瘫，我还有狂躁症。我是个弱智，我是个脑瘫，我不会走路，但是我会玩手机，我不会和人聊天，但是我会发推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074176943172600305",
+        "created_at": "2026-07-06T17:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074176943172600305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074176943172600305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我叫yuki，今年5岁了，我从小得了脑瘫，我还有小儿麻痹症，我还有面瘫，我还有狂躁症。我是个弱智，我是个脑瘫，我不会走路，但是我会玩手机，我不会和人聊天，但是我会发推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 571,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3042
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

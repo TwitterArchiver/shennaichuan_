@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062893522383221039",
+    "created_at": "2026-06-05T15:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062912822607224900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551598616375988224",
+          "start": 0,
+          "username": "FMCDDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062912822607224900",
+    "in_reply_to_user_id": "1551598616375988224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062893522383221039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FMCDDD 1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062893522383221039].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062893522383221039",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062893522383221039"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062893522383221039",
+        "created_at": "2026-06-05T15:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062912822607224900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551598616375988224",
+              "start": 0,
+              "username": "FMCDDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062912822607224900",
+        "in_reply_to_user_id": "1551598616375988224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062893522383221039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FMCDDD 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 426,
+          "like_count": 727,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 2163
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T16:02:04.000Z",
+        "description": "一起发会呆吧 ㄅㄣㄉㄢ\n有什么话就自己来告诉我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/fmcddd",
+                "end": 23,
+                "expanded_url": "https://box.n3ko.cc/_/fmcddd",
+                "start": 0,
+                "url": "https://t.co/NUa4tZ60Nd"
+              }
+            ]
+          }
+        },
+        "id": "1551598616375988224",
+        "location": "重庆",
+        "name": "粉面永远爱菜蛋",
+        "pinned_tweet_id": "2045060158775329094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880465940309241861/_84WsTrk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 2305,
+          "like_count": 38853,
+          "listed_count": 3,
+          "media_count": 623,
+          "tweet_count": 8211
+        },
+        "url": "https://t.co/NUa4tZ60Nd",
+        "username": "FMCDDD",
+        "verified": false
+      }
+    ]
+  }
+}

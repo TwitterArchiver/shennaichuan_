@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062804731375026502",
+    "created_at": "2026-06-05T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062813578336588056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1223469862929850368",
+          "start": 0,
+          "username": "l3gfvYoTslrlHTm"
+        },
+        {
+          "end": 29,
+          "id": "1714894056986460160",
+          "start": 17,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062813578336588056",
+    "in_reply_to_user_id": "1223469862929850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062813090014798097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3gfvYoTslrlHTm @89JinPing64 台巴台巴给个fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062804731375026502",
+        "created_at": "2026-06-05T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062813578336588056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1223469862929850368",
+              "start": 0,
+              "username": "l3gfvYoTslrlHTm"
+            },
+            {
+              "end": 29,
+              "id": "1714894056986460160",
+              "start": 17,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062813578336588056",
+        "in_reply_to_user_id": "1223469862929850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062813090014798097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3gfvYoTslrlHTm @89JinPing64 台巴台巴给个fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223469862929850368",
+        "conversation_id": "2062804731375026502",
+        "created_at": "2026-06-05T08:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062813090014798097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062813090014798097",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062804731375026502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 分不清你是說老黃處男還是faker 處男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 424,
+          "like_count": 730,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2149
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T04:55:38.000Z",
+        "description": "魔獸世界3.0前的我be like:  慈禧和毛澤東是中華民族的罪人☝️🧐 魔獸世界3.0後的我be like: 我真的要跟這些蝗蟲一個民族？🤔",
+        "id": "1223469862929850368",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "油膩的天堂",
+        "pinned_tweet_id": "1832247622071153109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516982575692058624/JEvLi918_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 540,
+          "like_count": 91946,
+          "listed_count": 21,
+          "media_count": 1610,
+          "tweet_count": 11241
+        },
+        "username": "l3gfvYoTslrlHTm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7208,
+          "following_count": 1792,
+          "like_count": 130133,
+          "listed_count": 68,
+          "media_count": 1312,
+          "tweet_count": 27446
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

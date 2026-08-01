@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068712828459163648",
+    "created_at": "2026-06-22T01:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068871295878697186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038281717128327168",
+          "start": 0,
+          "username": "Jianb1a6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068871295878697186",
+    "in_reply_to_user_id": "2038281717128327168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068712828459163648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianb1a6 我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068712828459163648",
+        "created_at": "2026-06-22T01:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068871295878697186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038281717128327168",
+              "start": 0,
+              "username": "Jianb1a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068871295878697186",
+        "in_reply_to_user_id": "2038281717128327168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068712828459163648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianb1a6 我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281717128327168",
+        "conversation_id": "2068712828459163648",
+        "created_at": "2026-06-21T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068712828459163648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068712828459163648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋黄最讨厌了！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 536,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:11.000Z",
+        "description": "我只是个婊子 😇\nwinter \nhttps://t.co/xF0Zk2oFmy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianb1a6",
+                "end": 40,
+                "expanded_url": "https://ngl.link/jianb1a6",
+                "start": 17,
+                "url": "https://t.co/xF0Zk2oFmy"
+              }
+            ]
+          }
+        },
+        "id": "2038281717128327168",
+        "location": "栗子树",
+        "name": "栗子",
+        "pinned_tweet_id": "2067204999474729027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058611397236604930/kbmSbjbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 11,
+          "like_count": 3181,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1792
+        },
+        "url": "",
+        "username": "Jianb1a6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068458958050988032"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068458960538222781",
+    "created_at": "2026-06-20T22:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068458960538222781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YT0hRefd77",
+          "end": 63,
+          "expanded_url": "https://x.com/shennaichuan_/status/2068458960538222781/photo/1",
+          "media_key": "3_2068458958050988032",
+          "start": 40,
+          "url": "https://t.co/YT0hRefd77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068458960538222781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种狗几把川渝潲水真尼玛高能儿😂😂女的装公狗男的装女的嘴里没一句实话要照片私我 https://t.co/YT0hRefd77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068458958050988032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSkdpMakAAW61a.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068458958050988032"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068458960538222781",
+        "created_at": "2026-06-20T22:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068458960538222781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YT0hRefd77",
+              "end": 63,
+              "expanded_url": "https://x.com/shennaichuan_/status/2068458960538222781/photo/1",
+              "media_key": "3_2068458958050988032",
+              "start": 40,
+              "url": "https://t.co/YT0hRefd77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068458960538222781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种狗几把川渝潲水真尼玛高能儿😂😂女的装公狗男的装女的嘴里没一句实话要照片私我 https://t.co/YT0hRefd77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4460,
+          "following_count": 530,
+          "like_count": 781,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2570
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

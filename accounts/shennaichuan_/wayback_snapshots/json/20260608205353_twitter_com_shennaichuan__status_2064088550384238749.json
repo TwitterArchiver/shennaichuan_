@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063683077914886382",
+    "created_at": "2026-06-08T20:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064088550384238749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        },
+        {
+          "end": 26,
+          "id": "1844383857581359105",
+          "start": 14,
+          "username": "Gangbangxjp"
+        },
+        {
+          "end": 42,
+          "id": "1826722103305084928",
+          "start": 27,
+          "username": "qngxiomo188612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064088550384238749",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063939030103015787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 @Gangbangxjp @qngxiomo188612 台巴台巴给个fo吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063683077914886382",
+        "created_at": "2026-06-08T20:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064088550384238749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 26,
+              "id": "1844383857581359105",
+              "start": 14,
+              "username": "Gangbangxjp"
+            },
+            {
+              "end": 42,
+              "id": "1826722103305084928",
+              "start": 27,
+              "username": "qngxiomo188612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064088550384238749",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063939030103015787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 @Gangbangxjp @qngxiomo188612 台巴台巴给个fo吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786565196913541120",
+        "conversation_id": "2063683077914886382",
+        "created_at": "2026-06-08T10:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063939030103015787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            },
+            {
+              "end": 28,
+              "id": "1826722103305084928",
+              "start": 13,
+              "username": "qngxiomo188612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063939030103015787",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063846548568682670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp @qngxiomo188612 确实，身分自己给的，卖不卖谁理啊🥱，那么多卖的，多一个不多，少一个不少，把自己当根葱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 451,
+          "like_count": 739,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 2235
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "在你的个人资料上加入自我介绍",
+        "id": "1786565196913541120",
+        "location": "驻马店市, 河南省",
+        "name": "迅鴿🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1143,
+          "like_count": 127813,
+          "listed_count": 19,
+          "media_count": 1527,
+          "tweet_count": 33080
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "location": "Japan",
+        "name": "狂暴抽插习近平",
+        "pinned_tweet_id": "2060260180827472025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 89,
+          "like_count": 7950,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 7318
+        },
+        "username": "Gangbangxjp",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T20:44:58.000Z",
+        "description": "广佛深莞｜只回复口令红包 骚扰信息会拉黑 喜欢请投喂🐈‍⬛偷我照片的人4000+ 财运全部转给我 替我挡灾",
+        "id": "1826722103305084928",
+        "location": "🚪188/520/888/1314",
+        "name": "坏",
+        "pinned_tweet_id": "2063253047653093535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929301021756645376/MtbMOtDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21069,
+          "following_count": 27,
+          "like_count": 4821,
+          "listed_count": 62,
+          "media_count": 46,
+          "tweet_count": 110
+        },
+        "username": "qngxiomo188612",
+        "verified": false
+      }
+    ]
+  }
+}

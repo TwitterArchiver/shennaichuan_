@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063114868786618509",
+    "created_at": "2026-06-07T02:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063453846429638731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644482642631602178",
+          "start": 0,
+          "username": "xibaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063453846429638731",
+    "in_reply_to_user_id": "1644482642631602178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063114868786618509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xibaomi 闺闺给个fo吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063114857734713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGoCEIbsAAXtSJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2063114857751470080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGoCEMbYAAcEx2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063114868786618509",
+        "created_at": "2026-06-07T02:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063453846429638731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644482642631602178",
+              "start": 0,
+              "username": "xibaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063453846429638731",
+        "in_reply_to_user_id": "1644482642631602178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063114868786618509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xibaomi 闺闺给个fo吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063114857734713344",
+            "3_2063114857751470080"
+          ]
+        },
+        "author_id": "1644482642631602178",
+        "conversation_id": "2063114868786618509",
+        "created_at": "2026-06-06T04:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063114868786618509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsyGGg670B",
+              "end": 128,
+              "expanded_url": "https://x.com/xibaomi/status/2063114868786618509/photo/1",
+              "media_key": "3_2063114857734713344",
+              "start": 105,
+              "url": "https://t.co/qsyGGg670B"
+            },
+            {
+              "display_url": "pic.x.com/qsyGGg670B",
+              "end": 128,
+              "expanded_url": "https://x.com/xibaomi/status/2063114868786618509/photo/1",
+              "media_key": "3_2063114857751470080",
+              "start": 105,
+              "url": "https://t.co/qsyGGg670B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063114868786618509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 977,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最後一天捏🥸本包蜜發現澳門好小一天就能逛完🦆，小時候看賭神一直以為是和別人賭，現在才知道是和工作人員賭和機器賭🤪感覺沒啥意思，奶茶隨便喝還有吸🚬室真好，不知道這奶茶是不是奶茶包衝出來的，但免費的感覺大概率是🫠 https://t.co/qsyGGg670B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 434,
+          "like_count": 736,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2208
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T23:30:06.000Z",
+        "description": "潤🇯🇵國中生 彼氏 @Kawhkmoe 彼女 @honxine8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "Kawhkmoe"
+              },
+              {
+                "end": 35,
+                "start": 23,
+                "username": "honxine8964"
+              }
+            ]
+          }
+        },
+        "id": "1644482642631602178",
+        "name": "翠々砂💮",
+        "pinned_tweet_id": "1897255888840483105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049486289419005952/y_mqktO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 1086,
+          "like_count": 51392,
+          "listed_count": 7,
+          "media_count": 674,
+          "tweet_count": 7963
+        },
+        "username": "xibaomi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062814318010527864",
+    "created_at": "2026-06-05T08:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062814943330902387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1211485046680350720",
+          "start": 0,
+          "username": "kabadjafode1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062814943330902387",
+    "in_reply_to_user_id": "1211485046680350720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062814318010527864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kabadjafode1 好安逸啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_2062814244312428544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062814244312428544/img/KYagqcSUSL3UYNmz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062814244312428544/vid/avc1/320x568/wtQMukzjFQve_WAT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062814244312428544/vid/avc1/480x852/O_M6r8UqZqa-KCv5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062814244312428544/vid/avc1/720x1280/QhHXlVB0azyA8s3D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062814244312428544/pl/_usgCoeq0k-R6Mz2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062814318010527864",
+        "created_at": "2026-06-05T08:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062814943330902387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1211485046680350720",
+              "start": 0,
+              "username": "kabadjafode1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814943330902387",
+        "in_reply_to_user_id": "1211485046680350720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062814318010527864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kabadjafode1 好安逸啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062814244312428544"
+          ]
+        },
+        "author_id": "1211485046680350720",
+        "conversation_id": "2062814318010527864",
+        "created_at": "2026-06-05T08:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062814318010527864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPO8zhN2w4",
+              "end": 27,
+              "expanded_url": "https://x.com/kabadjafode1/status/2062814318010527864/video/1",
+              "media_key": "13_2062814244312428544",
+              "start": 4,
+              "url": "https://t.co/NPO8zhN2w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814318010527864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好惬意 https://t.co/NPO8zhN2w4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 424,
+          "like_count": 732,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2153
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-30T03:12:12.000Z",
+        "description": "我是小叶 08年 坐标南京 接江浙沪爸爸活🚪52 188🚪288🚪520 🚪1314只回复口 妹妹：@mioqaq5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "mioqaq5"
+              }
+            ]
+          }
+        },
+        "id": "1211485046680350720",
+        "name": "言叶6",
+        "pinned_tweet_id": "2056438586594267180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040701386036559872/FnIIwp1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 158,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 307
+        },
+        "username": "kabadjafode1",
+        "verified": false
+      }
+    ]
+  }
+}

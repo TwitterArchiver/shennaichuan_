@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083019345098346883",
+    "created_at": "2026-07-31T02:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083019345098346883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083019345098346883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝你想象你是个长发男，我是你的对象，然后我们每天穿着pdd买的聚酯纤维小众不规则亚比套装带着几块钱一大堆的五金首饰，带着有线耳机装忧郁，买瓶魔爪买包中南海手牵手一起听小众地下udg音乐，我们这辈子幸福就完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083019345098346883",
+        "created_at": "2026-07-31T02:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083019345098346883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083019345098346883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝你想象你是个长发男，我是你的对象，然后我们每天穿着pdd买的聚酯纤维小众不规则亚比套装带着几块钱一大堆的五金首饰，带着有线耳机装忧郁，买瓶魔爪买包中南海手牵手一起听小众地下udg音乐，我们这辈子幸福就完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 655,
+          "like_count": 962,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066084370956574782",
+    "created_at": "2026-06-14T14:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066169781833839000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066169781833839000",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066084370956574782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 我滴妈万箭穿心啊！希望你开心一点亲兄弟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066084370956574782].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066084370956574782",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066084370956574782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066084370956574782",
+        "created_at": "2026-06-14T14:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066169781833839000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066169781833839000",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066084370956574782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 我滴妈万箭穿心啊！希望你开心一点亲兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 490,
+          "like_count": 765,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 2375
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "窝囊生活，屌丝人生@ddlrsgt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "ddlrsgt"
+              }
+            ]
+          }
+        },
+        "id": "1850053428711718912",
+        "name": "DDLking👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030323769542377472/wPa2l1e0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 301,
+          "like_count": 6872,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 2185
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

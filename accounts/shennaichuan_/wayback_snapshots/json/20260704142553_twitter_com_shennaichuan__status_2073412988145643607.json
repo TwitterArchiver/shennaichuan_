@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073380327909630289",
+    "created_at": "2026-07-04T14:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073412988145643607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        },
+        {
+          "end": 22,
+          "id": "1826129497714040832",
+          "start": 12,
+          "username": "CREZAN_GA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073412988145643607",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073404169034080442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 @CREZAN_GA 他素苏北人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073380327909630289",
+        "created_at": "2026-07-04T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073412988145643607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 22,
+              "id": "1826129497714040832",
+              "start": 12,
+              "username": "CREZAN_GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073412988145643607",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073404169034080442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 @CREZAN_GA 他素苏北人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "2073380327909630289",
+        "created_at": "2026-07-04T13:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073404169034080442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 25,
+              "id": "1826129497714040832",
+              "start": 15,
+              "username": "CREZAN_GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073404169034080442",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073380874222211553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @CREZAN_GA 苏北是山东的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 564,
+          "like_count": 818,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@L0OKMe3 此账号看心情：@BadFoxGod_ 纯粹的碎碎念：@die11037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "L0OKMe3"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "BadFoxGod_"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "die11037"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "2072328134293418337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067954130652442624/zpxDRoVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 260,
+          "like_count": 2163,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 4341
+        },
+        "url": "",
+        "username": "qhqq114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T05:29:47.000Z",
+        "description": "二代目@Piannibiedangzhen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 3,
+                "username": "Piannibiedangzhen666"
+              }
+            ]
+          }
+        },
+        "id": "1826129497714040832",
+        "location": "amrica",
+        "name": "輹辻アイ凩祏CRZ💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032866042591195138/prdYEoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 319,
+          "like_count": 8526,
+          "listed_count": 1,
+          "media_count": 1077,
+          "tweet_count": 5648
+        },
+        "url": "",
+        "username": "CREZAN_GA",
+        "verified": false
+      }
+    ]
+  }
+}

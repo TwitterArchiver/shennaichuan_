@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078291157805899776"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078291197500780557",
+    "created_at": "2026-07-18T01:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078291197500780557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/etoE8Q1aDz",
+          "end": 27,
+          "expanded_url": "https://x.com/shennaichuan_/status/2078291197500780557/photo/1",
+          "media_key": "3_2078291157805899776",
+          "start": 4,
+          "url": "https://t.co/etoE8Q1aDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078291197500780557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁房间 https://t.co/etoE8Q1aDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2078291157805899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeSy_jbIAAWaL-.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078291157805899776"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078291197500780557",
+        "created_at": "2026-07-18T01:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078291197500780557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etoE8Q1aDz",
+              "end": 27,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078291197500780557/photo/1",
+              "media_key": "3_2078291157805899776",
+              "start": 4,
+              "url": "https://t.co/etoE8Q1aDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078291197500780557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁房间 https://t.co/etoE8Q1aDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 592,
+          "like_count": 842,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 3182
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

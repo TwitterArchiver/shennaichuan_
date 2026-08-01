@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073483692211843497",
+    "created_at": "2026-07-04T19:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073483692211843497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073483692211843497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道到底是啥属性了，喜欢被拿鸡巴扇脸扇逼，也喜欢骑另一半身上操他，喜欢被抱头深喉，也喜欢穿白丝踩他鸡巴，让他给自己舔逼吃脚，喜欢被爆操要射的时候狠狠扶住我的腰内射，也喜欢他跪我脚边接我的淫水。。。实际上都只是想象而已，至今还是个没办法跨出那一步的处。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073483692211843497",
+        "created_at": "2026-07-04T19:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073483692211843497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073483692211843497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道到底是啥属性了，喜欢被拿鸡巴扇脸扇逼，也喜欢骑另一半身上操他，喜欢被抱头深喉，也喜欢穿白丝踩他鸡巴，让他给自己舔逼吃脚，喜欢被爆操要射的时候狠狠扶住我的腰内射，也喜欢他跪我脚边接我的淫水。。。实际上都只是想象而已，至今还是个没办法跨出那一步的处。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 568,
+          "like_count": 819,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

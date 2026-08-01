@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066102763902451923",
+    "created_at": "2026-06-19T19:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068057403464220892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632943664497324034",
+          "start": 0,
+          "username": "WDAFZ001"
+        },
+        {
+          "end": 26,
+          "id": "1868205822511288320",
+          "start": 10,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068057403464220892",
+    "in_reply_to_user_id": "1632943664497324034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066107061587566884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WDAFZ001 @vicoOci_Olvidar 不尬不尬幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066102763902451923",
+        "created_at": "2026-06-19T19:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068057403464220892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632943664497324034",
+              "start": 0,
+              "username": "WDAFZ001"
+            },
+            {
+              "end": 26,
+              "id": "1868205822511288320",
+              "start": 10,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068057403464220892",
+        "in_reply_to_user_id": "1632943664497324034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066107061587566884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WDAFZ001 @vicoOci_Olvidar 不尬不尬幽默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632943664497324034",
+        "conversation_id": "2066102763902451923",
+        "created_at": "2026-06-14T10:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066107061587566884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066107061587566884",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102763902451923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 姐你的頭髮快跟我一樣長了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "￴\n￴互关找我聊天\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4177,
+          "following_count": 526,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2526
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:18:28.000Z",
+        "description": "一般路过巧克力🍫，心脏应为幸福跳动！            \n\n me(눈‸눈)@IseriNina1\n@Andechs_\nAono🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "IseriNina1"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Andechs_"
+              }
+            ]
+          }
+        },
+        "id": "1632943664497324034",
+        "location": "東德老英雄史塔西巧克力.專圖反對巧克力黨的",
+        "name": "ℬ𝒶𝓉𝑒𝓁 𝓋𝑜𝓃 𝒜𝓃𝒹𝑒𝒸𝒽𝓈",
+        "pinned_tweet_id": "2067267147550839266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067280253127659520/VR0NvLNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1050,
+          "like_count": 11518,
+          "listed_count": 8,
+          "media_count": 3371,
+          "tweet_count": 11818
+        },
+        "url": "",
+        "username": "WDAFZ001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "当我感到最幸福时我会把五颗星星都涂满★ ★ ★  ☆ ☆ ｜老婆❤️@D_D_ovo_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "胃口呕呲呲呲呲！！",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 394,
+          "like_count": 24754,
+          "listed_count": 19,
+          "media_count": 1383,
+          "tweet_count": 17525
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

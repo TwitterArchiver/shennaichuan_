@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067580677923672434",
+    "created_at": "2026-06-18T13:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067605886068236327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067605886068236327",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067580677923672434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 尬杂种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067580656734109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGFpx0bAAA_pWc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067580677923672434",
+        "created_at": "2026-06-18T13:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067605886068236327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067605886068236327",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067580677923672434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 尬杂种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067580656734109696"
+          ]
+        },
+        "author_id": "1839166397399838724",
+        "conversation_id": "2067580677923672434",
+        "created_at": "2026-06-18T12:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067580677923672434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0z9pKwDIAD",
+              "end": 29,
+              "expanded_url": "https://x.com/lngdenngnn24987/status/2067580677923672434/photo/1",
+              "media_key": "3_2067580656734109696",
+              "start": 6,
+              "url": "https://t.co/0z9pKwDIAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580677923672434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 235,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是顺直男 https://t.co/0z9pKwDIAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n互关扩列友好tut",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 519,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2491
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "互关我喜欢你们 欢迎私联\n我不理你是因为你智力低下",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 472,
+          "like_count": 98390,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 12045
+        },
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

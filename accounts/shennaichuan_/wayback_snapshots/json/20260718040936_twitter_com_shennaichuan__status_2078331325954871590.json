@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078330349889917157",
+    "created_at": "2026-07-18T04:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078331325954871590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007060747910795264",
+          "start": 0,
+          "username": "Y01ukawa_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078331325954871590",
+    "in_reply_to_user_id": "2007060747910795264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078330851054772516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y01ukawa_Mi0 沙河先生在金融市场用3天时间从50元子打到1200块，睡觉作息时间加起来总共不超过8小时，每天通宵研究加密货币（括号：08天才交易员\n​\n和我一样的小镇青年一定要在​17岁的年龄段找到属于自己的收入，这一份工作的上限决定了你目前的社会化程度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078330349889917157",
+        "created_at": "2026-07-18T04:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078331325954871590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007060747910795264",
+              "start": 0,
+              "username": "Y01ukawa_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078331325954871590",
+        "in_reply_to_user_id": "2007060747910795264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078330851054772516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y01ukawa_Mi0 沙河先生在金融市场用3天时间从50元子打到1200块，睡觉作息时间加起来总共不超过8小时，每天通宵研究加密货币（括号：08天才交易员\n​\n和我一样的小镇青年一定要在​17岁的年龄段找到属于自己的收入，这一份工作的上限决定了你目前的社会化程度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007060747910795264",
+        "conversation_id": "2078330349889917157",
+        "created_at": "2026-07-18T04:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078330851054772516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078330851054772516",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078330349889917157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 无人在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 593,
+          "like_count": 843,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3204
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T12:06:10.000Z",
+        "description": "1971年，卡辛斯基在辞去教职，并在朗伯德的老家住了两年后前往蒙大拿州隐居。他在蒙大拿州的林肯建了一座小木屋，过上没水没电且开销小的简单生活——他四处打零工，但主要是受到其家人的经济援助。卡辛斯基原本的目标是能够自给自足的生活",
+        "id": "2007060747910795264",
+        "name": "澪澪澪澪澪澪澪澪澪澪",
+        "pinned_tweet_id": "2071276396849295683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008194766023041024/lejrrQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 21,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "Y01ukawa_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

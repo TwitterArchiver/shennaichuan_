@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078999207420236070",
+    "created_at": "2026-07-20T02:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079032056894701796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888664824089067520",
+          "start": 0,
+          "username": "wohaoxiangsiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079032056894701796",
+    "in_reply_to_user_id": "1888664824089067520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079007456781382039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaoxiangsiya 精选评论：那咋了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079007456781382039].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079007456781382039",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079007456781382039"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078999207420236070",
+        "created_at": "2026-07-20T02:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079032056894701796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888664824089067520",
+              "start": 0,
+              "username": "wohaoxiangsiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079032056894701796",
+        "in_reply_to_user_id": "1888664824089067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079007456781382039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaoxiangsiya 精选评论：那咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 620,
+          "like_count": 858,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3356
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "皮上是@Sabrina8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Sabrina8964"
+              }
+            ]
+          }
+        },
+        "id": "1888664824089067520",
+        "location": "海辺の葬列",
+        "name": "灵与肉",
+        "pinned_tweet_id": "2061485490004750741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078470550188650496/2aTToMa5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 474,
+          "like_count": 36128,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 8366
+        },
+        "url": "",
+        "username": "wohaoxiangsiya",
+        "verified": false
+      }
+    ]
+  }
+}

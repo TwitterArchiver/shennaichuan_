@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082355936644243456"
+      ],
+      "media_source_tweet_id": [
+        "2082355946395984309"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082386442987385026",
+    "created_at": "2026-07-29T08:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082386442987385026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2082080789119016961",
+          "start": 3,
+          "username": "hoshinofuji___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIYcd7ADkS",
+          "end": 99,
+          "expanded_url": "https://x.com/hoshinofuji___/status/2082355946395984309/photo/1",
+          "media_key": "3_2082355936644243456",
+          "start": 76,
+          "url": "https://t.co/lIYcd7ADkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082386442987385026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082355946395984309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofuji___: 我真傻，真的\n我单知道人会自杀，却不知道人死后会复生\n\n果然是骗人的......\n\n抱歉大家，被我的情绪感染了 https://t.co/lIYcd7ADkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2082355936644243456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYDsQubIAAjmCg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082355936644243456"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082355946395984309",
+        "created_at": "2026-07-29T06:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082355946395984309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIYcd7ADkS",
+              "end": 79,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082355946395984309/photo/1",
+              "media_key": "3_2082355936644243456",
+              "start": 56,
+              "url": "https://t.co/lIYcd7ADkS"
+            },
+            {
+              "display_url": "x.com/5mRtist/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/5mRtist/status/2082327418350838139",
+              "start": 80,
+              "url": "https://t.co/T6rbOSjxXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082355946395984309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1776,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327418350838139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真傻，真的\n我单知道人会自杀，却不知道人死后会复生\n\n果然是骗人的......\n\n抱歉大家，被我的情绪感染了 https://t.co/lIYcd7ADkS https://t.co/T6rbOSjxXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082355936644243456"
+          ],
+          "media_source_tweet_id": [
+            "2082355946395984309"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082386442987385026",
+        "created_at": "2026-07-29T08:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082386442987385026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2082080789119016961",
+              "start": 3,
+              "username": "hoshinofuji___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIYcd7ADkS",
+              "end": 99,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082355946395984309/photo/1",
+              "media_key": "3_2082355936644243456",
+              "start": 76,
+              "url": "https://t.co/lIYcd7ADkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082386442987385026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082355946395984309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofuji___: 我真傻，真的\n我单知道人会自杀，却不知道人死后会复生\n\n果然是骗人的......\n\n抱歉大家，被我的情绪感染了 https://t.co/lIYcd7ADkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 636,
+          "like_count": 923,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3492
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ（reborn）",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 308,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

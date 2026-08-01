@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067605277281787939",
+    "created_at": "2026-06-18T13:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067605277281787939"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067605277281787939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨性别和抑郁症 双向情感障碍 躯体化 焦虑症这类精神疾病高度绑定，你要不去说抑郁症圈子乱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067605277281787939",
+        "created_at": "2026-06-18T13:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067605277281787939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067605277281787939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别和抑郁症 双向情感障碍 躯体化 焦虑症这类精神疾病高度绑定，你要不去说抑郁症圈子乱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n互关扩列友好tut",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 519,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 2488
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

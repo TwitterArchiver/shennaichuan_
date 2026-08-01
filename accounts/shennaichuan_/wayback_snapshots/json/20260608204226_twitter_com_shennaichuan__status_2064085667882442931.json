@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063865903226433818",
+    "created_at": "2026-06-08T20:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064085667882442931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 26,
+          "id": "1820843841190256640",
+          "start": 14,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064085667882442931",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063865903226433818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ @kirakira5th"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2063865883513262080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRTFhLbEAAXLXF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2063865883479728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRTFhDbYAAYPmI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063865903226433818",
+        "created_at": "2026-06-08T20:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064085667882442931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 26,
+              "id": "1820843841190256640",
+              "start": 14,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064085667882442931",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063865903226433818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ @kirakira5th"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063865883513262080",
+            "3_2063865883479728128"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2063865903226433818",
+        "created_at": "2026-06-08T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063865903226433818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDAqoJ5lxF",
+              "end": 41,
+              "expanded_url": "https://x.com/huahuojiang_/status/2063865903226433818/photo/1",
+              "media_key": "3_2063865883513262080",
+              "start": 18,
+              "url": "https://t.co/CDAqoJ5lxF"
+            },
+            {
+              "display_url": "pic.x.com/CDAqoJ5lxF",
+              "end": 41,
+              "expanded_url": "https://x.com/huahuojiang_/status/2063865903226433818/photo/1",
+              "media_key": "3_2063865883479728128",
+              "start": 18,
+              "url": "https://t.co/CDAqoJ5lxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063865903226433818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 974,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要反思過去的自己為什麼會關注他😰 https://t.co/CDAqoJ5lxF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 450,
+          "like_count": 738,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 2234
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2039014033718993306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7084,
+          "following_count": 3593,
+          "like_count": 102599,
+          "listed_count": 15,
+          "media_count": 8214,
+          "tweet_count": 97806
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "纯良萌萌人",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "哈基夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 825,
+          "like_count": 4986,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1820
+        },
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

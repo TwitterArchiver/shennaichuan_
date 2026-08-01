@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068907398283362801",
+    "created_at": "2026-06-22T04:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068912312841621822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889047736026312704",
+          "start": 0,
+          "username": "jdnbo114350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068912312841621822",
+    "in_reply_to_user_id": "1889047736026312704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068907398283362801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnbo114350 举报试试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068907384140136448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY8TejbAAAwlBw.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068907398283362801",
+        "created_at": "2026-06-22T04:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068912312841621822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889047736026312704",
+              "start": 0,
+              "username": "jdnbo114350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068912312841621822",
+        "in_reply_to_user_id": "1889047736026312704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068907398283362801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnbo114350 举报试试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068907384140136448"
+          ]
+        },
+        "author_id": "1889047736026312704",
+        "conversation_id": "2068907398283362801",
+        "created_at": "2026-06-22T04:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068907398283362801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nedc7tF0Cl",
+              "end": 30,
+              "expanded_url": "https://x.com/jdnbo114350/status/2068907398283362801/photo/1",
+              "media_key": "3_2068907384140136448",
+              "start": 7,
+              "url": "https://t.co/Nedc7tF0Cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068907398283362801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好无奈呀！ https://t.co/Nedc7tF0Cl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4550,
+          "following_count": 536,
+          "like_count": 794,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 2641
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T20:24:25.000Z",
+        "description": "在这里发点碎碎念",
+        "id": "1889047736026312704",
+        "name": "鸡蛋包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906061538957398016/kgiOA9OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 69,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "jdnbo114350",
+        "verified": false
+      }
+    ]
+  }
+}

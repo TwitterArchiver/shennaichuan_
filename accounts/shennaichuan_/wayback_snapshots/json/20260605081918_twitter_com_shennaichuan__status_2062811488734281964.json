@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062574804675547318",
+    "created_at": "2026-06-05T08:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062811488734281964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852838676910522369",
+          "start": 0,
+          "username": "27yuxiangrousi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062811488734281964",
+    "in_reply_to_user_id": "1852838676910522369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062574804675547318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@27yuxiangrousi 万箭穿心"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062574804675547318].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062574804675547318",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062574804675547318"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062574804675547318",
+        "created_at": "2026-06-05T08:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062811488734281964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852838676910522369",
+              "start": 0,
+              "username": "27yuxiangrousi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062811488734281964",
+        "in_reply_to_user_id": "1852838676910522369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062574804675547318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@27yuxiangrousi 万箭穿心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 422,
+          "like_count": 728,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 2145
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T22:22:31.000Z",
+        "description": "本号内容不许外漏/记仇/不想主动惹麻烦",
+        "id": "1852838676910522369",
+        "location": "提瓦特大陆",
+        "name": "起床玩饥荒",
+        "pinned_tweet_id": "2035216869305851932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027235061725319168/MGiSnRPn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 790,
+          "like_count": 169218,
+          "listed_count": 2,
+          "media_count": 1246,
+          "tweet_count": 17530
+        },
+        "username": "27yuxiangrousi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067939416992370908",
+    "created_at": "2026-06-19T19:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068056806786801783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068056806786801783",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067939416992370908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 幽默不尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067939416992370908",
+        "created_at": "2026-06-19T19:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068056806786801783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068056806786801783",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067939416992370908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 幽默不尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2067939416992370908",
+        "created_at": "2026-06-19T11:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067939416992370908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiyux2021/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/weiyux2021/status/2067845312727630307",
+              "start": 9,
+              "url": "https://t.co/G3Ycsp3j7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067939416992370908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067845312727630307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "供服，别逗我笑😁 https://t.co/G3Ycsp3j7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "￴\n￴互关找我聊天\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 525,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2525
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "pinned_tweet_id": "2067937745729990791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1139,
+          "like_count": 241062,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 17006
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

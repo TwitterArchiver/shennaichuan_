@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073105434827972624",
+    "created_at": "2026-07-03T18:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073107844459892894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073107844459892894",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073105434827972624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 又开始o你妈个批了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073105420986769408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUmZYfaYAAUGgS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073105434827972624",
+        "created_at": "2026-07-03T18:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073107844459892894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073107844459892894",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073105434827972624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 又开始o你妈个批了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073105420986769408"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2073105434827972624",
+        "created_at": "2026-07-03T18:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073105434827972624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHBOmzDXu2",
+              "end": 82,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2073105434827972624/photo/1",
+              "media_key": "3_2073105420986769408",
+              "start": 59,
+              "url": "https://t.co/hHBOmzDXu2"
+            },
+            {
+              "display_url": "x.com/lanwujidrink/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/lanwujidrink/status/2072940037000614161",
+              "start": 83,
+              "url": "https://t.co/xrfCvu4AKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073105434827972624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072940037000614161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药效降下去的段时间情绪波动会变得比较大，这款药比较适合精力上的恢复，而不是那种突然爆涨式的提升…适合容易心悸的小伙伴 https://t.co/hHBOmzDXu2 https://t.co/xrfCvu4AKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 555,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜報警不如抱緊dd😋@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿胃口ol一串字母女士",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 410,
+          "like_count": 25117,
+          "listed_count": 18,
+          "media_count": 1462,
+          "tweet_count": 18363
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

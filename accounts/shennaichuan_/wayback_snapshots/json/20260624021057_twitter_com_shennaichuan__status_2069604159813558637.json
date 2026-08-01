@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069360631061557727",
+    "created_at": "2026-06-24T02:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069604159813558637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 32,
+          "id": "1712754288777379840",
+          "start": 16,
+          "username": "sugishita_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069604159813558637",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364933696053270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @sugishita_japan 哪个艾特一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069360631061557727",
+        "created_at": "2026-06-24T02:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069604159813558637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 32,
+              "id": "1712754288777379840",
+              "start": 16,
+              "username": "sugishita_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069604159813558637",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364933696053270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @sugishita_japan 哪个艾特一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2069360631061557727",
+        "created_at": "2026-06-23T10:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364933696053270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712754288777379840",
+              "start": 0,
+              "username": "sugishita_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364933696053270",
+        "in_reply_to_user_id": "1712754288777379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2171,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069360631061557727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugishita_japan 怎么长得像刚姐😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "伟大 坚毅 真诚与爱",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 552,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 2684
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1151,
+          "like_count": 241815,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 17171
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "チャイナ語がわかる日本人。某先生の政策顧問。サナ活。自衛隊の皆さんありがとう！日本列島を強く豊かに！ サブ@sugishita123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "sugishita123"
+              }
+            ]
+          }
+        },
+        "id": "1712754288777379840",
+        "location": "東京 千代田区",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1993331935180210498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 644,
+          "like_count": 21672,
+          "listed_count": 53,
+          "media_count": 2219,
+          "tweet_count": 14540
+        },
+        "url": "",
+        "username": "sugishita_japan",
+        "verified": false
+      }
+    ]
+  }
+}

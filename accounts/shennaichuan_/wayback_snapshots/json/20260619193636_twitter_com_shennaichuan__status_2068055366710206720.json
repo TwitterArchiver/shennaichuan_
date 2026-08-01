@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068055364227272705"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068055366710206720",
+    "created_at": "2026-06-19T19:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068055366710206720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXJJn71EYK",
+          "end": 35,
+          "expanded_url": "https://x.com/shennaichuan_/status/2068055366710206720/photo/1",
+          "media_key": "3_2068055364227272705",
+          "start": 12,
+          "url": "https://t.co/oXJJn71EYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068055366710206720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个怎么火的那么离谱啊 https://t.co/oXJJn71EYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068055364227272705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLM1ZZCbkAEac7-.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068055364227272705"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068055366710206720",
+        "created_at": "2026-06-19T19:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068055366710206720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXJJn71EYK",
+              "end": 35,
+              "expanded_url": "https://x.com/shennaichuan_/status/2068055366710206720/photo/1",
+              "media_key": "3_2068055364227272705",
+              "start": 12,
+              "url": "https://t.co/oXJJn71EYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068055366710206720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个怎么火的那么离谱啊 https://t.co/oXJJn71EYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "￴\n￴互关找我聊天\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 525,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2521
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

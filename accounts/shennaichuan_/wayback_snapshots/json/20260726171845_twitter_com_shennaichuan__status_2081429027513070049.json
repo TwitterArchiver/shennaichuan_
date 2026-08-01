@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081428737535733760",
+        "3_2081428737523150848",
+        "13_2081428737523130369",
+        "3_2081429000006819840"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2081429027513070049",
+    "created_at": "2026-07-26T17:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081429027513070049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzdE7xJjuD",
+          "end": 78,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+          "media_key": "3_2081428737535733760",
+          "start": 55,
+          "url": "https://t.co/GzdE7xJjuD"
+        },
+        {
+          "display_url": "pic.x.com/GzdE7xJjuD",
+          "end": 78,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+          "media_key": "3_2081428737523150848",
+          "start": 55,
+          "url": "https://t.co/GzdE7xJjuD"
+        },
+        {
+          "display_url": "pic.x.com/GzdE7xJjuD",
+          "end": 78,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+          "media_key": "13_2081428737523130369",
+          "start": 55,
+          "url": "https://t.co/GzdE7xJjuD"
+        },
+        {
+          "display_url": "pic.x.com/GzdE7xJjuD",
+          "end": 78,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+          "media_key": "3_2081429000006819840",
+          "start": 55,
+          "url": "https://t.co/GzdE7xJjuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081429027513070049",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 你个死几把狗奴才搁那你麻痹张口就来造谣别人几把花你两万这个时候复合你麻痹啊 https://t.co/GzdE7xJjuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2081428737535733760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK4aK4bcAASUVo.jpg",
+        "width": 1050
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081428737523150848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK4aK1bcAAKWnV.jpg",
+        "width": 1051
+      },
+      {
+        "duration_ms": 50895,
+        "height": 1280,
+        "media_key": "13_2081428737523130369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081428737523130369/img/K4SzSeAVqHZxRhIA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081428737523130369/vid/avc1/320x568/S7qH8zoK894mTRM-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081428737523130369/vid/avc1/480x852/oBDeHnBDwF5Ho21w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081428737523130369/vid/avc1/720x1280/84yEGBarSg5jBgCd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081428737523130369/pl/_Hu4plVbHOs8kJef.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2081429000006819840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK4pcqaYAAXOkO.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081428737535733760",
+            "3_2081428737523150848",
+            "13_2081428737523130369",
+            "3_2081429000006819840"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081429027513070049",
+        "created_at": "2026-07-26T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081429027513070049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzdE7xJjuD",
+              "end": 78,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+              "media_key": "3_2081428737535733760",
+              "start": 55,
+              "url": "https://t.co/GzdE7xJjuD"
+            },
+            {
+              "display_url": "pic.x.com/GzdE7xJjuD",
+              "end": 78,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+              "media_key": "3_2081428737523150848",
+              "start": 55,
+              "url": "https://t.co/GzdE7xJjuD"
+            },
+            {
+              "display_url": "pic.x.com/GzdE7xJjuD",
+              "end": 78,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+              "media_key": "13_2081428737523130369",
+              "start": 55,
+              "url": "https://t.co/GzdE7xJjuD"
+            },
+            {
+              "display_url": "pic.x.com/GzdE7xJjuD",
+              "end": 78,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081429027513070049/video/1",
+              "media_key": "3_2081429000006819840",
+              "start": 55,
+              "url": "https://t.co/GzdE7xJjuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081429027513070049",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 你个死几把狗奴才搁那你麻痹张口就来造谣别人几把花你两万这个时候复合你麻痹啊 https://t.co/GzdE7xJjuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 629,
+          "like_count": 880,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本人串子，帖子很少有真情實感（私下不一定｜所有時間線全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿wkoc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 406,
+          "like_count": 25371,
+          "listed_count": 17,
+          "media_count": 1580,
+          "tweet_count": 19235
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

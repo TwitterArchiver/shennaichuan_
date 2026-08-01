@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074863939473772544"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074863967215006164",
+    "created_at": "2026-07-08T14:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074863967215006164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7c9MWK7GtH",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2074863967215006164/video/1",
+          "media_key": "7_2074863939473772544",
+          "start": 0,
+          "url": "https://t.co/7c9MWK7GtH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074863967215006164",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/7c9MWK7GtH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8984,
+        "height": 1280,
+        "media_key": "7_2074863939473772544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074863939473772544/pu/img/gf2hTgh-653kHoP5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074863939473772544/pu/vid/avc1/320x568/a_sFhL9nJU8nU1qp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074863939473772544/pu/vid/avc1/480x852/MltPEyFDxAXgR2Tn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074863939473772544/pu/vid/avc1/720x1280/68dUNdtwtv7MKfG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074863939473772544/pu/pl/Y0dm2QRdxzgXJHtw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074863939473772544"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074863967215006164",
+        "created_at": "2026-07-08T14:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074863967215006164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7c9MWK7GtH",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2074863967215006164/video/1",
+              "media_key": "7_2074863939473772544",
+              "start": 0,
+              "url": "https://t.co/7c9MWK7GtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074863967215006164",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7c9MWK7GtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 584,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 3139
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066527698315628716",
+    "created_at": "2026-06-15T21:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066633399666876850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066633399666876850",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066527698315628716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 我滴妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2066527679055380480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3H-aSbwAAmd-c.jpg",
+        "width": 1001
+      },
+      {
+        "height": 1774,
+        "media_key": "3_2066527679051173888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3H-aRbkAAbNRi.jpg",
+        "width": 998
+      },
+      {
+        "height": 1788,
+        "media_key": "3_2066527679046963200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3H-aQbUAABMzQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066527698315628716",
+        "created_at": "2026-06-15T21:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066633399666876850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066633399666876850",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066527698315628716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 我滴妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066527679055380480",
+            "3_2066527679051173888",
+            "3_2066527679046963200"
+          ]
+        },
+        "author_id": "1821312171923644416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066527698315628716",
+        "created_at": "2026-06-15T14:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066527698315628716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOjDS4DqFT",
+              "end": 161,
+              "expanded_url": "https://x.com/jagaimo6681/status/2066527698315628716/photo/1",
+              "media_key": "3_2066527679055380480",
+              "start": 138,
+              "url": "https://t.co/kOjDS4DqFT"
+            },
+            {
+              "display_url": "pic.x.com/kOjDS4DqFT",
+              "end": 161,
+              "expanded_url": "https://x.com/jagaimo6681/status/2066527698315628716/photo/1",
+              "media_key": "3_2066527679051173888",
+              "start": 138,
+              "url": "https://t.co/kOjDS4DqFT"
+            },
+            {
+              "display_url": "pic.x.com/kOjDS4DqFT",
+              "end": 161,
+              "expanded_url": "https://x.com/jagaimo6681/status/2066527698315628716/photo/1",
+              "media_key": "3_2066527679046963200",
+              "start": 138,
+              "url": "https://t.co/kOjDS4DqFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066527698315628716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "心平气和讲，这场闹剧什么时候是个头，我不想卷入麻烦和纷争，我讨厌这种感觉。\n\n我不喜欢撒谎，从小到大都不擅长。而且过去被造过谣，造谣的原因仅仅因为那个人讨厌我，我知道这种感觉多痛苦，所以我也不会做这种事。\n\n下图我翻了和他见面那天的，我和朋友的聊天记录，可以看见日期和时间。\n这里可以反驳“见面礼”被说成分开以后送的礼物，还有想搂我腰被我躲开。\n我分享欲强，时刻分享给朋友，如果有人觉得这都是编的，我只能说真没必要，我没必要这么做，否则想说点什么我早就说了，可事实上，这件事被摆大家面前都不是我主观意愿。\n\n去年的我刚从那个环境里出来，确实是过去的人生里被保护的太好了，很幼稚，我根本无法想象到一个比我大十多岁的人会有别的想法。\n\n可是我肯定的我没有污蔑谁，没有做伤害谁的事情。我始终没有说过“性骚扰”，因为那时候我第一次遇到这种事，在我个人经验里感觉也没有很严重，所以不能随便扣个帽子，我想只是让我不舒服罢了。\n\n放过我吧，我只觉得好累。我没想主动找谁麻烦，回应的言论只是反驳了，“是她约的我”，和“她诬告我”，我不明白为什么要把我说成这么坏的人。\n\n只要能提供证据的能回答的我都愿意说，也愿意等待报警处理，我不想当不明不白的坏人，什么造谣诬告的。我只想远离，可是为什么还没完。\n\n说完这些，我就物理逃避一阵子了。我只想离你们远远的。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1367,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "心平气和讲，这场闹剧什么时候是个头，我不想卷入麻烦和纷争，我讨厌这种感觉。\n\n我不喜欢撒谎，从小到大都不擅长。而且过去被造过谣，造谣的原因仅仅因为那个人讨厌我，我知道这种感觉多痛苦，所以我也不会做这种事。\n\n下图我翻了和他见面那天的，我和朋友的聊天记录，可以看见日期和时间。 https://t.co/kOjDS4DqFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 501,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2432
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "我只想离你们远远的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "location": "東京は愛せど何もない",
+        "name": "にゃがいも",
+        "pinned_tweet_id": "2059913557706502251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056609085261590528/PSEeSYHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 709,
+          "like_count": 48950,
+          "listed_count": 7,
+          "media_count": 732,
+          "tweet_count": 14304
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

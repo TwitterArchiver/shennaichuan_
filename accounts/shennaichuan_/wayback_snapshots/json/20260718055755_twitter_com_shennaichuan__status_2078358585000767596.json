@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078331504158253357",
+    "created_at": "2026-07-18T05:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078358585000767596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007060747910795264",
+          "start": 0,
+          "username": "Y01ukawa_Mi0"
+        },
+        {
+          "end": 28,
+          "id": "1699268392128258048",
+          "start": 14,
+          "username": "lanlanlan1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078358585000767596",
+    "in_reply_to_user_id": "2007060747910795264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078336476610490733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y01ukawa_Mi0 @lanlanlan1112 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078331504158253357",
+        "created_at": "2026-07-18T05:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078358585000767596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007060747910795264",
+              "start": 0,
+              "username": "Y01ukawa_Mi0"
+            },
+            {
+              "end": 28,
+              "id": "1699268392128258048",
+              "start": 14,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078358585000767596",
+        "in_reply_to_user_id": "2007060747910795264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078336476610490733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y01ukawa_Mi0 @lanlanlan1112 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007060747910795264",
+        "conversation_id": "2078331504158253357",
+        "created_at": "2026-07-18T04:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078336476610490733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078336476610490733",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078331504158253357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 其实我抽烟是为了把地球人都毒死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 601,
+          "like_count": 847,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3221
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T12:06:10.000Z",
+        "description": "1971年，卡辛斯基在辞去教职，并在朗伯德的老家住了两年后前往蒙大拿州隐居。他在蒙大拿州的林肯建了一座小木屋，过上没水没电且开销小的简单生活——他四处打零工，但主要是受到其家人的经济援助。卡辛斯基原本的目标是能够自给自足的生活",
+        "id": "2007060747910795264",
+        "name": "澪澪澪澪澪澪澪澪澪澪",
+        "pinned_tweet_id": "2071276396849295683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008194766023041024/lejrrQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 21,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "Y01ukawa_Mi0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019467401142931456/Hya2REOH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 486,
+          "like_count": 28342,
+          "listed_count": 1,
+          "media_count": 838,
+          "tweet_count": 15416
+        },
+        "url": "",
+        "username": "lanlanlan1112",
+        "verified": false
+      }
+    ]
+  }
+}

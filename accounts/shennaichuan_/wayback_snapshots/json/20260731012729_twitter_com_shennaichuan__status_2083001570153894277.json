@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082992496762827148",
+    "created_at": "2026-07-31T01:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083001570153894277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        },
+        {
+          "end": 21,
+          "id": "1590534095653650432",
+          "start": 8,
+          "username": "drowning_and"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083001570153894277",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083000942023307635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 @drowning_and 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082992496762827148",
+        "created_at": "2026-07-31T01:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083001570153894277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            },
+            {
+              "end": 21,
+              "id": "1590534095653650432",
+              "start": 8,
+              "username": "drowning_and"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083001570153894277",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083000942023307635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 @drowning_and 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "conversation_id": "2082992496762827148",
+        "created_at": "2026-07-31T01:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083000942023307635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 28,
+              "id": "1590534095653650432",
+              "start": 15,
+              "username": "drowning_and"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083000942023307635",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083000510941212809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @drowning_and 有什么🙀\n楼下便利店应该已经开了自己去买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 655,
+          "like_count": 959,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3539
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "在加州，是explorer，coser和Les，有时做点平面设计。\n研究生物医学/病毒，Candidacy↑。\n会想和每一个看到这里并决定follow的推友交朋友。\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n私信话题：致癌EB 不许涂墙上😾\n Gmail: kaltciit@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "Los Angeles, US-WEST-01 ",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "2081190239117435321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 2584,
+          "like_count": 5916,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 4950
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "im kaz 我胡言乱语 My daily scream 中文 | english |日本語",
+        "id": "1590534095653650432",
+        "name": "➖羊·目➖",
+        "pinned_tweet_id": "2022242682693996782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066998125026570240/pjXoBG8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 534,
+          "like_count": 44822,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2164
+        },
+        "url": "",
+        "username": "drowning_and",
+        "verified": false
+      }
+    ]
+  }
+}

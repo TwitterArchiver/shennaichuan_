@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064002971730604427",
+    "created_at": "2026-06-08T21:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T22:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064092066725175358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894266439810650112",
+          "start": 0,
+          "username": "LJGR8P7Goe26819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064092066725175358",
+    "in_reply_to_user_id": "1894266439810650112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064002971730604427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LJGR8P7Goe26819 有点高能儿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2064002969021153280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTPw8fbgAABXR1.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064002971730604427",
+        "created_at": "2026-06-08T21:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064092066725175358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894266439810650112",
+              "start": 0,
+              "username": "LJGR8P7Goe26819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064092066725175358",
+        "in_reply_to_user_id": "1894266439810650112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064002971730604427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LJGR8P7Goe26819 有点高能儿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064002969021153280"
+          ]
+        },
+        "author_id": "1894266439810650112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064002971730604427",
+        "created_at": "2026-06-08T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064002971730604427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yiTDue2jy",
+              "end": 31,
+              "expanded_url": "https://x.com/LJGR8P7Goe26819/status/2064002971730604427/photo/1",
+              "media_key": "3_2064002969021153280",
+              "start": 8,
+              "url": "https://t.co/1yiTDue2jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064002971730604427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去AG有机会吗 https://t.co/1yiTDue2jy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 452,
+          "like_count": 739,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 2238
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T06:01:41.000Z",
+        "description": "神裡綾華，白鷺公主。神裡流（反散兵）\n（性别是全陶瓷自动冲水马桶）",
+        "id": "1894266439810650112",
+        "name": "香槟问题",
+        "pinned_tweet_id": "2056443339466256386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063926490644033536/ZzTm_7Wr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 3219,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 1158
+        },
+        "username": "LJGR8P7Goe26819",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083418611520262318",
+    "created_at": "2026-08-01T07:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083459018769707049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796845807997792256",
+          "start": 0,
+          "username": "fishoutworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083459018769707049",
+    "in_reply_to_user_id": "1796845807997792256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083457130577989754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishoutworld 你是真寄了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083457130577989754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083457130577989754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083457130577989754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083418611520262318",
+        "created_at": "2026-08-01T07:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083459018769707049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796845807997792256",
+              "start": 0,
+              "username": "fishoutworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083459018769707049",
+        "in_reply_to_user_id": "1796845807997792256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083457130577989754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishoutworld 你是真寄了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 663,
+          "like_count": 984,
+          "listed_count": 3,
+          "media_count": 459,
+          "tweet_count": 3570
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T10:06:50.000Z",
+        "description": "嘎嘎嘎",
+        "id": "1796845807997792256",
+        "location": "过去",
+        "name": "你一生的故事",
+        "pinned_tweet_id": "2068240307691618636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069039086506213376/bt5qU0kV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "fishoutworld",
+        "verified": false
+      }
+    ]
+  }
+}

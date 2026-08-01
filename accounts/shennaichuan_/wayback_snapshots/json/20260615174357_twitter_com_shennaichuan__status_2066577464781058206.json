@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063807185793249577",
+    "created_at": "2026-06-15T17:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066577464781058206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "Hiro8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066577464781058206",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063807185793249577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiro8964 呃🌚真假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063807185793249577",
+        "created_at": "2026-06-15T17:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066577464781058206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066577464781058206",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063807185793249577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 呃🌚真假"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989191439339933696",
+        "conversation_id": "2063807185793249577",
+        "created_at": "2026-06-08T02:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063807185793249577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renchan_vmv/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/renchan_vmv/status/2063527318065406147",
+              "start": 8,
+              "url": "https://t.co/RDKgpysbLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063807185793249577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063527318065406147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有恋残癖，，， https://t.co/RDKgpysbLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 495,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 2406
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "低质男（？）coser/别盒我",
+        "id": "1989191439339933696",
+        "name": "Hiro",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066116758373793793/BIAgwpoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 273,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2138
+        },
+        "username": "Hiro8964",
+        "verified": false
+      }
+    ]
+  }
+}

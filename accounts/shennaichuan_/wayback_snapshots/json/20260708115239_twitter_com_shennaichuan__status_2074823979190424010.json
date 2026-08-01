@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074801725744222224",
+    "created_at": "2026-07-08T11:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074823979190424010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888664824089067520",
+          "start": 0,
+          "username": "wohaoxiangsiya"
+        },
+        {
+          "end": 22,
+          "id": "1566739868688199680",
+          "start": 16,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074823979190424010",
+    "in_reply_to_user_id": "1888664824089067520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074810855049527680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaoxiangsiya @wabnp 搁哪耍的对象我咋遇不到"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074810855049527680].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074810855049527680",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074810855049527680"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074801725744222224",
+        "created_at": "2026-07-08T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074823979190424010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888664824089067520",
+              "start": 0,
+              "username": "wohaoxiangsiya"
+            },
+            {
+              "end": 22,
+              "id": "1566739868688199680",
+              "start": 16,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823979190424010",
+        "in_reply_to_user_id": "1888664824089067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074810855049527680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaoxiangsiya @wabnp 搁哪耍的对象我咋遇不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4800,
+          "following_count": 587,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3129
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "每天都是新的练习，用今天换走昨日失去的",
+        "id": "1888664824089067520",
+        "location": "海辺の葬列",
+        "name": "灵与肉",
+        "pinned_tweet_id": "2061485490004750741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074666544320364544/M5-Fr3zQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 468,
+          "like_count": 35611,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 8277
+        },
+        "url": "",
+        "username": "wohaoxiangsiya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我想写什么写什么",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072040900591816704/hT4oIZPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 919,
+          "like_count": 262075,
+          "listed_count": 5,
+          "media_count": 669,
+          "tweet_count": 17068
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": true
+      }
+    ]
+  }
+}

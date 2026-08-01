@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2070142081218281647",
+    "created_at": "2026-07-07T12:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074463898934390823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1785307927923884032",
+          "start": 0,
+          "username": "bydmian0721"
+        },
+        {
+          "end": 29,
+          "id": "1702925354132992000",
+          "start": 13,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074463898934390823",
+    "in_reply_to_user_id": "1785307927923884032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070482223363412174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bydmian0721 @remilia_servant 那就好好告个别吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070142081218281647",
+        "created_at": "2026-07-07T12:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074463898934390823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785307927923884032",
+              "start": 0,
+              "username": "bydmian0721"
+            },
+            {
+              "end": 29,
+              "id": "1702925354132992000",
+              "start": 13,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074463898934390823",
+        "in_reply_to_user_id": "1785307927923884032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070482223363412174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bydmian0721 @remilia_servant 那就好好告个别吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785307927923884032",
+        "conversation_id": "2070142081218281647",
+        "created_at": "2026-06-26T12:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070482223363412174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070482223363412174",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070142081218281647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 不知道。大多數都死光了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4782,
+          "following_count": 582,
+          "like_count": 829,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T13:59:26.000Z",
+        "description": "紐約市民，保守派，MTA忠誠用戶，唐人街的死嗎東西，是亞裔死宅，\n小號們@bydmianshao2 \n@bydmian16347 @bydmian8964 blue sky：https://t.co/Xpf1oncHO1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "bydmianshao2"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "bydmian16347"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "bydmian8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bydmia…",
+                "end": 110,
+                "expanded_url": "https://bsky.app/profile/bydmian1145.bsky.social",
+                "start": 87,
+                "url": "https://t.co/Xpf1oncHO1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61551934328766&mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/j3RjravZk7"
+              }
+            ]
+          }
+        },
+        "id": "1785307927923884032",
+        "location": "New York NY ",
+        "name": "✝️面少byd（推友尋回中）R160碾壓狀態🇺🇸🇯🇵🇹🇼✝️",
+        "pinned_tweet_id": "1789087880020676654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073227862841143296/SDiqRMWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 1230,
+          "like_count": 86179,
+          "listed_count": 12,
+          "media_count": 6158,
+          "tweet_count": 24509
+        },
+        "url": "https://t.co/j3RjravZk7",
+        "username": "bydmian0721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "日常翻譯/碎碎念賬號，可能不會很活躍",
+        "id": "1702925354132992000",
+        "location": "天上",
+        "name": "蕾米",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068684524138237952/b9eBPTgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14023,
+          "following_count": 1631,
+          "like_count": 97133,
+          "listed_count": 57,
+          "media_count": 587,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

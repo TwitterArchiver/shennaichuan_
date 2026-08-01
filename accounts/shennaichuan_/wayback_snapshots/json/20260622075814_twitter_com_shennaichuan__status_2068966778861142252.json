@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-22T07:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068966778861142252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981485006984790016",
+          "start": 0,
+          "username": "racismbosv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068966778861142252",
+    "in_reply_to_user_id": "1981485006984790016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067154322270421066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@racismbosv lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-22T07:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068966778861142252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981485006984790016",
+              "start": 0,
+              "username": "racismbosv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068966778861142252",
+        "in_reply_to_user_id": "1981485006984790016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067154322270421066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@racismbosv lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981485006984790016",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T07:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067154322270421066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067154322270421066",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 133595,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979620487069972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ bro what did i just watch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 537,
+          "like_count": 798,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 2657
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T22:18:07.000Z",
+        "description": "z",
+        "id": "1981485006984790016",
+        "name": "racism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055102983956754432/0byCCCSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 232,
+          "like_count": 14798,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "racismbosv",
+        "verified": false
+      }
+    ]
+  }
+}

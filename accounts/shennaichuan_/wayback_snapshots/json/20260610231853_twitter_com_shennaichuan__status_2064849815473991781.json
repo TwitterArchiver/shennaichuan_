@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064849804652613632"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064849815473991781",
+    "created_at": "2026-06-10T23:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064849815473991781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nXqZrF2Ho",
+          "end": 29,
+          "expanded_url": "https://x.com/shennaichuan_/status/2064849815473991781/photo/1",
+          "media_key": "3_2064849804652613632",
+          "start": 6,
+          "url": "https://t.co/0nXqZrF2Ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064849815473991781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下一站职校 https://t.co/0nXqZrF2Ho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2064849804652613632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfR9RDakAAWgkZ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064849804652613632"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064849815473991781",
+        "created_at": "2026-06-10T23:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064849815473991781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nXqZrF2Ho",
+              "end": 29,
+              "expanded_url": "https://x.com/shennaichuan_/status/2064849815473991781/photo/1",
+              "media_key": "3_2064849804652613632",
+              "start": 6,
+              "url": "https://t.co/0nXqZrF2Ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064849815473991781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下一站职校 https://t.co/0nXqZrF2Ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 469,
+          "like_count": 757,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 2323
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

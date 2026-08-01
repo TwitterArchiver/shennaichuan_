@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064629739592315125",
+    "created_at": "2026-06-10T08:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064629739592315125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GoldyRiSA/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/GoldyRiSA/status/2063724398587039818",
+          "start": 15,
+          "url": "https://t.co/dGpoYjFbWq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629739592315125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063724398587039818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有推油网区评价一下这个番 https://t.co/dGpoYjFbWq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2063724395751784449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPSZ2MXwAEFOpV.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064629739592315125",
+        "created_at": "2026-06-10T08:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064629739592315125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GoldyRiSA/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/GoldyRiSA/status/2063724398587039818",
+              "start": 15,
+              "url": "https://t.co/dGpoYjFbWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629739592315125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063724398587039818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有推油网区评价一下这个番 https://t.co/dGpoYjFbWq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063724395751784449"
+          ]
+        },
+        "author_id": "729455538149326849",
+        "conversation_id": "2063724398587039818",
+        "created_at": "2026-06-07T20:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063724398587039818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQiUO5LNo8",
+              "end": 63,
+              "expanded_url": "https://x.com/GoldyRiSA/status/2063724398587039818/photo/1",
+              "media_key": "3_2063724395751784449",
+              "start": 40,
+              "url": "https://t.co/DQiUO5LNo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063724398587039818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 474,
+          "impression_count": 58567,
+          "like_count": 5105,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "Is it really as good as they say it is? https://t.co/DQiUO5LNo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 464,
+          "like_count": 753,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2308
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-08T23:38:47.000Z",
+        "description": "AniXer, Sports & @ToonamiNews follower • 💖🙇🏻‍♀️🍡🇺🇸 • No. 1 Mom • Alternative: @SilvyRiSA • Personal & AniArt reposter • Kotoyama fan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "ToonamiNews"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "SilvyRiSA"
+              }
+            ]
+          }
+        },
+        "id": "729455538149326849",
+        "location": "Lvl.25",
+        "name": "Goldy-RiSA ☔️🌺",
+        "pinned_tweet_id": "2023276388850282952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031263932095041537/U-86-rfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18131,
+          "following_count": 2410,
+          "like_count": 710168,
+          "listed_count": 85,
+          "media_count": 15338,
+          "tweet_count": 147567
+        },
+        "username": "GoldyRiSA",
+        "verified": false
+      }
+    ]
+  }
+}

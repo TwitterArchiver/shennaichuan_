@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063450627888578560"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063050223346176191",
+    "created_at": "2026-06-07T02:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063450678501240836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "RyuuseiMk1WEAS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpWiep4rEF",
+          "end": 49,
+          "expanded_url": "https://x.com/shennaichuan_/status/2063450678501240836/video/1",
+          "media_key": "13_2063450627888578560",
+          "start": 26,
+          "url": "https://t.co/lpWiep4rEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063450678501240836",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063450337260736875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuseiMk1WEAS 这还有进派派游龙呐 https://t.co/lpWiep4rEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16230,
+        "height": 960,
+        "media_key": "13_2063450627888578560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063450627888578560/img/pffBv6pUNw4LPjJL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063450627888578560/vid/avc1/320x564/1kGcudzgxQgmnoXA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063450627888578560/vid/avc1/480x846/BQYr8ep0qAf4NueJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063450627888578560/vid/avc1/544x960/yjzT6LBTX-tBpsm-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063450627888578560/pl/PmkDZGS4HOUicVdl.m3u8?tag=14"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063450627888578560"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063050223346176191",
+        "created_at": "2026-06-07T02:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063450678501240836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "RyuuseiMk1WEAS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpWiep4rEF",
+              "end": 49,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063450678501240836/video/1",
+              "media_key": "13_2063450627888578560",
+              "start": 26,
+              "url": "https://t.co/lpWiep4rEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063450678501240836",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063450337260736875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuseiMk1WEAS 这还有进派派游龙呐 https://t.co/lpWiep4rEF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986894257194737665",
+        "conversation_id": "2063050223346176191",
+        "created_at": "2026-06-07T02:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063450337260736875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063450337260736875",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063450222995624102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 你是掛壁牢資歷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 434,
+          "like_count": 733,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2202
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "id": "1986894257194737665",
+        "location": "Le monologue du meurtre",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2041355694008402132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043721630887944192/n9dg2haI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 778,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 985
+        },
+        "username": "RyuuseiMk1WEAS",
+        "verified": false
+      }
+    ]
+  }
+}

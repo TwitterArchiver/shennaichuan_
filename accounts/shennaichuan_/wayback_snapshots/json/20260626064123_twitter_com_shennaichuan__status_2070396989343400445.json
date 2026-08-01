@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069793376208114010",
+    "created_at": "2026-06-26T06:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070396989343400445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858907659866349569",
+          "start": 0,
+          "username": "9mR_ctl"
+        },
+        {
+          "end": 24,
+          "id": "2068102745496698880",
+          "start": 9,
+          "username": "prmlobkxalxhue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070396989343400445",
+    "in_reply_to_user_id": "1858907659866349569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070396785735168389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9mR_ctl @prmlobkxalxhue 我滴妈我锁推了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070396785735168389].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070396785735168389",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070396785735168389"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069793376208114010",
+        "created_at": "2026-06-26T06:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070396989343400445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858907659866349569",
+              "start": 0,
+              "username": "9mR_ctl"
+            },
+            {
+              "end": 24,
+              "id": "2068102745496698880",
+              "start": 9,
+              "username": "prmlobkxalxhue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070396989343400445",
+        "in_reply_to_user_id": "1858907659866349569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070396785735168389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9mR_ctl @prmlobkxalxhue 我滴妈我锁推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 546,
+          "like_count": 813,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 2785
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T16:18:29.000Z",
+        "description": "",
+        "id": "1858907659866349569",
+        "name": "9mR ☘︎",
+        "pinned_tweet_id": "1860875322498965901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069108582852034560/aQnm0X0i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 65,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "9mR_ctl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T22:45:59.000Z",
+        "description": "s",
+        "id": "2068102745496698880",
+        "location": "usa",
+        "name": "prmlo bkxal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070380591736827904/qq83F2-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "prmlobkxalxhue",
+        "verified": false
+      }
+    ]
+  }
+}

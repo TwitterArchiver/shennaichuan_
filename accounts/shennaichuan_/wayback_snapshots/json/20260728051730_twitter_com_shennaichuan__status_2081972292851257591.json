@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081972050386980864"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2081972292851257591",
+    "created_at": "2026-07-28T05:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081972292851257591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4TBeM0GUn",
+          "end": 95,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+          "media_key": "3_2081972050386980864",
+          "start": 72,
+          "url": "https://t.co/H4TBeM0GUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081972292851257591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2081972050386980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSmjI-bkAABvXH.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972050386980864"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081972292851257591",
+        "created_at": "2026-07-28T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081972292851257591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4TBeM0GUn",
+              "end": 95,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+              "media_key": "3_2081972050386980864",
+              "start": 72,
+              "url": "https://t.co/H4TBeM0GUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972292851257591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 631,
+          "like_count": 903,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3477
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

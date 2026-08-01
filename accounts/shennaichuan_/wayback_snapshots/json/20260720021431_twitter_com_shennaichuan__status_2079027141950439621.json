@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078753745891147944",
+    "created_at": "2026-07-20T02:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079027141950439621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079027141950439621",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078753745891147944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078753745891147944",
+        "created_at": "2026-07-20T02:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079027141950439621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079027141950439621",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078753745891147944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2078753745891147944",
+        "created_at": "2026-07-19T08:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078753745891147944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cz_yihe/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cz_yihe/status/2078511785641156918",
+              "start": 31,
+              "url": "https://t.co/TUqwQ6olyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078753745891147944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078511785641156918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我高中一同学父母离婚，没人管。家里爷奶养着，他头发真是黄的😿 https://t.co/TUqwQ6olyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 620,
+          "like_count": 858,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3341
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1173,
+          "like_count": 246861,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 18087
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064567473764991140",
+    "created_at": "2026-06-10T05:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064580628927176965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548157400632270848",
+          "start": 0,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064580628927176965",
+    "in_reply_to_user_id": "1548157400632270848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064567473764991140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annayanamisuki 尬活，但是好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29166,
+        "height": 1280,
+        "media_key": "13_2064567397533589504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064567397533589504/img/EcDuaA_zkx4U2rDY.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064567397533589504/vid/avc1/320x578/U_pw63X8g5gHhjWE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064567397533589504/vid/avc1/480x866/CQJAuu2ByNtWc6jK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064567397533589504/vid/avc1/708x1280/6dwY9CXfqpyKIUpd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064567397533589504/pl/2dMneFh2HoAQT9vB.m3u8"
+          }
+        ],
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064567473764991140",
+        "created_at": "2026-06-10T05:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064580628927176965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580628927176965",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064567473764991140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki 尬活，但是好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064567397533589504"
+          ]
+        },
+        "author_id": "1548157400632270848",
+        "conversation_id": "2064567473764991140",
+        "created_at": "2026-06-10T04:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064567473764991140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPfHLjFU7F",
+              "end": 36,
+              "expanded_url": "https://x.com/annayanamisuki/status/2064567473764991140/video/1",
+              "media_key": "13_2064567397533589504",
+              "start": 13,
+              "url": "https://t.co/SPfHLjFU7F"
+            },
+            {
+              "display_url": "x.com/annayanamisuki…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/annayanamisuki/status/2060183267584672199",
+              "start": 37,
+              "url": "https://t.co/cSRdqV1JqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064567473764991140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060183267584672199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "絕贊更新中😑，哇還有聖水 https://t.co/SPfHLjFU7F https://t.co/cSRdqV1JqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 463,
+          "like_count": 751,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2297
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "西雅图绿河学院",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040244858439585792/doyOx84c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 1004,
+          "like_count": 47327,
+          "listed_count": 20,
+          "media_count": 1812,
+          "tweet_count": 9198
+        },
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

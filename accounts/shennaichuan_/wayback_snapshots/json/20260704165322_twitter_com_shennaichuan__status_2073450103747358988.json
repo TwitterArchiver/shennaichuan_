@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073445246214742487",
+    "created_at": "2026-07-04T16:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073450103747358988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551598616375988224",
+          "start": 0,
+          "username": "FMCDDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073450103747358988",
+    "in_reply_to_user_id": "1551598616375988224",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073445246214742487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FMCDDD whxmn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073445246214742487",
+        "created_at": "2026-07-04T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073450103747358988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551598616375988224",
+              "start": 0,
+              "username": "FMCDDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073450103747358988",
+        "in_reply_to_user_id": "1551598616375988224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073445246214742487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FMCDDD whxmn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551598616375988224",
+        "conversation_id": "2073445246214742487",
+        "created_at": "2026-07-04T16:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073445246214742487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073445246214742487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 567,
+          "like_count": 819,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 2994
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T16:02:04.000Z",
+        "description": "一起发会呆吧 ㄅㄣㄉㄢ\n.\n.\n.\n.\n.\n.\n没什么好看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/fmcddd",
+                "end": 23,
+                "expanded_url": "https://box.n3ko.cc/_/fmcddd",
+                "start": 0,
+                "url": "https://t.co/NUa4tZ60Nd"
+              }
+            ]
+          }
+        },
+        "id": "1551598616375988224",
+        "location": "重庆",
+        "name": "粉面永远爱菜蛋",
+        "pinned_tweet_id": "2045060158775329094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880465940309241861/_84WsTrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 2339,
+          "like_count": 40765,
+          "listed_count": 3,
+          "media_count": 628,
+          "tweet_count": 8347
+        },
+        "url": "https://t.co/NUa4tZ60Nd",
+        "username": "FMCDDD",
+        "verified": false
+      }
+    ]
+  }
+}

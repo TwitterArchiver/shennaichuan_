@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074595858176168172",
+    "created_at": "2026-07-08T14:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074862691244769623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701081422977470464",
+          "start": 0,
+          "username": "automaeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074862691244769623",
+    "in_reply_to_user_id": "1701081422977470464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074595858176168172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@automaeon 这不是我视频记得标记一下出处"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15567,
+        "height": 1280,
+        "media_key": "13_2074591100979863552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074591100979863552/img/i8YTVmeEinSfu_4z.jpg",
+        "public_metrics": {
+          "view_count": 143303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074591100979863552/vid/avc1/320x568/43GhVCFmMEMb5hOs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074591100979863552/vid/avc1/480x852/14adWLLIGvWZGEv7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074591100979863552/vid/avc1/720x1280/VI9fT4O6YDPpqPrj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074591100979863552/pl/3odHdV-CJiA7rHVI.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074595858176168172",
+        "created_at": "2026-07-08T14:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074862691244769623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701081422977470464",
+              "start": 0,
+              "username": "automaeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074862691244769623",
+        "in_reply_to_user_id": "1701081422977470464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074595858176168172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@automaeon 这不是我视频记得标记一下出处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074591100979863552"
+          ],
+          "media_source_tweet_id": [
+            "2074591188741493247"
+          ]
+        },
+        "author_id": "1701081422977470464",
+        "conversation_id": "2074595858176168172",
+        "created_at": "2026-07-07T20:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074595858176168172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSYHiTfxx4",
+              "end": 53,
+              "expanded_url": "https://x.com/Raxiter/status/2074591188741493247/video/1",
+              "media_key": "13_2074591100979863552",
+              "start": 30,
+              "url": "https://t.co/xSYHiTfxx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074595858176168172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1192,
+          "impression_count": 257035,
+          "like_count": 4235,
+          "quote_count": 26,
+          "reply_count": 38,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "every hyacine fanart be like: https://t.co/xSYHiTfxx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 584,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3136
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T03:53:24.000Z",
+        "description": "the unknown is but a fog to be dispersed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fagio.straw.page",
+                "end": 23,
+                "expanded_url": "http://fagio.straw.page",
+                "start": 0,
+                "url": "https://t.co/C4gXSOREoe"
+              }
+            ]
+          }
+        },
+        "id": "1701081422977470464",
+        "location": "19 | he/him",
+        "name": "fenn | qni era",
+        "pinned_tweet_id": "2072930565523706011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070397532845244416/6thauKoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1586,
+          "like_count": 87308,
+          "listed_count": 15,
+          "media_count": 3170,
+          "tweet_count": 61510
+        },
+        "url": "https://t.co/C4gXSOREoe",
+        "username": "automaeon",
+        "verified": false
+      }
+    ]
+  }
+}

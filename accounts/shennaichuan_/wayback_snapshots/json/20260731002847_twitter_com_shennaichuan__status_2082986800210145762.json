@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082740988259483767",
+    "created_at": "2026-07-31T00:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082986800210145762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "chiakii_mhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082986800210145762",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082740988259483767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiakii_mhr 🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082740988259483767",
+        "created_at": "2026-07-31T00:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082986800210145762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "chiakii_mhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082986800210145762",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082740988259483767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiakii_mhr 🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761631129331957760",
+        "conversation_id": "2082740988259483767",
+        "created_at": "2026-07-30T08:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082740988259483767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082740988259483767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未定事件簿居然六周年了吗🫪我记忆还停留在刚同居的那年。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 648,
+          "like_count": 949,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3524
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "無言フォロー失礼します🙇‍♀️\n日本語ok",
+        "id": "1761631129331957760",
+        "location": "雑多垢",
+        "name": "ちあき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081292777841950720/Plg87OYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 457,
+          "like_count": 3075,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "chiakii_mhr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2067176032424395131",
+    "created_at": "2026-06-17T10:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067187086831374454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "Rainstryin"
+        },
+        {
+          "end": 21,
+          "id": "1973748660975587328",
+          "start": 12,
+          "username": "Recz3eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067187086831374454",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067176032424395131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainstryin @Recz3eth 赌狗TV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2067176022492258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVo9zbIAAJ0rX.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2067176032424395131",
+        "created_at": "2026-06-17T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067187086831374454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "Rainstryin"
+            },
+            {
+              "end": 21,
+              "id": "1973748660975587328",
+              "start": 12,
+              "username": "Recz3eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067187086831374454",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067176032424395131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainstryin @Recz3eth 赌狗TV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067176022492258304"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "conversation_id": "2067176032424395131",
+        "created_at": "2026-06-17T09:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067176032424395131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973748660975587328",
+              "start": 2,
+              "username": "Recz3eth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/suKwRfmAZg",
+              "end": 92,
+              "expanded_url": "https://x.com/Rainstryin/status/2067176032424395131/photo/1",
+              "media_key": "3_2067176022492258304",
+              "start": 69,
+              "url": "https://t.co/suKwRfmAZg"
+            },
+            {
+              "display_url": "x.com/Rainstryin/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/Rainstryin/status/2066736169182957927",
+              "start": 93,
+              "url": "https://t.co/DIbEkxzGIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067176032424395131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066736169182957927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请 @Recz3eth 王烁寒先生停止你的诈骗行为\n原来一个“去世”的人还能开直播，还能接着要钱对吗\n不要让别人的善心成为你赌桌上的筹码 https://t.co/suKwRfmAZg https://t.co/DIbEkxzGIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 523,
+          "like_count": 771,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 2480
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘 游戏群909853647 欢迎来玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "2067176032424395131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055732571032702976/rvxadw4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 1583,
+          "like_count": 102916,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 6831
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "号主于 2026.6.16 死于跳楼｜此号已经易主、请勿骚扰",
+        "id": "1973748660975587328",
+        "name": "吾輩わ夏目安安",
+        "pinned_tweet_id": "2066960015773356432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066955365569404928/0t7Ul55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 748,
+          "like_count": 5022,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 539
+        },
+        "username": "Recz3eth",
+        "verified": false
+      }
+    ]
+  }
+}

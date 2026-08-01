@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-17T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067173263382638855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495882230509576202",
+          "start": 0,
+          "username": "Rail_Gun_1986"
+        },
+        {
+          "end": 26,
+          "id": "1816148552764252169",
+          "start": 15,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067173263382638855",
+    "in_reply_to_user_id": "1495882230509576202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067171981355536700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rail_Gun_1986 @w0sh1Asak1 哪个尬杂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067173263382638855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495882230509576202",
+              "start": 0,
+              "username": "Rail_Gun_1986"
+            },
+            {
+              "end": 26,
+              "id": "1816148552764252169",
+              "start": 15,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067173263382638855",
+        "in_reply_to_user_id": "1495882230509576202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067171981355536700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rail_Gun_1986 @w0sh1Asak1 哪个尬杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495882230509576202",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T09:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067171981355536700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067171981355536700",
+        "in_reply_to_user_id": "1495882230509576202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067171199667347708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 我正以其人之道还治其人之身，因为他们伤害了我；而现在，我感觉自己正在失去上帝赐予我的一切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 514,
+          "like_count": 772,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 2471
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T22:05:10.000Z",
+        "description": "A.V.M. III: Straight Male, Lesbian, Born In U.S.A. PA.: I Am The Sign Of Jonah. Listen And Repent, Jesus Christ Is LORD. Amen. DJ. Public Figure Nothing Private",
+        "id": "1495882230509576202",
+        "location": "U.S.A. PA.",
+        "name": "♏⚡Lt_Si1entSi1ver_SSJB⚡🇺🇸",
+        "pinned_tweet_id": "2038263105378033715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062678966503141376/GFSxlLsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 7504,
+          "like_count": 75963,
+          "listed_count": 0,
+          "media_count": 24262,
+          "tweet_count": 105733
+        },
+        "username": "Rail_Gun_1986",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "我来的时候江水很平静",
+        "id": "1816148552764252169",
+        "name": "WOdex1nhao1eng",
+        "pinned_tweet_id": "2059677830490038306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067125474132963328/PSrEI5lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 817,
+          "like_count": 28973,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 13098
+        },
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

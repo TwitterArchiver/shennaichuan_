@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066505372240687551",
+    "created_at": "2026-06-15T19:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066597446399230196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066597446399230196",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066505372240687551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxGod__ 咋回事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1717,
+        "media_key": "3_2066505268070944770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2zl63XkAIgLHT.jpg",
+        "width": 1018
+      },
+      {
+        "height": 1904,
+        "media_key": "3_2066505268075077632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2zl64WoAARwop.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066505372240687551",
+        "created_at": "2026-06-15T19:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066597446399230196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066597446399230196",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066505372240687551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxGod__ 咋回事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066505268070944770",
+            "3_2066505268075077632"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066505372240687551",
+        "created_at": "2026-06-15T12:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066505372240687551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Jfdvlcb1M",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxGod__/status/2066505372240687551/photo/1",
+              "media_key": "3_2066505268070944770",
+              "start": 73,
+              "url": "https://t.co/6Jfdvlcb1M"
+            },
+            {
+              "display_url": "pic.x.com/6Jfdvlcb1M",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxGod__/status/2066505372240687551/photo/1",
+              "media_key": "3_2066505268075077632",
+              "start": 73,
+              "url": "https://t.co/6Jfdvlcb1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066505372240687551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 455,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越是这样喜欢我的存在越让我感到害怕 我好怕她到最后也会因为时间长了对我逐渐失趣 又或者矛盾不断积累开始厌烦我的存在 好想逃开和她冷淡关系 好可怕 https://t.co/6Jfdvlcb1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 496,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 2409
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "把那群討厭的成年人都暴揍一頓吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065745725120745472/Kt4WfX4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7190,
+          "following_count": 228,
+          "like_count": 32764,
+          "listed_count": 19,
+          "media_count": 210,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

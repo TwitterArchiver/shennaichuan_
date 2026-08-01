@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064364080941678954",
+    "created_at": "2026-06-09T16:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064382330811359289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042552907497902083",
+          "start": 0,
+          "username": "Smithollc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064382330811359289",
+    "in_reply_to_user_id": "2042552907497902083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064364080941678954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smithollc4 焦虑什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064364080941678954",
+        "created_at": "2026-06-09T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064382330811359289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042552907497902083",
+              "start": 0,
+              "username": "Smithollc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064382330811359289",
+        "in_reply_to_user_id": "2042552907497902083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064364080941678954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smithollc4 焦虑什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042552907497902083",
+        "conversation_id": "2064364080941678954",
+        "created_at": "2026-06-09T15:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064364080941678954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064364080941678954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好焦虑😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 456,
+          "like_count": 743,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2246
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:40:34.000Z",
+        "description": "圣诞帽三世前世@yunxvan1 好友位 78",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yunxvan1"
+              }
+            ]
+          }
+        },
+        "id": "2042552907497902083",
+        "name": "圣诞帽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042814742352531456/ZoRIh6wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 291,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "Smithollc4",
+        "verified": false
+      }
+    ]
+  }
+}

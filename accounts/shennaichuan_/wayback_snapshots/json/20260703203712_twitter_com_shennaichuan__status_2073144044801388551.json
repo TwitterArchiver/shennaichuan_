@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073144044801388551",
+    "created_at": "2026-07-03T20:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073144044801388551"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073144044801388551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "15岁高中生|无明确立场 |无明确意识形态|发的内容会比较杂| 简中/繁中混用|对所有人保持友好～|请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家我没有b过任何人，尊重每一种声音有蓝标的才是本人。人精神病友好，小孩哥友好人🏳️‍⚧️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073144044801388551",
+        "created_at": "2026-07-03T20:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073144044801388551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073144044801388551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15岁高中生|无明确立场 |无明确意识形态|发的内容会比较杂| 简中/繁中混用|对所有人保持友好～|请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家我没有b过任何人，尊重每一种声音有蓝标的才是本人。人精神病友好，小孩哥友好人🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 558,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 2899
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

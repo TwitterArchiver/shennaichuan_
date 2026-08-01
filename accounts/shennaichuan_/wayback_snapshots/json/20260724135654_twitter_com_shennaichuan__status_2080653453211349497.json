@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2080650291532407167",
+    "created_at": "2026-07-24T13:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080653453211349497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "chiakii_mhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080653453211349497",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080650291532407167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiakii_mhr orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080650291532407167",
+        "created_at": "2026-07-24T13:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080653453211349497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "chiakii_mhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080653453211349497",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080650291532407167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiakii_mhr orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761631129331957760",
+        "conversation_id": "2080650291532407167",
+        "created_at": "2026-07-24T13:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080650291532407167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080650291532407167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次化妆我要弄一下发型然后戴无框眼镜。虽然不知道是啥时候。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4914,
+          "following_count": 634,
+          "like_count": 881,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3447
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "無言フォロー失礼します/ 18↑\n日本語ok",
+        "id": "1761631129331957760",
+        "name": "ちあき",
+        "pinned_tweet_id": "2077802510077882746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080569188121485312/jhm45SPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 456,
+          "like_count": 2933,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "chiakii_mhr",
+        "verified": false
+      }
+    ]
+  }
+}

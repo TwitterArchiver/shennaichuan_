@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063623232863830089",
+    "created_at": "2026-06-07T23:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063763491308335439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063763491308335439",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063623232863830089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin niko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2063623215260262400",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKN2YXfWYAAiJj3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKN2YXfWYAAiJj3.mp4"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 290,
+        "media_key": "3_2063623216103370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN2YaoXMAARubB.jpg",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063623232863830089",
+        "created_at": "2026-06-07T23:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063763491308335439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063763491308335439",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063623232863830089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin niko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063623215260262400",
+            "3_2063623216103370752"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2063623232863830089",
+        "created_at": "2026-06-07T14:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063623232863830089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4I6e8GGLJQ",
+              "end": 31,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2063623232863830089/photo/1",
+              "media_key": "16_2063623215260262400",
+              "start": 8,
+              "url": "https://t.co/4I6e8GGLJQ"
+            },
+            {
+              "display_url": "pic.x.com/4I6e8GGLJQ",
+              "end": 31,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2063623232863830089/photo/1",
+              "media_key": "3_2063623216103370752",
+              "start": 8,
+              "url": "https://t.co/4I6e8GGLJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063623232863830089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1235,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虾猫碰上死耗子 https://t.co/4I6e8GGLJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 446,
+          "like_count": 738,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 2225
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  互fo留言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 57,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん🫪",
+        "pinned_tweet_id": "2063204311287370062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057121282508881920/u148AFSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2938,
+          "following_count": 2273,
+          "like_count": 44907,
+          "listed_count": 8,
+          "media_count": 2431,
+          "tweet_count": 21854
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

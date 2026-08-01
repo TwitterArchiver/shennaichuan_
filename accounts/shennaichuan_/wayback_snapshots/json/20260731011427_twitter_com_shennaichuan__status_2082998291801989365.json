@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082997447920361550",
+    "created_at": "2026-07-31T01:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082998291801989365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368194606555262978",
+          "start": 0,
+          "username": "jiajiajia0104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082998291801989365",
+    "in_reply_to_user_id": "1368194606555262978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082997447920361550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajiajia0104 哇什么情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082997447920361550",
+        "created_at": "2026-07-31T01:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082998291801989365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368194606555262978",
+              "start": 0,
+              "username": "jiajiajia0104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082998291801989365",
+        "in_reply_to_user_id": "1368194606555262978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082997447920361550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajiajia0104 哇什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368194606555262978",
+        "conversation_id": "2082997447920361550",
+        "created_at": "2026-07-31T01:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082997447920361550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082997447920361550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去南京上学我好坤动。我和我妈说要找一个文艺男，而我刚好去的是艺术学院。老鼠掉进米缸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 653,
+          "like_count": 957,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3535
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "呼吸",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "pinned_tweet_id": "2079477863040811329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082105344444989440/xOlp04XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 156,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

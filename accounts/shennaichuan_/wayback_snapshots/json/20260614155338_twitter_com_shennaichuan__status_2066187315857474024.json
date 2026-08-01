@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066116136828350950",
+    "created_at": "2026-06-14T15:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066187315857474024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "chiakii_mhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066187315857474024",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066116136828350950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiakii_mhr 算数算起嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066116136828350950",
+        "created_at": "2026-06-14T15:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066187315857474024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "chiakii_mhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066187315857474024",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066116136828350950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiakii_mhr 算数算起嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761631129331957760",
+        "conversation_id": "2066116136828350950",
+        "created_at": "2026-06-14T11:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066116136828350950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066116136828350950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我其实想学坤算坤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 490,
+          "like_count": 767,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 2379
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "無言フォロー失礼します/ 18↑\n日本語ok",
+        "id": "1761631129331957760",
+        "name": "ちあき",
+        "pinned_tweet_id": "2065494883419459954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058827334938161153/rakQK-ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 447,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 614
+        },
+        "username": "chiakii_mhr",
+        "verified": false
+      }
+    ]
+  }
+}

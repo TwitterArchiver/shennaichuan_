@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080525856385232897"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2080525898068238634",
+    "created_at": "2026-07-24T05:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080525898068238634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uureZIlOul",
+          "end": 42,
+          "expanded_url": "https://x.com/shennaichuan_/status/2080525898068238634/photo/1",
+          "media_key": "3_2080525856385232897",
+          "start": 19,
+          "url": "https://t.co/uureZIlOul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080525898068238634",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@5mRtist 宝子你怎么上电视了 https://t.co/uureZIlOul"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2080525856385232897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-DPkfbcAEOGjE.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080525856385232897"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080525898068238634",
+        "created_at": "2026-07-24T05:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080525898068238634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uureZIlOul",
+              "end": 42,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080525898068238634/photo/1",
+              "media_key": "3_2080525856385232897",
+              "start": 19,
+              "url": "https://t.co/uureZIlOul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080525898068238634",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@5mRtist 宝子你怎么上电视了 https://t.co/uureZIlOul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "中国人能飞✈️✈️✈️✈️✈️✈️✈️✈️\n中国人能飞🚀🚀🚀🚀🚀🚀🚀🚀\n中国人能飞🚁🚁🚁🚁🚁🚁🚁🚁\n黄皮肤才对🧏🧏🧏🧏🧏🧏🧏🧏\n讲中文才飞🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️\n中国就是美🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳\nLAML",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 624,
+          "like_count": 865,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "总设计师",
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 1647,
+          "like_count": 32465,
+          "listed_count": 12,
+          "media_count": 235,
+          "tweet_count": 7113
+        },
+        "url": "",
+        "username": "5mRtist",
+        "verified": false
+      }
+    ]
+  }
+}

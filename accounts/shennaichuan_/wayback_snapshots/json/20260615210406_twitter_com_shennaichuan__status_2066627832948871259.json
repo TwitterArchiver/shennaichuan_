@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066327814861979749",
+    "created_at": "2026-06-15T21:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066627832948871259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "888086394710765568",
+          "start": 0,
+          "username": "JHS_FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066627832948871259",
+    "in_reply_to_user_id": "888086394710765568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066327814861979749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHS_FR 这好像是那个老废物啃老网蛆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066327811846209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0SMm6agAAU81k.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066327814861979749",
+        "created_at": "2026-06-15T21:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066627832948871259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "888086394710765568",
+              "start": 0,
+              "username": "JHS_FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066627832948871259",
+        "in_reply_to_user_id": "888086394710765568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066327814861979749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHS_FR 这好像是那个老废物啃老网蛆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066327811846209536"
+          ]
+        },
+        "author_id": "888086394710765568",
+        "conversation_id": "2066327814861979749",
+        "created_at": "2026-06-15T01:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066327814861979749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Co0gAwunH6",
+              "end": 40,
+              "expanded_url": "https://x.com/JHS_FR/status/2066327814861979749/photo/1",
+              "media_key": "3_2066327811846209536",
+              "start": 17,
+              "url": "https://t.co/Co0gAwunH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066327814861979749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "试用期 1 元 1 天，去干吧😁 https://t.co/Co0gAwunH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 499,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2427
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "西北人，在天主教会慕道半年受洗，在修道静修数月，目前已脱离且不认同你国地上教会，洁身保守，加强身体锻炼，自建武装团体，以行动践行理念",
+        "id": "888086394710765568",
+        "location": "洼地",
+        "name": "小王（推油寻回）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049484839871823872/DjdULdKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 659,
+          "like_count": 4241,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1027
+        },
+        "username": "JHS_FR",
+        "verified": false
+      }
+    ]
+  }
+}

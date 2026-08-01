@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082992496762827148",
+    "created_at": "2026-07-31T01:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083000510941212809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        },
+        {
+          "end": 21,
+          "id": "1590534095653650432",
+          "start": 8,
+          "username": "drowning_and"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083000510941212809",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082992496762827148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 @drowning_and 凯尔希还有吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082992490119143424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhGojNboAAFRIH.jpg",
+        "width": 2697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082992496762827148",
+        "created_at": "2026-07-31T01:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083000510941212809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            },
+            {
+              "end": 21,
+              "id": "1590534095653650432",
+              "start": 8,
+              "username": "drowning_and"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083000510941212809",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082992496762827148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 @drowning_and 凯尔希还有吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082992490119143424"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2082992496762827148",
+        "created_at": "2026-07-31T00:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082992496762827148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 181,
+              "start": 171,
+              "tag": "arknights"
+            },
+            {
+              "end": 187,
+              "start": 182,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 195,
+              "start": 188,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 200,
+              "start": 196,
+              "tag": "佩丽卡"
+            },
+            {
+              "end": 209,
+              "start": 201,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 163,
+              "id": "1590534095653650432",
+              "start": 150,
+              "username": "drowning_and"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sfcBV9xnb",
+              "end": 233,
+              "expanded_url": "https://x.com/2196F3/status/2082992496762827148/photo/1",
+              "media_key": "3_2082992490119143424",
+              "start": 210,
+              "url": "https://t.co/0sfcBV9xnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082992496762827148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在洛杉矶小东京尝试一下暖色调的佩丽卡🐱\n酥狐的这组弄完之后下次可能就是战斗的了​\n在phd 退学前多拍几张(划掉)\n​________ _\n​ENDFIELD\n​Thank you for your support.\n​&lt;|im_end|&gt;&lt;/s&gt;\n​\n摄影/后期: Kaz @drowning_and\n猫: mi\n\n#arknights #明日方舟 #アークナイツ #佩丽卡 #cosplay https://t.co/0sfcBV9xnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 655,
+          "like_count": 959,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3538
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "在加州，是explorer，coser和Les，有时做点平面设计。\n研究生物医学/病毒，Candidacy↑。\n会想和每一个看到这里并决定follow的推友交朋友。\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n私信话题：致癌EB 不许涂墙上😾\n Gmail: kaltciit@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "Los Angeles, US-WEST-01 ",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "2081190239117435321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 2584,
+          "like_count": 5915,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 4949
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "im kaz 我胡言乱语 My daily scream 中文 | english |日本語",
+        "id": "1590534095653650432",
+        "name": "➖羊·目➖",
+        "pinned_tweet_id": "2022242682693996782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066998125026570240/pjXoBG8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 534,
+          "like_count": 44822,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2164
+        },
+        "url": "",
+        "username": "drowning_and",
+        "verified": false
+      }
+    ]
+  }
+}

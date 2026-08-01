@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067757154845818983",
+    "created_at": "2026-06-20T06:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068227049307947077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035464094137155584",
+          "start": 0,
+          "username": "xx_jie84748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068227049307947077",
+    "in_reply_to_user_id": "2035464094137155584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067781623152836943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx_jie84748 lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067757154845818983",
+        "created_at": "2026-06-20T06:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068227049307947077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035464094137155584",
+              "start": 0,
+              "username": "xx_jie84748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068227049307947077",
+        "in_reply_to_user_id": "2035464094137155584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067781623152836943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx_jie84748 lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035464094137155584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2067757154845818983",
+        "created_at": "2026-06-19T01:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067781623152836943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067781623152836943",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3720,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067757154845818983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 晴天娃娃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 529,
+          "like_count": 775,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T21:10:57.000Z",
+        "description": "",
+        "id": "2035464094137155584",
+        "name": "77不知道7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038286128550383616/DlW74w98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 53,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "xx_jie84748",
+        "verified": false
+      }
+    ]
+  }
+}

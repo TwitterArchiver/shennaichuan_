@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2079023720673554619",
+    "created_at": "2026-07-20T02:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079025525226619039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796845807997792256",
+          "start": 0,
+          "username": "fishoutworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079025525226619039",
+    "in_reply_to_user_id": "1796845807997792256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079023720673554619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishoutworld 下次长个记性吧赶紧去做笔录吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079023720673554619].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079023720673554619",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079023720673554619"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2079023720673554619",
+        "created_at": "2026-07-20T02:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079025525226619039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796845807997792256",
+              "start": 0,
+              "username": "fishoutworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079025525226619039",
+        "in_reply_to_user_id": "1796845807997792256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079023720673554619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishoutworld 下次长个记性吧赶紧去做笔录吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 620,
+          "like_count": 858,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3339
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T10:06:50.000Z",
+        "description": "嘎嘎嘎",
+        "id": "1796845807997792256",
+        "location": "过去",
+        "name": "你一生的故事",
+        "pinned_tweet_id": "2068240307691618636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069039086506213376/bt5qU0kV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 53,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "fishoutworld",
+        "verified": false
+      }
+    ]
+  }
+}

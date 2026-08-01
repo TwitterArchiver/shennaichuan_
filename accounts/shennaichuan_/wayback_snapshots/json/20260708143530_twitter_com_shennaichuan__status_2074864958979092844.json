@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074790827180851394",
+    "created_at": "2026-07-08T14:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074864958979092844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074864958979092844",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074790827180851394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 抽烟司马番"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074790814052753409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsjQK7boAE1kvX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074790827180851394",
+        "created_at": "2026-07-08T14:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074864958979092844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074864958979092844",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074790827180851394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 抽烟司马番"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074790814052753409"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "2074790827180851394",
+        "created_at": "2026-07-08T09:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074790827180851394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUqbJuV6zu",
+              "end": 28,
+              "expanded_url": "https://x.com/1n_fhtagn/status/2074790827180851394/photo/1",
+              "media_key": "3_2074790814052753409",
+              "start": 5,
+              "url": "https://t.co/oUqbJuV6zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074790827180851394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大果猫猫 https://t.co/oUqbJuV6zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 584,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 3141
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043230735642013696/yF-skjSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3878,
+          "following_count": 1258,
+          "like_count": 30068,
+          "listed_count": 9,
+          "media_count": 4510,
+          "tweet_count": 19878
+        },
+        "url": "",
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

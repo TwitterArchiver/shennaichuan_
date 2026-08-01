@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078495689211056512",
+    "created_at": "2026-07-18T23:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078621774900756860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055304428803198976",
+          "start": 0,
+          "username": "koi685549028481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078621774900756860",
+    "in_reply_to_user_id": "2055304428803198976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078495689211056512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koi685549028481 😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078495689211056512",
+        "created_at": "2026-07-18T23:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078621774900756860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055304428803198976",
+              "start": 0,
+              "username": "koi685549028481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078621774900756860",
+        "in_reply_to_user_id": "2055304428803198976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078495689211056512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koi685549028481 😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055304428803198976",
+        "conversation_id": "2078495689211056512",
+        "created_at": "2026-07-18T15:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078495689211056512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078495689211056512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想去看ASIANKUNGFU啊😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 613,
+          "like_count": 853,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3271
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T15:09:46.000Z",
+        "description": "蛆，最喜歡的事情是無病呻吟\nfo我前先點贊我的突突兔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi1",
+                "start": 0,
+                "url": "https://t.co/IBVGiSNQuX"
+              }
+            ]
+          }
+        },
+        "id": "2055304428803198976",
+        "location": "v",
+        "name": "こうゆ_い",
+        "pinned_tweet_id": "2076241860755132924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073724657052856320/nyc4fQaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 37,
+          "like_count": 11448,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/IBVGiSNQuX",
+        "username": "koi685549028481",
+        "verified": false
+      }
+    ]
+  }
+}

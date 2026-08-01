@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074127253236048100",
+    "created_at": "2026-07-06T18:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074198069995086187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820189807777349632",
+          "start": 0,
+          "username": "Sisyphussts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074198069995086187",
+    "in_reply_to_user_id": "1820189807777349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074127253236048100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sisyphussts 你妈死了玩网烂区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074127253236048100",
+        "created_at": "2026-07-06T18:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074198069995086187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820189807777349632",
+              "start": 0,
+              "username": "Sisyphussts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074198069995086187",
+        "in_reply_to_user_id": "1820189807777349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074127253236048100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sisyphussts 你妈死了玩网烂区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820189807777349632",
+        "conversation_id": "2074127253236048100",
+        "created_at": "2026-07-06T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074127253236048100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074127253236048100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝，逼逼，硬硬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 576,
+          "like_count": 822,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3070
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "长头发的陈浩南打火机打不燃@pilljvce @pil1jvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "pilljvce"
+              },
+              {
+                "end": 32,
+                "start": 23,
+                "username": "pil1jvce"
+              }
+            ]
+          }
+        },
+        "id": "1820189807777349632",
+        "location": "侵华日军南京大屠杀遇难同胞纪念馆",
+        "name": "嘻羊羊",
+        "pinned_tweet_id": "2074127253236048100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073035952327651328/EtUxkOWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 54,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "Sisyphussts",
+        "verified": false
+      }
+    ]
+  }
+}

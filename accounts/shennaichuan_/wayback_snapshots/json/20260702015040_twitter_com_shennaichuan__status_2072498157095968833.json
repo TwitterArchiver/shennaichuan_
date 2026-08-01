@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2072346668490719333",
+    "created_at": "2026-07-02T01:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072498157095968833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2063399370243080192",
+          "start": 0,
+          "username": "zeencui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072498157095968833",
+    "in_reply_to_user_id": "2063399370243080192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072466291458228576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeencui 并非推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2072346668490719333",
+        "created_at": "2026-07-02T01:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072498157095968833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2063399370243080192",
+              "start": 0,
+              "username": "zeencui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072498157095968833",
+        "in_reply_to_user_id": "2063399370243080192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072466291458228576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeencui 并非推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063399370243080192",
+        "conversation_id": "2072346668490719333",
+        "created_at": "2026-07-01T23:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072466291458228576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072466291458228576",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072346668490719333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 推特上约杀的都是真的？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620,
+          "following_count": 546,
+          "like_count": 816,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 2825
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T23:17:15.000Z",
+        "description": "₍ᐢ๑ ̯๑ᐢ₎",
+        "id": "2063399370243080192",
+        "name": "cui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072379951383277568/zYYL36tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "zeencui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2079165155112632740",
+    "created_at": "2026-07-20T11:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079173228229165554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644482642631602178",
+          "start": 0,
+          "username": "xibaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079173228229165554",
+    "in_reply_to_user_id": "1644482642631602178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079165155112632740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xibaomi 怎么保养皮肤的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2079165146115756032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqtrzuaUAAIw-C.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2079165155112632740",
+        "created_at": "2026-07-20T11:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079173228229165554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644482642631602178",
+              "start": 0,
+              "username": "xibaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079173228229165554",
+        "in_reply_to_user_id": "1644482642631602178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079165155112632740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xibaomi 怎么保养皮肤的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079165146115756032"
+          ]
+        },
+        "author_id": "1644482642631602178",
+        "conversation_id": "2079165155112632740",
+        "created_at": "2026-07-20T11:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079165155112632740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uluy9e5eeN",
+              "end": 137,
+              "expanded_url": "https://x.com/xibaomi/status/2079165155112632740/photo/1",
+              "media_key": "3_2079165146115756032",
+              "start": 114,
+              "url": "https://t.co/uluy9e5eeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079165155112632740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以看出本包蜜已經開始有老人味了🤧\n\n這次出差結束以後就不發女裝了🦆陪小孩不搞抽象了\n\n畢竟保質期就這麽長🫠手上都開始長老年斑了，過幾年沒法看了，也算年輕的時候風光過了😮‍💨人不得不服老\n\n致所有正在老去的推油\n\n包蜜，凋零😿 https://t.co/uluy9e5eeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我是无糖mtf🚪52",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 626,
+          "like_count": 860,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 3388
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T23:30:06.000Z",
+        "description": "潤🇯🇵國中生 彼氏 @Kawhkmoe 彼女 @honxine8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "Kawhkmoe"
+              },
+              {
+                "end": 35,
+                "start": 23,
+                "username": "honxine8964"
+              }
+            ]
+          }
+        },
+        "id": "1644482642631602178",
+        "name": "翠々砂💮",
+        "pinned_tweet_id": "1897255888840483105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049486289419005952/y_mqktO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 1091,
+          "like_count": 51597,
+          "listed_count": 7,
+          "media_count": 683,
+          "tweet_count": 8228
+        },
+        "url": "",
+        "username": "xibaomi",
+        "verified": false
+      }
+    ]
+  }
+}

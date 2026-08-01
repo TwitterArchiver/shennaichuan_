@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2065145962520281098",
+    "created_at": "2026-06-12T20:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065529249000517673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052032324116840448",
+          "start": 0,
+          "username": "chnln165867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065529249000517673",
+    "in_reply_to_user_id": "2052032324116840448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065450539924767016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnln165867 不尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2065145962520281098",
+        "created_at": "2026-06-12T20:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065529249000517673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052032324116840448",
+              "start": 0,
+              "username": "chnln165867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065529249000517673",
+        "in_reply_to_user_id": "2052032324116840448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065450539924767016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnln165867 不尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052032324116840448",
+        "conversation_id": "2065145962520281098",
+        "created_at": "2026-06-12T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065450539924767016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065450539924767016",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065145962520281098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 长的有点像我同学😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 484,
+          "like_count": 762,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 2347
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T14:27:04.000Z",
+        "description": "疯子",
+        "id": "2052032324116840448",
+        "location": "疯子",
+        "name": "疯子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053104416375648256/6nruXa2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "username": "chnln165867",
+        "verified": false
+      }
+    ]
+  }
+}

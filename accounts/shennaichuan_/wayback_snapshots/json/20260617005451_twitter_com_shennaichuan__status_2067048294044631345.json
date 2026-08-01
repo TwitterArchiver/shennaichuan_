@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067048291691610112"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067048294044631345",
+    "created_at": "2026-06-17T00:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067048294044631345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXLWH38OSz",
+          "end": 29,
+          "expanded_url": "https://x.com/shennaichuan_/status/2067048294044631345/photo/1",
+          "media_key": "3_2067048291691610112",
+          "start": 6,
+          "url": "https://t.co/aXLWH38OSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067048294044631345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "游泳耍起嘛 https://t.co/aXLWH38OSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2067048291691610112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-heDfbQAAnEMS.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067048291691610112"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067048294044631345",
+        "created_at": "2026-06-17T00:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067048294044631345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXLWH38OSz",
+              "end": 29,
+              "expanded_url": "https://x.com/shennaichuan_/status/2067048294044631345/photo/1",
+              "media_key": "3_2067048291691610112",
+              "start": 6,
+              "url": "https://t.co/aXLWH38OSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067048294044631345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游泳耍起嘛 https://t.co/aXLWH38OSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 514,
+          "like_count": 771,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 2463
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

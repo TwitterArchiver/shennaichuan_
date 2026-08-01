@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069339483338584397",
+    "created_at": "2026-06-23T12:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069395118084534444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783810900555882496",
+          "start": 0,
+          "username": "MaybefL8964"
+        },
+        {
+          "end": 24,
+          "id": "1844290406391103488",
+          "start": 13,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069395118084534444",
+    "in_reply_to_user_id": "1783810900555882496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069346892077764869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaybefL8964 @qhqq114514 咕咕咕咕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069339483338584397",
+        "created_at": "2026-06-23T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395118084534444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783810900555882496",
+              "start": 0,
+              "username": "MaybefL8964"
+            },
+            {
+              "end": 24,
+              "id": "1844290406391103488",
+              "start": 13,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395118084534444",
+        "in_reply_to_user_id": "1783810900555882496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069346892077764869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybefL8964 @qhqq114514 咕咕咕咕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783810900555882496",
+        "conversation_id": "2069339483338584397",
+        "created_at": "2026-06-23T09:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069346892077764869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069346892077764869",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069339483338584397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 嗯，我其實還挺喜歡用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 544,
+          "like_count": 800,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:50:54.000Z",
+        "description": "我是以前的dunk~^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y0tsubaKoiwai",
+                "end": 23,
+                "expanded_url": "http://t.me/Y0tsubaKoiwai",
+                "start": 0,
+                "url": "https://t.co/8Vfrej9ouW"
+              }
+            ]
+          }
+        },
+        "id": "1783810900555882496",
+        "name": "au revoir4227^ ^",
+        "pinned_tweet_id": "2039725301484433571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021881579124232192/Pg7308E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 142,
+          "like_count": 19157,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/8Vfrej9ouW",
+        "username": "MaybefL8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@FoxGod__ 信任的人过：@BadFoxGod_ 纯良号预备中：@die11037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "FoxGod__"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "BadFoxGod_"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "die11037"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067954130652442624/zpxDRoVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 258,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 4189
+        },
+        "url": "",
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

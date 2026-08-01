@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066450120959517151",
+    "created_at": "2026-06-15T20:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066617691759391112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1883364015881199616",
+          "start": 0,
+          "username": "wsc0816"
+        },
+        {
+          "end": 24,
+          "id": "1699273463465443328",
+          "start": 9,
+          "username": "AmmieColl84391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066617691759391112",
+    "in_reply_to_user_id": "1883364015881199616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066616328308609515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsc0816 @AmmieColl84391 脑残"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_2066616318804271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4Yl7FaoAA3rXq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066450120959517151",
+        "created_at": "2026-06-15T20:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066617691759391112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1883364015881199616",
+              "start": 0,
+              "username": "wsc0816"
+            },
+            {
+              "end": 24,
+              "id": "1699273463465443328",
+              "start": 9,
+              "username": "AmmieColl84391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066617691759391112",
+        "in_reply_to_user_id": "1883364015881199616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066616328308609515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsc0816 @AmmieColl84391 脑残"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066616318804271104"
+          ]
+        },
+        "author_id": "1883364015881199616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066450120959517151",
+        "created_at": "2026-06-15T20:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066616328308609515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699273463465443328",
+              "start": 0,
+              "username": "AmmieColl84391"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTR6ppyIPK",
+              "end": 39,
+              "expanded_url": "https://x.com/wsc0816/status/2066616328308609515/photo/1",
+              "media_key": "3_2066616318804271104",
+              "start": 16,
+              "url": "https://t.co/DTR6ppyIPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066616328308609515",
+        "in_reply_to_user_id": "1699273463465443328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066450120959517151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmmieColl84391 https://t.co/DTR6ppyIPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 498,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2424
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T03:59:15.000Z",
+        "description": "",
+        "id": "1883364015881199616",
+        "name": "撕葱",
+        "pinned_tweet_id": "2017308669109473370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956805010106228736/cDV--lij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 26,
+          "like_count": 21783,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 101
+        },
+        "username": "wsc0816",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:05.000Z",
+        "description": "🚼里人格 ｜ 🔙首都@DurantRaym93677 ｜ \n一个人过家家用的账号 ｜ ⚠️可能会包含无聊的发言、逻辑混乱、自言自语，以及负能或错误的内容哦🥺 ｜ \n📮电邮：ZephyrusLuke@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "DurantRaym93677"
+              }
+            ]
+          }
+        },
+        "id": "1699273463465443328",
+        "name": "五月雨🌧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701877594340438016/jJsS0DtQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 290,
+          "like_count": 3197,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1454
+        },
+        "username": "AmmieColl84391",
+        "verified": false
+      }
+    ]
+  }
+}

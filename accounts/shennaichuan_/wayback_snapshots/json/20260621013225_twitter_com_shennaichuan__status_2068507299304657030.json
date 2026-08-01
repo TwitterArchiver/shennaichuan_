@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068507289338978304"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068507299304657030",
+    "created_at": "2026-06-21T01:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068507299304657030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FzMGwTEkTL",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2068507299304657030/video/1",
+          "media_key": "7_2068507289338978304",
+          "start": 0,
+          "url": "https://t.co/FzMGwTEkTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068507299304657030",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FzMGwTEkTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2832,
+        "height": 1280,
+        "media_key": "7_2068507289338978304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068507289338978304/pu/img/Kr-2yPLFGRQIky8A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068507289338978304/pu/vid/avc1/320x690/GG32OX0FM_Rwx2TH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068507289338978304/pu/vid/avc1/480x1036/KhG5UcZSHLoMJ9EA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068507289338978304/pu/vid/avc1/592x1280/NuPvmpsYTnEHJ57E.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068507289338978304/pu/pl/CrCQ7GjptZBYAOnI.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068507289338978304"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068507299304657030",
+        "created_at": "2026-06-21T01:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068507299304657030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzMGwTEkTL",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2068507299304657030/video/1",
+              "media_key": "7_2068507289338978304",
+              "start": 0,
+              "url": "https://t.co/FzMGwTEkTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068507299304657030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FzMGwTEkTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 531,
+          "like_count": 786,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2602
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068857844191945110",
+    "created_at": "2026-06-22T01:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068866828173201536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548157400632270848",
+          "start": 0,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068866828173201536",
+    "in_reply_to_user_id": "1548157400632270848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068857844191945110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annayanamisuki ？幽默够尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068857844191945110",
+        "created_at": "2026-06-22T01:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068866828173201536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068866828173201536",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068857844191945110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki ？幽默够尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548157400632270848",
+        "conversation_id": "2068857844191945110",
+        "created_at": "2026-06-22T00:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068857844191945110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiligulyanov/s…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/kiligulyanov/status/2068716820115104109",
+              "start": 157,
+              "url": "https://t.co/gcmT6zJQHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068857844191945110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068716820115104109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一个e人，之前我是enfp快乐小狗的。但是后来呢发生了一些事情，我就变成了entj指挥官。我刚才好像听到有一个姐妹也是entj，然后班里有很多infp的同学，你们跟我是绝配，都可以来找我玩。然后呢我的爱好也非常广泛，我非常喜欢听livehouse或者音乐节，然后呢喜欢citywalk，或者呢去各种各样的展， https://t.co/gcmT6zJQHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 534,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 2622
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "西雅图绿河学院",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040244858439585792/doyOx84c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 1004,
+          "like_count": 47397,
+          "listed_count": 19,
+          "media_count": 1818,
+          "tweet_count": 9224
+        },
+        "url": "",
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

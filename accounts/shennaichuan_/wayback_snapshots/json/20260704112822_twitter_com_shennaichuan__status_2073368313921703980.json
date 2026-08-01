@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073368311925186560"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073320673880232259",
+    "created_at": "2026-07-04T11:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073368313921703980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hvp2pp3CVH",
+          "end": 38,
+          "expanded_url": "https://x.com/shennaichuan_/status/2073368313921703980/photo/1",
+          "media_key": "3_2073368311925186560",
+          "start": 15,
+          "url": "https://t.co/Hvp2pp3CVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073368313921703980",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073368018969915580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die https://t.co/Hvp2pp3CVH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_2073368311925186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYVfpjaIAAH3x1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073368311925186560"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073320673880232259",
+        "created_at": "2026-07-04T11:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073368313921703980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hvp2pp3CVH",
+              "end": 38,
+              "expanded_url": "https://x.com/shennaichuan_/status/2073368313921703980/photo/1",
+              "media_key": "3_2073368311925186560",
+              "start": 15,
+              "url": "https://t.co/Hvp2pp3CVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073368313921703980",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073368018969915580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die https://t.co/Hvp2pp3CVH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860970079246303232",
+        "conversation_id": "2073320673880232259",
+        "created_at": "2026-07-04T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073368018969915580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073368018969915580",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073366847744012377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 胡言乱语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 561,
+          "like_count": 816,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 2952
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2068266238124638455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068995882398384128/lpqLs0_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 121,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082162034649841664"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082162086495629676",
+    "created_at": "2026-07-28T17:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082162086495629676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SSJYgiKwug",
+          "end": 44,
+          "expanded_url": "https://x.com/shennaichuan_/status/2082162086495629676/photo/1",
+          "media_key": "3_2082162034649841664",
+          "start": 21,
+          "url": "https://t.co/SSJYgiKwug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082162086495629676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😯我操我真谢谢你来，我喊我全家人报答你😯 https://t.co/SSJYgiKwug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_2082162034649841664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVTVrgbwAA3QuR.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082162034649841664"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082162086495629676",
+        "created_at": "2026-07-28T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082162086495629676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSJYgiKwug",
+              "end": 44,
+              "expanded_url": "https://x.com/shennaichuan_/status/2082162086495629676/photo/1",
+              "media_key": "3_2082162034649841664",
+              "start": 21,
+              "url": "https://t.co/SSJYgiKwug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082162086495629676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😯我操我真谢谢你来，我喊我全家人报答你😯 https://t.co/SSJYgiKwug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 628,
+          "like_count": 907,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3482
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

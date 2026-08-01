@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064409447259382205",
+    "created_at": "2026-06-09T18:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064419122100998531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041394869386797056",
+          "start": 0,
+          "username": "Yumiuwd7jl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064419122100998531",
+    "in_reply_to_user_id": "2041394869386797056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064409447259382205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumiuwd7jl 有的有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064409447259382205",
+        "created_at": "2026-06-09T18:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064419122100998531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041394869386797056",
+              "start": 0,
+              "username": "Yumiuwd7jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064419122100998531",
+        "in_reply_to_user_id": "2041394869386797056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064409447259382205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumiuwd7jl 有的有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041394869386797056",
+        "conversation_id": "2064409447259382205",
+        "created_at": "2026-06-09T18:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064409447259382205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064409447259382205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能跟穿孔师谈恋爱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 458,
+          "like_count": 744,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2252
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:58:43.000Z",
+        "description": "高中生/喜欢我就给我打钱/只回有礼貌的",
+        "id": "2041394869386797056",
+        "name": "那你别说爱我啊",
+        "pinned_tweet_id": "2051321635765207226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041850782954455041/5F9P2AS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 32,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "username": "Yumiuwd7jl",
+        "verified": false
+      }
+    ]
+  }
+}

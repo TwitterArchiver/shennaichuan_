@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063599124017201344",
+    "created_at": "2026-06-08T13:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063984282968997981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820843841190256640",
+          "start": 0,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063984282968997981",
+    "in_reply_to_user_id": "1820843841190256640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063599124017201344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira5th 你不是大专狗吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063599124017201344",
+        "created_at": "2026-06-08T13:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063984282968997981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820843841190256640",
+              "start": 0,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984282968997981",
+        "in_reply_to_user_id": "1820843841190256640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063599124017201344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira5th 你不是大专狗吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820843841190256640",
+        "conversation_id": "2063599124017201344",
+        "created_at": "2026-06-07T12:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063599124017201344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063599124017201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考不上本科了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 447,
+          "like_count": 738,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2226
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "纯良萌萌人",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "哈基夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 824,
+          "like_count": 4969,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1816
+        },
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

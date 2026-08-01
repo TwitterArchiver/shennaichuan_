@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074097431898452220",
+    "created_at": "2026-07-06T14:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074143551236272142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007060747910795264",
+          "start": 0,
+          "username": "Y01ukawa_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074143551236272142",
+    "in_reply_to_user_id": "2007060747910795264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074097431898452220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y01ukawa_Mi0 原子弹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074097431898452220",
+        "created_at": "2026-07-06T14:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074143551236272142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007060747910795264",
+              "start": 0,
+              "username": "Y01ukawa_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074143551236272142",
+        "in_reply_to_user_id": "2007060747910795264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074097431898452220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y01ukawa_Mi0 原子弹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007060747910795264",
+        "conversation_id": "2074097431898452220",
+        "created_at": "2026-07-06T11:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074097431898452220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2070082023566508061",
+              "start": 14,
+              "url": "https://t.co/sCJb2YFtzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074097431898452220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070082023566508061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山泥若来了我操你妈😂😂😂😂 https://t.co/sCJb2YFtzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 571,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 3028
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:06:10.000Z",
+        "description": "1971年，卡辛斯基在辞去教职，并在朗伯德的老家住了两年后前往蒙大拿州隐居。他在蒙大拿州的林肯建了一座小木屋，过上没水没电且开销小的简单生活——他四处打零工，但主要是受到其家人的经济援助。卡辛斯基原本的目标是能够自给自足的生活",
+        "id": "2007060747910795264",
+        "name": "澪澪澪澪澪澪澪澪澪澪",
+        "pinned_tweet_id": "2059271338540585442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008194766023041024/lejrrQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 18,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "Y01ukawa_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

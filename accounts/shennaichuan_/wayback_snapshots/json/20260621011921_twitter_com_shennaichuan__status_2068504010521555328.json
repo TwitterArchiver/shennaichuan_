@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068303329021854158",
+    "created_at": "2026-06-21T01:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068504010521555328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1272930023926665216",
+          "start": 0,
+          "username": "JawenZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068504010521555328",
+    "in_reply_to_user_id": "1272930023926665216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068303329021854158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JawenZhu 那就大大方方休学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2068303318108311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQW6NObkAAMnpp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068303329021854158",
+        "created_at": "2026-06-21T01:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068504010521555328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1272930023926665216",
+              "start": 0,
+              "username": "JawenZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068504010521555328",
+        "in_reply_to_user_id": "1272930023926665216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068303329021854158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JawenZhu 那就大大方方休学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068303318108311552"
+          ]
+        },
+        "author_id": "1272930023926665216",
+        "conversation_id": "2068303329021854158",
+        "created_at": "2026-06-20T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068303329021854158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxOxCb3yVV",
+              "end": 35,
+              "expanded_url": "https://x.com/JawenZhu/status/2068303329021854158/photo/1",
+              "media_key": "3_2068303318108311552",
+              "start": 12,
+              "url": "https://t.co/cxOxCb3yVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068303329021854158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3999,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大学成抑郁重灾区 https://t.co/cxOxCb3yVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 531,
+          "like_count": 786,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2597
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T16:32:36.000Z",
+        "description": "最爱@Masochiat 亲爱的@Zane_III_Ren 好同志@Aboubac68719912 死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Masochiat"
+              },
+              {
+                "end": 29,
+                "start": 16,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Aboubac68719912"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilipili.com",
+                "end": 23,
+                "expanded_url": "http://www.pilipili.com",
+                "start": 0,
+                "url": "https://t.co/wylUGcFYaG"
+              }
+            ]
+          }
+        },
+        "id": "1272930023926665216",
+        "location": "대한민국",
+        "name": "🌹Jawen🌹（淡推中）",
+        "pinned_tweet_id": "1910882349757444541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004503761163841536/XIqMmJl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 2084,
+          "like_count": 76067,
+          "listed_count": 24,
+          "media_count": 1239,
+          "tweet_count": 23392
+        },
+        "url": "https://t.co/wylUGcFYaG",
+        "username": "JawenZhu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080440514453889024"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2080440564412297625",
+    "created_at": "2026-07-23T23:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T00:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080440564412297625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFj8qDmCJ5",
+          "end": 42,
+          "expanded_url": "https://x.com/shennaichuan_/status/2080440564412297625/photo/1",
+          "media_key": "3_2080440514453889024",
+          "start": 19,
+          "url": "https://t.co/uFj8qDmCJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080440564412297625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给你磕头😭😭🙏我操我真的要死了😭🙏 https://t.co/uFj8qDmCJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2080440514453889024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN81oBBa4AArCGc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080440514453889024"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080440564412297625",
+        "created_at": "2026-07-23T23:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080440564412297625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFj8qDmCJ5",
+              "end": 42,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080440564412297625/photo/1",
+              "media_key": "3_2080440514453889024",
+              "start": 19,
+              "url": "https://t.co/uFj8qDmCJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080440564412297625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给你磕头😭😭🙏我操我真的要死了😭🙏 https://t.co/uFj8qDmCJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我真可能活不下去了",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 623,
+          "like_count": 861,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

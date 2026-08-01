@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064572244320559393",
+    "created_at": "2026-06-10T05:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064578046473167254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387282075896541184",
+          "start": 0,
+          "username": "pinkyfuckoff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064578046473167254",
+    "in_reply_to_user_id": "1387282075896541184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064577959781150784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinkyfuckoff 退网了咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064572244320559393",
+        "created_at": "2026-06-10T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064578046473167254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387282075896541184",
+              "start": 0,
+              "username": "pinkyfuckoff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064578046473167254",
+        "in_reply_to_user_id": "1387282075896541184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064577959781150784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkyfuckoff 退网了咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387282075896541184",
+        "conversation_id": "2064572244320559393",
+        "created_at": "2026-06-10T05:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064577959781150784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064577959781150784",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064577549703991636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 他搞什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 462,
+          "like_count": 751,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2292
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T05:46:44.000Z",
+        "description": "关于我ban人的7个标准：\n1.粉蛆\n2.坏逼（王菊类）\n3.傻逼（菊粉、轮粉类）\n4.黄推，诈骗推\n5.锁推\n6.极端xx权（包括极端女权）\n7.看心情\n8.不识数的人",
+        "id": "1387282075896541184",
+        "location": "東京（山里）",
+        "name": "对韭裆割（破産済）",
+        "pinned_tweet_id": "1737714897591669195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701126516107857920/77hT4oDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 358,
+          "like_count": 55326,
+          "listed_count": 3,
+          "media_count": 1060,
+          "tweet_count": 21780
+        },
+        "username": "pinkyfuckoff",
+        "verified": false
+      }
+    ]
+  }
+}

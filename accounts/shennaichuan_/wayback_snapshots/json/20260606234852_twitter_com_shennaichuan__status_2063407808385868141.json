@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063407806326423552"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063407808385868141",
+    "created_at": "2026-06-06T23:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063407808385868141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCdCXNIfEs",
+          "end": 28,
+          "expanded_url": "https://x.com/shennaichuan_/status/2063407808385868141/photo/1",
+          "media_key": "3_2063407806326423552",
+          "start": 5,
+          "url": "https://t.co/eCdCXNIfEs"
+        },
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2063337864277205476",
+          "start": 29,
+          "url": "https://t.co/OifzHhXmbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063407808385868141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063337864277205476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奇异搞笑 https://t.co/eCdCXNIfEs https://t.co/OifzHhXmbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063407806326423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKyd6rawAABLUQ.jpg",
+        "width": 931
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2063337860292624385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJy2hZbQAEv0Ap.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063407806326423552"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063407808385868141",
+        "created_at": "2026-06-06T23:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063407808385868141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCdCXNIfEs",
+              "end": 28,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063407808385868141/photo/1",
+              "media_key": "3_2063407806326423552",
+              "start": 5,
+              "url": "https://t.co/eCdCXNIfEs"
+            },
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2063337864277205476",
+              "start": 29,
+              "url": "https://t.co/OifzHhXmbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063407808385868141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063337864277205476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇异搞笑 https://t.co/eCdCXNIfEs https://t.co/OifzHhXmbM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063337860292624385"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2063337864277205476",
+        "created_at": "2026-06-06T19:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063337864277205476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChDrtGFXmP",
+              "end": 30,
+              "expanded_url": "https://x.com/ashasw114514/status/2063337864277205476/photo/1",
+              "media_key": "3_2063337860292624385",
+              "start": 7,
+              "url": "https://t.co/ChDrtGFXmP"
+            },
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2062617455982501898",
+              "start": 31,
+              "url": "https://t.co/zH1u1GIVgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063337864277205476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062617455982501898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原图也发一下 https://t.co/ChDrtGFXmP https://t.co/zH1u1GIVgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 431,
+          "like_count": 732,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2191
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮娘🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 3151,
+          "like_count": 7012,
+          "listed_count": 10,
+          "media_count": 579,
+          "tweet_count": 4766
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

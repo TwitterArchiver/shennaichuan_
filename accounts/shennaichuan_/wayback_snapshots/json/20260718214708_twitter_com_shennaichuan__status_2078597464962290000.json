@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074917064624759033",
+    "created_at": "2026-07-18T21:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078597464962290000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896950944312832000",
+          "start": 0,
+          "username": "Meowbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078597464962290000",
+    "in_reply_to_user_id": "1896950944312832000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074917064624759033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowbandage 绫波丽绫波丽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074917064624759033",
+        "created_at": "2026-07-18T21:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078597464962290000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896950944312832000",
+              "start": 0,
+              "username": "Meowbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078597464962290000",
+        "in_reply_to_user_id": "1896950944312832000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074917064624759033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowbandage 绫波丽绫波丽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896950944312832000",
+        "conversation_id": "2074917064624759033",
+        "created_at": "2026-07-08T18:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074917064624759033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074917064624759033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我要cos喜欢的角色然后我迄今为止只cos过绫波丽和沙耶和时崎狂三。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 613,
+          "like_count": 853,
+          "listed_count": 4,
+          "media_count": 425,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T15:48:52.000Z",
+        "description": "一颗心两面受伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow39997",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow39997",
+                "start": 0,
+                "url": "https://t.co/zHUpgwRLTD"
+              }
+            ]
+          }
+        },
+        "id": "1896950944312832000",
+        "name": "snow",
+        "pinned_tweet_id": "2052420793896976564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068747062259408896/jhoe_kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 269,
+          "like_count": 4923,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/zHUpgwRLTD",
+        "username": "Meowbandage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064079415789932804",
+    "created_at": "2026-06-09T18:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064419714756182503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1672301662155993090",
+          "start": 0,
+          "username": "SNAja3H3vX26996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064419714756182503",
+    "in_reply_to_user_id": "1672301662155993090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064350638511894860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNAja3H3vX26996 我滴妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064079415789932804",
+        "created_at": "2026-06-09T18:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064419714756182503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1672301662155993090",
+              "start": 0,
+              "username": "SNAja3H3vX26996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064419714756182503",
+        "in_reply_to_user_id": "1672301662155993090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064350638511894860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNAja3H3vX26996 我滴妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672301662155993090",
+        "conversation_id": "2064079415789932804",
+        "created_at": "2026-06-09T14:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064350638511894860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064350638511894860",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064079415789932804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 458,
+          "like_count": 745,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2258
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T17:52:53.000Z",
+        "description": "devil may cry",
+        "id": "1672301662155993090",
+        "location": "常盘台中学",
+        "name": "流浪诗人",
+        "pinned_tweet_id": "1923518883002188164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059940249388900353/wye90lss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 2008,
+          "like_count": 19392,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 3043
+        },
+        "username": "SNAja3H3vX26996",
+        "verified": false
+      }
+    ]
+  }
+}

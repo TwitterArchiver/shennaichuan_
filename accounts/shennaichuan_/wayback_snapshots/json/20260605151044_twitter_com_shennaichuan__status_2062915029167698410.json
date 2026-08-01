@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062915018887503872",
+        "3_2062915018891677696"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062915029167698410",
+    "created_at": "2026-06-05T15:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062915029167698410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SSjYAXOk3A",
+          "end": 28,
+          "expanded_url": "https://x.com/shennaichuan_/status/2062915029167698410/photo/1",
+          "media_key": "3_2062915018887503872",
+          "start": 5,
+          "url": "https://t.co/SSjYAXOk3A"
+        },
+        {
+          "display_url": "pic.x.com/SSjYAXOk3A",
+          "end": 28,
+          "expanded_url": "https://x.com/shennaichuan_/status/2062915029167698410/photo/1",
+          "media_key": "3_2062915018891677696",
+          "start": 5,
+          "url": "https://t.co/SSjYAXOk3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062915029167698410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有无懂的 https://t.co/SSjYAXOk3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2062915018887503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDyR6aboAAcAe9.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2062915018891677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDyR6bbUAApfau.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062915018887503872",
+            "3_2062915018891677696"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062915029167698410",
+        "created_at": "2026-06-05T15:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062915029167698410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSjYAXOk3A",
+              "end": 28,
+              "expanded_url": "https://x.com/shennaichuan_/status/2062915029167698410/photo/1",
+              "media_key": "3_2062915018887503872",
+              "start": 5,
+              "url": "https://t.co/SSjYAXOk3A"
+            },
+            {
+              "display_url": "pic.x.com/SSjYAXOk3A",
+              "end": 28,
+              "expanded_url": "https://x.com/shennaichuan_/status/2062915029167698410/photo/1",
+              "media_key": "3_2062915018891677696",
+              "start": 5,
+              "url": "https://t.co/SSjYAXOk3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062915029167698410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无懂的 https://t.co/SSjYAXOk3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 426,
+          "like_count": 731,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 2168
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

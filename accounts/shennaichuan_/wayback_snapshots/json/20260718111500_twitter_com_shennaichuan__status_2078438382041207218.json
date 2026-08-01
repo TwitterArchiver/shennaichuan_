@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078437269078434099",
+    "created_at": "2026-07-18T11:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078438382041207218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820189807777349632",
+          "start": 0,
+          "username": "Sisyphussts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078438382041207218",
+    "in_reply_to_user_id": "1820189807777349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078438258246041790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sisyphussts 我喜歡傑克斑馬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078437269078434099",
+        "created_at": "2026-07-18T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078438382041207218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820189807777349632",
+              "start": 0,
+              "username": "Sisyphussts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078438382041207218",
+        "in_reply_to_user_id": "1820189807777349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078438258246041790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sisyphussts 我喜歡傑克斑馬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820189807777349632",
+        "conversation_id": "2078437269078434099",
+        "created_at": "2026-07-18T11:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078438258246041790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078438258246041790",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078437269078434099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 喜欢蕾塞的四千加了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 603,
+          "like_count": 853,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 3244
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "田怀东受众@pilljvce @pil1jvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "pilljvce"
+              },
+              {
+                "end": 24,
+                "start": 15,
+                "username": "pil1jvce"
+              }
+            ]
+          }
+        },
+        "id": "1820189807777349632",
+        "location": "侵华日军南京大屠杀遇难同胞纪念馆",
+        "name": "田怀东受众",
+        "pinned_tweet_id": "2074127253236048100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073035952327651328/EtUxkOWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 67,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Sisyphussts",
+        "verified": false
+      }
+    ]
+  }
+}

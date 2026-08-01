@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2081436088087011818",
+    "created_at": "2026-07-26T17:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081436088087011818"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081436088087011818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bro我懂你，思诺思是这样子的，你永远不知道自己是什么时候睡着的。我有一次吃完思诺思之后，在那拿假鸡巴紫薇，早上发现自己睡得很死，裤子脱下来了，然后假鸡巴还插在逼里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081436088087011818",
+        "created_at": "2026-07-26T17:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081436088087011818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081436088087011818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro我懂你，思诺思是这样子的，你永远不知道自己是什么时候睡着的。我有一次吃完思诺思之后，在那拿假鸡巴紫薇，早上发现自己睡得很死，裤子脱下来了，然后假鸡巴还插在逼里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 629,
+          "like_count": 880,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

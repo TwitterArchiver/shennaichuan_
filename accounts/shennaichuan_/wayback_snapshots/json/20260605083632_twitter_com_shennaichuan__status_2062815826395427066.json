@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062773671404708119",
+    "created_at": "2026-06-05T08:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062815826395427066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883059385997635585",
+          "start": 0,
+          "username": "Kikyo4000"
+        },
+        {
+          "end": 20,
+          "id": "4943671",
+          "start": 11,
+          "username": "kirakira"
+        },
+        {
+          "end": 33,
+          "id": "1820843841190256640",
+          "start": 21,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062815826395427066",
+    "in_reply_to_user_id": "1883059385997635585",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062815723811111008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikyo4000 @kirakira @kirakira5th"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062773671404708119",
+        "created_at": "2026-06-05T08:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062815826395427066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883059385997635585",
+              "start": 0,
+              "username": "Kikyo4000"
+            },
+            {
+              "end": 20,
+              "id": "4943671",
+              "start": 11,
+              "username": "kirakira"
+            },
+            {
+              "end": 33,
+              "id": "1820843841190256640",
+              "start": 21,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062815826395427066",
+        "in_reply_to_user_id": "1883059385997635585",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062815723811111008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikyo4000 @kirakira @kirakira5th"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883059385997635585",
+        "conversation_id": "2062773671404708119",
+        "created_at": "2026-06-05T08:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062815723811111008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 24,
+              "id": "4943671",
+              "start": 15,
+              "username": "kirakira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062815723811111008",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062813649790706052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @kirakira 这是新号吗，我看他原来的号是个币圈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 424,
+          "like_count": 733,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 2158
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:48:51.000Z",
+        "description": "",
+        "id": "1883059385997635585",
+        "location": "1989年6月4日天安门坦克履带缝隙",
+        "name": "花取",
+        "pinned_tweet_id": "1954036841625026570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056412385905127424/S85bsawi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 600,
+          "like_count": 9558,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 2056
+        },
+        "username": "Kikyo4000",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-17T02:29:00.000Z",
+        "description": "かわいいもの、きれいなもの、きらきらしたものに囲まれて暮らしたい！",
+        "id": "4943671",
+        "name": "Tomoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/21778062/P4123046_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 461
+        },
+        "username": "kirakira",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "纯良萌萌人",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "哈基夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 818,
+          "like_count": 4923,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 1798
+        },
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

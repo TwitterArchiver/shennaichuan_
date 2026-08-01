@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2070530181744525806",
+    "created_at": "2026-06-26T16:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070546185052373143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070546185052373143",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070530181744525806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 你是想去派派喝茶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070530146973679616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwAMtMagAAvjxP.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070530181744525806",
+        "created_at": "2026-06-26T16:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070546185052373143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070546185052373143",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070530181744525806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 你是想去派派喝茶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070530146973679616"
+          ]
+        },
+        "author_id": "1822167103673143296",
+        "conversation_id": "2070530181744525806",
+        "created_at": "2026-06-26T15:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070530181744525806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLD476A4ya",
+              "end": 27,
+              "expanded_url": "https://x.com/zau743598828677/status/2070530181744525806/photo/1",
+              "media_key": "3_2070530146973679616",
+              "start": 4,
+              "url": "https://t.co/mLD476A4ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070530181744525806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逮捕！ https://t.co/mLD476A4ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 548,
+          "like_count": 815,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "@GLaDOS8964 的转生，老号被人搞丢了，随时随地无聊中，欢迎来骚扰，lgbt友好🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2067576199875051715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 151,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

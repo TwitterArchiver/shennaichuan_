@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2079014593402425525",
+    "created_at": "2026-07-20T02:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079028885677806022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1978144204946567168",
+          "start": 0,
+          "username": "huangkankanh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079028885677806022",
+    "in_reply_to_user_id": "1978144204946567168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079018963829149839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangkankanh 是吹牛老爹同款派对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2079014593402425525",
+        "created_at": "2026-07-20T02:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079028885677806022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978144204946567168",
+              "start": 0,
+              "username": "huangkankanh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079028885677806022",
+        "in_reply_to_user_id": "1978144204946567168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079018963829149839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangkankanh 是吹牛老爹同款派对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978144204946567168",
+        "conversation_id": "2079014593402425525",
+        "created_at": "2026-07-20T01:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079018963829149839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079018963829149839",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079014593402425525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 是银趴吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 620,
+          "like_count": 858,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3344
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T17:01:51.000Z",
+        "description": "梅兰竹菊",
+        "id": "1978144204946567168",
+        "location": "Arunachal Pradesh",
+        "name": "黄看花🌹",
+        "pinned_tweet_id": "2052244062627864980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057653920093126656/040Sg09y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 142,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 8675
+        },
+        "url": "",
+        "username": "huangkankanh",
+        "verified": false
+      }
+    ]
+  }
+}

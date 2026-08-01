@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069697188817756342",
+    "created_at": "2026-06-25T10:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070084906672414915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaBasupisu"
+        },
+        {
+          "end": 31,
+          "id": "1841306675674075136",
+          "start": 16,
+          "username": "suishoucrystal"
+        },
+        {
+          "end": 47,
+          "id": "1439904333361913856",
+          "start": 32,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070084906672414915",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070074410112094487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaBasupisu @suishoucrystal @shennaichuan22"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9800,
+        "height": 528,
+        "media_key": "7_2070074386892382208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070074386892382208/pu/img/mNqTBfWrCjtwTDLn.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070074386892382208/pu/vid/avc1/316x528/wExB1wmeVzatC0pG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070074386892382208/pu/pl/iLoS6aerc3FSxgL9.m3u8?tag=12"
+          }
+        ],
+        "width": 316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069697188817756342",
+        "created_at": "2026-06-25T10:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070084906672414915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaBasupisu"
+            },
+            {
+              "end": 31,
+              "id": "1841306675674075136",
+              "start": 16,
+              "username": "suishoucrystal"
+            },
+            {
+              "end": 47,
+              "id": "1439904333361913856",
+              "start": 32,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070084906672414915",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070074410112094487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaBasupisu @suishoucrystal @shennaichuan22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070074386892382208"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "2069697188817756342",
+        "created_at": "2026-06-25T09:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070074410112094487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZkk5YvfMr",
+              "end": 65,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2070074410112094487/video/1",
+              "media_key": "7_2070074386892382208",
+              "start": 42,
+              "url": "https://t.co/LZkk5YvfMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070074410112094487",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069697188817756342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 虽然没法决定会不会被歧视，但可以决定怎么怼这种人↓ https://t.co/LZkk5YvfMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰耍起",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 548,
+          "like_count": 809,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 2726
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬&超级气球冻肉\n日本語⭕、English⭕、蜀语⭕\n⭐本人拒绝搬屎和为流量传播、捏造未经证实的虚假信息及盗窃他人创作成果、此类蓝标“创作者”会Block.\n不负责粉区碰瓷后的创伤后应激障碍治疗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6Lbagv"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1903109740160335943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979181079417290752/wVluLINB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12584,
+          "following_count": 1947,
+          "like_count": 52829,
+          "listed_count": 57,
+          "media_count": 1099,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/hLiv6Lbagv",
+        "username": "KawawaBasupisu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 1571,
+          "like_count": 2847,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 4970
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1156,
+          "like_count": 242119,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 17231
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068251098385916275",
+    "created_at": "2026-06-24T01:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069596622565327230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552090312964640768",
+          "start": 0,
+          "username": "two_last_kiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069596622565327230",
+    "in_reply_to_user_id": "1552090312964640768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068251098385916275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@two_last_kiss 哦牛批给个互关吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2068251091570212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPnaONbQAA8Fh5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068251098385916275",
+        "created_at": "2026-06-24T01:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069596622565327230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552090312964640768",
+              "start": 0,
+              "username": "two_last_kiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069596622565327230",
+        "in_reply_to_user_id": "1552090312964640768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068251098385916275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@two_last_kiss 哦牛批给个互关吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068251091570212864"
+          ]
+        },
+        "author_id": "1552090312964640768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068251098385916275",
+        "created_at": "2026-06-20T08:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068251098385916275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmhyzaJ8bf",
+              "end": 34,
+              "expanded_url": "https://x.com/two_last_kiss/status/2068251098385916275/photo/1",
+              "media_key": "3_2068251091570212864",
+              "start": 11,
+              "url": "https://t.co/HmhyzaJ8bf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068251098385916275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛批还有这种台词的 https://t.co/HmhyzaJ8bf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby 大大方方骚扰",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 550,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 2682
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T00:35:59.000Z",
+        "description": "東方/ボカロ/アニメ/音MAD/例のアレ",
+        "id": "1552090312964640768",
+        "location": "London, England",
+        "name": "一切都是破石头门的选择",
+        "pinned_tweet_id": "1873371554157109397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015793714699042816/TJE4cI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 1384,
+          "like_count": 96642,
+          "listed_count": 14,
+          "media_count": 1751,
+          "tweet_count": 12720
+        },
+        "url": "",
+        "username": "two_last_kiss",
+        "verified": false
+      }
+    ]
+  }
+}

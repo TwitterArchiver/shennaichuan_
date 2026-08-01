@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067543314598072597",
+    "created_at": "2026-06-18T14:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067617757215207916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992427109923647488",
+          "start": 0,
+          "username": "lucky_fischl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067617757215207916",
+    "in_reply_to_user_id": "1992427109923647488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067543314598072597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky_fischl 哈哈哈哈真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067543314598072597",
+        "created_at": "2026-06-18T14:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067617757215207916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992427109923647488",
+              "start": 0,
+              "username": "lucky_fischl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067617757215207916",
+        "in_reply_to_user_id": "1992427109923647488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067543314598072597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky_fischl 哈哈哈哈真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992427109923647488",
+        "conversation_id": "2067543314598072597",
+        "created_at": "2026-06-18T09:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067543314598072597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tradfemcel/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tradfemcel/status/2067498832917590054",
+              "start": 16,
+              "url": "https://t.co/GMx8RrL0yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067543314598072597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 907,
+          "impression_count": 186026,
+          "like_count": 2511,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067498832917590054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私もそれやってみる！楽しそう! https://t.co/GMx8RrL0yo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "搁外边一定要注意自身，因为外边传染病太多了\n一定要学会保护自己，听到了吗\n洁身自爱，因为外边传染病太多了",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 521,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2499
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T02:57:06.000Z",
+        "description": "💓₊°༺I love cats🎀artist💞ꑭ🎀༻ ‿̩͙‿♰⚠️\n💕🍥˖⁺‧₊˚ the final boss of LARPʚଓ ྀིྀ🤡🎀\n ✿🟨/⬛️ʚɞ\n🇹🇼🇭🇰🇰🇷🇸🇬🇯🇵🇰🇵🇨🇳\n自分: @ClownFischl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "ClownFischl"
+              }
+            ]
+          }
+        },
+        "id": "1992427109923647488",
+        "location": "🎀うwう王国💓",
+        "name": "🎀👾🧬🍥౨ৎ 어둠의 고양이⛧🍥🧬💊💓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059653744095375360/wlmQNHhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4121,
+          "following_count": 818,
+          "like_count": 17104,
+          "listed_count": 21,
+          "media_count": 93,
+          "tweet_count": 1845
+        },
+        "url": "",
+        "username": "lucky_fischl",
+        "verified": false
+      }
+    ]
+  }
+}

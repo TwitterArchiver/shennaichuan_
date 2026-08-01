@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2065075940213014936",
+    "created_at": "2026-06-12T20:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065530492296867915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065530492296867915",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065075940213014936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi 尬活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065075916645236736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKifmt3agAAaCX1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2065075940213014936",
+        "created_at": "2026-06-12T20:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065530492296867915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065530492296867915",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065075940213014936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi 尬活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065075916645236736"
+          ]
+        },
+        "author_id": "1826611872118046720",
+        "conversation_id": "2065075940213014936",
+        "created_at": "2026-06-11T14:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065075940213014936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScEaNJRz6Z",
+              "end": 42,
+              "expanded_url": "https://x.com/Ijichi_Kotomi/status/2065075940213014936/photo/1",
+              "media_key": "3_2065075916645236736",
+              "start": 19,
+              "url": "https://t.co/ScEaNJRz6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065075940213014936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3111,
+          "like_count": 319,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：初音未来靠头发可以挂在椅背上 https://t.co/ScEaNJRz6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 483,
+          "like_count": 763,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 2350
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "University Student/18/China @HKUniversity 25’/HAI interest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk Bilingual: En/Zh alt:@kotomi_tyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "kotomi_tyan"
+              }
+            ]
+          }
+        },
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893880882429108224/IKz-uKQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 722,
+          "like_count": 15648,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 5191
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

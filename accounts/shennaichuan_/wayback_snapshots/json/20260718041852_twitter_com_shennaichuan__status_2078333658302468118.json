@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078255464496947428",
+    "created_at": "2026-07-18T04:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078333658302468118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470729277222326275",
+          "start": 0,
+          "username": "Etsun12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078333658302468118",
+    "in_reply_to_user_id": "1470729277222326275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078333452882256091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Etsun12 我是你爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078255464496947428",
+        "created_at": "2026-07-18T04:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078333658302468118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470729277222326275",
+              "start": 0,
+              "username": "Etsun12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078333658302468118",
+        "in_reply_to_user_id": "1470729277222326275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333452882256091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Etsun12 我是你爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470729277222326275",
+        "conversation_id": "2078255464496947428",
+        "created_at": "2026-07-18T04:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078333452882256091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078333452882256091",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078255464496947428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 你是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 594,
+          "like_count": 844,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3208
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-14T12:16:07.000Z",
+        "description": "全世界红老嗨联合起来！",
+        "id": "1470729277222326275",
+        "location": "Not Here",
+        "name": "铜锣烧食堂🌵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998628578452451333/9sYyApVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 83,
+          "like_count": 4784,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "Etsun12",
+        "verified": false
+      }
+    ]
+  }
+}

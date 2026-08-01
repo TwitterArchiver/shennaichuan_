@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068473394849366238",
+    "created_at": "2026-06-21T01:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068501351227904291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "RyuuseiMk1WEAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068501351227904291",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068473394849366238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuseiMk1WEAS 幽默不尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068473394849366238",
+        "created_at": "2026-06-21T01:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068501351227904291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "RyuuseiMk1WEAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068501351227904291",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068473394849366238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuseiMk1WEAS 幽默不尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986894257194737665",
+        "conversation_id": "2068473394849366238",
+        "created_at": "2026-06-20T23:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068473394849366238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amiercreer/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/amiercreer/status/2068331757980553711",
+              "start": 21,
+              "url": "https://t.co/v2aZOMoqkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068473394849366238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068331757980553711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "amber也有孝子了 互聯網真是太有趣啦 https://t.co/v2aZOMoqkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 531,
+          "like_count": 783,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2591
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mmP5Va7sfv",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mmP5Va7sfv",
+                "start": 0,
+                "url": "https://t.co/kso1Sq8Kdv"
+              }
+            ]
+          }
+        },
+        "id": "1986894257194737665",
+        "location": "Le monologue du meurtre",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2063428991030018274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043721630887944192/n9dg2haI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 845,
+          "like_count": 3609,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/kso1Sq8Kdv",
+        "username": "RyuuseiMk1WEAS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074178052809224257",
+    "created_at": "2026-07-06T17:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074185266374566329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074131584093970433",
+          "start": 0,
+          "username": "fuckingshit0721"
+        },
+        {
+          "end": 30,
+          "id": "1769078117052854272",
+          "start": 17,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 43,
+          "id": "1490976522362302465",
+          "start": 31,
+          "username": "miss_u_shen"
+        },
+        {
+          "end": 56,
+          "id": "1490976522362302465",
+          "start": 44,
+          "username": "miss_u_shen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074185266374566329",
+    "in_reply_to_user_id": "2074131584093970433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074181058807935400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckingshit0721 @huahuojiang_ @miss_u_shen @miss_u_shen 亲兄弟能否拿这个号刷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074178052809224257",
+        "created_at": "2026-07-06T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074185266374566329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074131584093970433",
+              "start": 0,
+              "username": "fuckingshit0721"
+            },
+            {
+              "end": 30,
+              "id": "1769078117052854272",
+              "start": 17,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 43,
+              "id": "1490976522362302465",
+              "start": 31,
+              "username": "miss_u_shen"
+            },
+            {
+              "end": 56,
+              "id": "1490976522362302465",
+              "start": 44,
+              "username": "miss_u_shen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074185266374566329",
+        "in_reply_to_user_id": "2074131584093970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074181058807935400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckingshit0721 @huahuojiang_ @miss_u_shen @miss_u_shen 亲兄弟能否拿这个号刷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074131584093970433",
+        "conversation_id": "2074178052809224257",
+        "created_at": "2026-07-06T17:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074181058807935400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 28,
+              "id": "1769078117052854272",
+              "start": 15,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 41,
+              "id": "1490976522362302465",
+              "start": 29,
+              "username": "miss_u_shen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074181058807935400",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074180377552585207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @huahuojiang_ @miss_u_shen 这个账号好像不存在喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 572,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3056
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵\n茫茫冻土身相随，有心炽如火喵",
+        "id": "2074131584093970433",
+        "name": "sin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2074162616440848438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7106,
+          "following_count": 3575,
+          "like_count": 103178,
+          "listed_count": 16,
+          "media_count": 8785,
+          "tweet_count": 99956
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "够尬够魔够哈人不回复就是死了\n-这里是精神病的日记本，一直更新奇异搞笑遗书哪天不回就是死啦",
+        "id": "1490976522362302465",
+        "location": "ㅤㅤㅤㅤ",
+        "name": "坂本龍一",
+        "pinned_tweet_id": "1882598938395697606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026231673411764224/A7nsKyEU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1946,
+          "tweet_count": 14293
+        },
+        "url": "",
+        "username": "miss_u_shen",
+        "verified": false
+      }
+    ]
+  }
+}

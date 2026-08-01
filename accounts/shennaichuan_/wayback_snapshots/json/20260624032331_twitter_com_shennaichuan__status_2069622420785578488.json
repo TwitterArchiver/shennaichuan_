@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069614724900434250",
+    "created_at": "2026-06-24T03:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069622420785578488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007060747910795264",
+          "start": 0,
+          "username": "Y01ukawa_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069622420785578488",
+    "in_reply_to_user_id": "2007060747910795264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069614724900434250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y01ukawa_Mi0 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069614724900434250",
+        "created_at": "2026-06-24T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069622420785578488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007060747910795264",
+              "start": 0,
+              "username": "Y01ukawa_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069622420785578488",
+        "in_reply_to_user_id": "2007060747910795264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069614724900434250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y01ukawa_Mi0 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007060747910795264",
+        "conversation_id": "2069614724900434250",
+        "created_at": "2026-06-24T02:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069614724900434250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iseki_zero/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/iseki_zero/status/2069613596196376896",
+              "start": 5,
+              "url": "https://t.co/djKXnnAQlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069614724900434250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069613596196376896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日首笑 https://t.co/djKXnnAQlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "伟大 坚毅 真诚与爱",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 553,
+          "like_count": 802,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 2686
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:06:10.000Z",
+        "description": "1971年，卡辛斯基在辞去教职，并在朗伯德的老家住了两年后前往蒙大拿州隐居。他在蒙大拿州的林肯建了一座小木屋，过上没水没电且开销小的简单生活——他四处打零工，但主要是受到其家人的经济援助。卡辛斯基原本的目标是能够自给自足的生活",
+        "id": "2007060747910795264",
+        "name": "澪澪澪澪澪澪澪澪澪澪",
+        "pinned_tweet_id": "2059271338540585442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008194766023041024/lejrrQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 18,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "Y01ukawa_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

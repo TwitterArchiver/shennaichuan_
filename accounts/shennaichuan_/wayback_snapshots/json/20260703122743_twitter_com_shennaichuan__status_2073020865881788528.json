@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2072947367704420482",
+    "created_at": "2026-07-03T12:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073020865881788528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073020865881788528",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072947367704420482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 你们亲兄弟ddl开始指点江山了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2072947367704420482",
+        "created_at": "2026-07-03T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073020865881788528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073020865881788528",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072947367704420482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 你们亲兄弟ddl开始指点江山了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850053428711718912",
+        "conversation_id": "2072947367704420482",
+        "created_at": "2026-07-03T07:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072947367704420482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072947367704420482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3029,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，出于我与家里面的问题从现在开始要为自己的未来想退路了，所以我决定开始做带单交易了，所以如果你不愿意主页上出现大量关于黄金外汇具体交易策略和市场基本面的帖子的可以把我ban一下抱歉打扰了，真的打扰到各位了🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 550,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "主攻黄金中线短/日内交易，偶尔会涉及加密，股市。当不了最准的交易员但希望能当最透明的交易员，每一笔订单策略均为实盘交易\n⬇️这是我的邀请链接，使用平台为@TMGMgroup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "TMGMgroup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portal.tminvgain.com/register?node=…",
+                "end": 23,
+                "expanded_url": "https://portal.tminvgain.com/register?node=MzU2NDU0&language=zh-Hans",
+                "start": 0,
+                "url": "https://t.co/aKj6V0yZzb"
+              }
+            ]
+          }
+        },
+        "id": "1850053428711718912",
+        "name": "DDLking👑",
+        "pinned_tweet_id": "2072963335524630693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030323769542377472/wPa2l1e0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 328,
+          "like_count": 7069,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/aKj6V0yZzb",
+        "username": "duoduolin0",
+        "verified": true
+      }
+    ]
+  }
+}

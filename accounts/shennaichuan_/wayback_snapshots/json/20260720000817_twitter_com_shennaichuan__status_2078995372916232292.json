@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078499554849390657",
+    "created_at": "2026-07-20T00:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078995372916232292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846069092765388800",
+          "start": 0,
+          "username": "Real_Baomi"
+        },
+        {
+          "end": 27,
+          "id": "1439904333361913856",
+          "start": 12,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078995372916232292",
+    "in_reply_to_user_id": "1846069092765388800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078501608514793643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Real_Baomi @shennaichuan22 有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078499554849390657",
+        "created_at": "2026-07-20T00:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078995372916232292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846069092765388800",
+              "start": 0,
+              "username": "Real_Baomi"
+            },
+            {
+              "end": 27,
+              "id": "1439904333361913856",
+              "start": 12,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078995372916232292",
+        "in_reply_to_user_id": "1846069092765388800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078501608514793643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Real_Baomi @shennaichuan22 有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846069092765388800",
+        "conversation_id": "2078499554849390657",
+        "created_at": "2026-07-18T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078501608514793643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078501608514793643",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078499554849390657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 還有影片嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 619,
+          "like_count": 856,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T06:03:13.000Z",
+        "description": "包蜜、臘蜜、川蜜☭⃠ 定型文愛好分子@daxiking150",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "daxiking150"
+              }
+            ]
+          }
+        },
+        "id": "1846069092765388800",
+        "location": "中南海",
+        "name": "包蜜",
+        "pinned_tweet_id": "1992792618867253681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848239911499177984/oN3EEhgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 433,
+          "like_count": 55893,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 3965
+        },
+        "url": "",
+        "username": "Real_Baomi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1173,
+          "like_count": 246823,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 18082
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

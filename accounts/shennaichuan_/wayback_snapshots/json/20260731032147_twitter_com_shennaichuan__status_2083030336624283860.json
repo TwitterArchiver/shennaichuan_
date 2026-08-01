@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083019345098346883",
+    "created_at": "2026-07-31T03:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083030336624283860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1695298028763316224",
+          "start": 0,
+          "username": "Joseph_Rodham"
+        },
+        {
+          "end": 30,
+          "id": "1439904333361913856",
+          "start": 15,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083030336624283860",
+    "in_reply_to_user_id": "1695298028763316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083023624890618021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joseph_Rodham @shennaichuan22 这是？🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083019345098346883",
+        "created_at": "2026-07-31T03:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083030336624283860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695298028763316224",
+              "start": 0,
+              "username": "Joseph_Rodham"
+            },
+            {
+              "end": 30,
+              "id": "1439904333361913856",
+              "start": 15,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030336624283860",
+        "in_reply_to_user_id": "1695298028763316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083023624890618021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joseph_Rodham @shennaichuan22 这是？🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695298028763316224",
+        "conversation_id": "2083019345098346883",
+        "created_at": "2026-07-31T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083023624890618021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 30,
+              "id": "1439904333361913856",
+              "start": 15,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083023624890618021",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083019345098346883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @shennaichuan22 你們快去過好日子，享福去吧☝🏻🐮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 657,
+          "like_count": 964,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 3548
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T04:52:19.000Z",
+        "description": "Hammurabi Pihua TV: Dedicated to ensuring everyone has a voice on the internet.\n窝永遠支持Dem/支持Obama /Dem建制者/支持LGBTQ➕/支持人權/支持墮胎權/支持同性婚姻合法化/雙相/Phd @Columbia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "Columbia"
+              }
+            ]
+          }
+        },
+        "id": "1695298028763316224",
+        "location": "Cambridge MA",
+        "name": "Joseph Rodham's Bullshit TV",
+        "pinned_tweet_id": "2042295775598952786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014651578116890624/kBFiXRiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 1872,
+          "like_count": 34207,
+          "listed_count": 7,
+          "media_count": 1659,
+          "tweet_count": 18039
+        },
+        "url": "",
+        "username": "Joseph_Rodham",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "还有男德吗wcnm😭",
+        "id": "1439904333361913856",
+        "location": "驻马店",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1197,
+          "like_count": 252081,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 18706
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

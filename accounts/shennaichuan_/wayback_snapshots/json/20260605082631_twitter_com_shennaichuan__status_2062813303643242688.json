@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2055938000895533529",
+    "created_at": "2026-06-05T08:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062813303643242688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 30,
+          "id": "1695298028763316224",
+          "start": 16,
+          "username": "Joseph_Rodham"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062813303643242688",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055950745938362720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @Joseph_Rodham 哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055950745938362720].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055950745938362720",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055950745938362720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2055938000895533529",
+        "created_at": "2026-06-05T08:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062813303643242688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 30,
+              "id": "1695298028763316224",
+              "start": 16,
+              "username": "Joseph_Rodham"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062813303643242688",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055950745938362720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @Joseph_Rodham 哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 424,
+          "like_count": 730,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2148
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "pinned_tweet_id": "2055938000895533529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 1131,
+          "like_count": 239356,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 16645
+        },
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T04:52:19.000Z",
+        "description": "Hammurabi Pihua TV: Dedicated to ensuring everyone has a voice on the internet.\n窝永遠支持DEM/支持Obama /進步主義/支持LGBTQ➕/支持人權/支持墮胎權/支持同性婚姻合法化/雙相/Phd @Columbia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "Columbia"
+              }
+            ]
+          }
+        },
+        "id": "1695298028763316224",
+        "location": "Cambridge MA",
+        "name": "約瑟夫.羅德姆的批話TV",
+        "pinned_tweet_id": "2042295775598952786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014651578116890624/kBFiXRiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1849,
+          "like_count": 32585,
+          "listed_count": 7,
+          "media_count": 1548,
+          "tweet_count": 17326
+        },
+        "username": "Joseph_Rodham",
+        "verified": false
+      }
+    ]
+  }
+}

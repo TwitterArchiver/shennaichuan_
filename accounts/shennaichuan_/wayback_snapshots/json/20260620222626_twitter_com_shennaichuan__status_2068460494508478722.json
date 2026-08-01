@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068329489000718583",
+    "created_at": "2026-06-20T22:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068460494508478722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632943664497324034",
+          "start": 0,
+          "username": "WDAFZ001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068460494508478722",
+    "in_reply_to_user_id": "1632943664497324034",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068329489000718583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WDAFZ001 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068329461251178497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQur8BaAAEqzK2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068329489000718583",
+        "created_at": "2026-06-20T22:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068460494508478722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632943664497324034",
+              "start": 0,
+              "username": "WDAFZ001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068460494508478722",
+        "in_reply_to_user_id": "1632943664497324034",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068329489000718583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WDAFZ001 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068329461251178497"
+          ]
+        },
+        "author_id": "1632943664497324034",
+        "conversation_id": "2068329489000718583",
+        "created_at": "2026-06-20T13:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068329489000718583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6c9f3H6vt",
+              "end": 36,
+              "expanded_url": "https://x.com/WDAFZ001/status/2068329489000718583/photo/1",
+              "media_key": "3_2068329461251178497",
+              "start": 13,
+              "url": "https://t.co/G6c9f3H6vt"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068329489000718583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想問下這個是洋蔥嗎 https://t.co/G6c9f3H6vt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4460,
+          "following_count": 530,
+          "like_count": 781,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2576
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:18:28.000Z",
+        "description": "一般路过巧克力🍫，心脏应为幸福跳动！            \n\n me(눈‸눈)@IseriNina1\n@Andechs_\nAono🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "IseriNina1"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Andechs_"
+              }
+            ]
+          }
+        },
+        "id": "1632943664497324034",
+        "location": "東德老英雄史塔西巧克力.專圖反對巧克力黨的",
+        "name": "ℬ𝒶𝓉𝑒𝓁 𝓋𝑜𝓃 𝒜𝓃𝒹𝑒𝒸𝒽𝓈",
+        "pinned_tweet_id": "2067267147550839266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067280253127659520/VR0NvLNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1050,
+          "like_count": 11536,
+          "listed_count": 8,
+          "media_count": 3382,
+          "tweet_count": 11837
+        },
+        "url": "",
+        "username": "WDAFZ001",
+        "verified": false
+      }
+    ]
+  }
+}

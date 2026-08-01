@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2070157691339878811",
+    "created_at": "2026-06-25T15:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070172812187447328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070172812187447328",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070157691339878811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070157691339878811",
+        "created_at": "2026-06-25T15:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070172812187447328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070172812187447328",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070157691339878811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区阿良良木鼠下令摧毁评论区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2070157691339878811",
+        "created_at": "2026-06-25T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070157691339878811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koiiok17/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/koiiok17/status/2070130975867285697",
+              "start": 79,
+              "url": "https://t.co/UQDIHhIhUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070157691339878811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070130975867285697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "boss直聘假中假，我去找教辅机构，写的是6-8k，单休\n我笔试面试完了，一问薪资，底薪2000，平均一个月就3000多。。。\n每天早上8点到晚上5点。。。 https://t.co/UQDIHhIhUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4545,
+          "following_count": 545,
+          "like_count": 809,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 2749
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1156,
+          "like_count": 242244,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 17255
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

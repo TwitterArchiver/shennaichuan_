@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2027268947339587981",
+    "created_at": "2026-07-04T11:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073365424532828190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927702793223340032",
+          "start": 0,
+          "username": "pil1jvce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073365424532828190",
+    "in_reply_to_user_id": "1927702793223340032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027359038632349961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pil1jvce 你继续瞎骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2027268947339587981",
+        "created_at": "2026-07-04T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073365424532828190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927702793223340032",
+              "start": 0,
+              "username": "pil1jvce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073365424532828190",
+        "in_reply_to_user_id": "1927702793223340032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027359038632349961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pil1jvce 你继续瞎骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927702793223340032",
+        "conversation_id": "2027268947339587981",
+        "created_at": "2026-02-27T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027359038632349961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027359038632349961",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9255,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027268947339587981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuannaishen12 你65岁的奴才爹被小区保安用警棍捅的括约肌外翻,你在icu门口像上世纪50年代的裹脚廉价妓女一样急哭了,泪水和逼水汇成新的下水道,大禹闻了这烂鱼臭虾的白带味都要跑过来治水,你求医生救救你半只脚进棺材的爹请问你急得像个吃了春药的免费鸡有用吗?你急的直接拿扩阴器把你的下体打开,让医生检查你不会把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 559,
+          "like_count": 816,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 2946
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T12:26:29.000Z",
+        "description": "张雪峰千古@pilljvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "pilljvce"
+              }
+            ]
+          }
+        },
+        "id": "1927702793223340032",
+        "name": "坚硬如水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060661993904685056/a9Zur5qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 91,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "pil1jvce",
+        "verified": false
+      }
+    ]
+  }
+}

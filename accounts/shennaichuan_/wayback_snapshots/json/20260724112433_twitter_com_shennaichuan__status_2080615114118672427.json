@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2080239733482086411",
+    "created_at": "2026-07-24T11:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080615114118672427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2052437224361447424",
+          "start": 0,
+          "username": "mikik8yq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080615114118672427",
+    "in_reply_to_user_id": "2052437224361447424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080239733482086411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikik8yq 网区聚集地zz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11668,
+        "height": 1280,
+        "media_key": "13_2080239619250298880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080239619250298880/img/S-1xFZkrA41Xx9jZ.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/320x568/_codFECRXMG-G8tH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/480x852/TPpD6VlymXHfj695.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/720x1280/uIzfIeCe4lm8Rk5w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/pl/x0NDrIsWGTjMwKro.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080239733482086411",
+        "created_at": "2026-07-24T11:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080615114118672427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052437224361447424",
+              "start": 0,
+              "username": "mikik8yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080615114118672427",
+        "in_reply_to_user_id": "2052437224361447424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080239733482086411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikik8yq 网区聚集地zz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080239619250298880"
+          ]
+        },
+        "author_id": "2052437224361447424",
+        "conversation_id": "2080239733482086411",
+        "created_at": "2026-07-23T10:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080239733482086411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c32lJDTEQu",
+              "end": 23,
+              "expanded_url": "https://x.com/mikik8yq/status/2080239733482086411/video/1",
+              "media_key": "13_2080239619250298880",
+              "start": 0,
+              "url": "https://t.co/c32lJDTEQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239733482086411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c32lJDTEQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4914,
+          "following_count": 633,
+          "like_count": 879,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 3441
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T17:16:36.000Z",
+        "description": "我是一个只存于互联网的电子幽灵真实的存在于地球的某一个角落",
+        "id": "2052437224361447424",
+        "name": "天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077994219051118592/WCTAynwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 14,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "mikik8yq",
+        "verified": false
+      }
+    ]
+  }
+}

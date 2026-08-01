@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067757154845818983",
+    "created_at": "2026-06-20T06:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068226988238856697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1710974168181751808",
+          "start": 0,
+          "username": "oeskkk"
+        },
+        {
+          "end": 17,
+          "id": "1932574328547364864",
+          "start": 8,
+          "username": "Muntoven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226988238856697",
+    "in_reply_to_user_id": "1710974168181751808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067874243342209223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oeskkk @Muntoven lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067757154845818983",
+        "created_at": "2026-06-20T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068226988238856697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1710974168181751808",
+              "start": 0,
+              "username": "oeskkk"
+            },
+            {
+              "end": 17,
+              "id": "1932574328547364864",
+              "start": 8,
+              "username": "Muntoven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226988238856697",
+        "in_reply_to_user_id": "1710974168181751808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067874243342209223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oeskkk @Muntoven lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710974168181751808",
+        "conversation_id": "2067757154845818983",
+        "created_at": "2026-06-19T07:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067874243342209223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 24,
+              "id": "1932574328547364864",
+              "start": 15,
+              "username": "Muntoven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067874243342209223",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1747,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067757154845818983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @Muntoven looks fake as fuck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 529,
+          "like_count": 775,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 2542
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T11:03:30.000Z",
+        "description": "her face was warm from the sun but her body was cold",
+        "id": "1710974168181751808",
+        "location": "Rapey, France",
+        "name": "oesk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068060196115550210/SggvKdMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 232,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "oeskkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T23:03:31.000Z",
+        "description": "hardcore' @MuneyMendoza\naka KonArtis, Peter Plugg, 'कोनआर्टिस वैम्प मन'",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "MuneyMendoza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/konartis",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/konartis",
+                "start": 0,
+                "url": "https://t.co/G4aM3ETjSi"
+              }
+            ]
+          }
+        },
+        "id": "1932574328547364864",
+        "location": "© WAVEWORLD  वैम्प मन",
+        "name": "Kon ひ",
+        "pinned_tweet_id": "2033264003590296060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067340644209852416/CYEK_Dii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 292,
+          "like_count": 12609,
+          "listed_count": 0,
+          "media_count": 1446,
+          "tweet_count": 6003
+        },
+        "url": "https://t.co/G4aM3ETjSi",
+        "username": "Muntoven",
+        "verified": false
+      }
+    ]
+  }
+}

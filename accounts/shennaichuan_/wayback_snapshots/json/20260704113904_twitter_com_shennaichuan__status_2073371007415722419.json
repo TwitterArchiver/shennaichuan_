@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073320673880232259",
+    "created_at": "2026-07-04T11:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073371007415722419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1363077693751836672",
+          "start": 0,
+          "username": "nfs2315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073371007415722419",
+    "in_reply_to_user_id": "1363077693751836672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073327587020165380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nfs2315 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073320673880232259",
+        "created_at": "2026-07-04T11:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073371007415722419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1363077693751836672",
+              "start": 0,
+              "username": "nfs2315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073371007415722419",
+        "in_reply_to_user_id": "1363077693751836672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073327587020165380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nfs2315 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363077693751836672",
+        "conversation_id": "2073320673880232259",
+        "created_at": "2026-07-04T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073327587020165380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073327587020165380",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073320673880232259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 可怜的十一子……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 561,
+          "like_count": 816,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T10:47:18.000Z",
+        "description": "BuSy BuT lAzY...",
+        "id": "1363077693751836672",
+        "name": "1 Five Ⅲ",
+        "pinned_tweet_id": "2023310423794270638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363081870972452866/lB6cZpcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 440,
+          "like_count": 11396,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "nfs2315",
+        "verified": false
+      }
+    ]
+  }
+}

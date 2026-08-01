@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064529379301171296",
+    "created_at": "2026-06-10T02:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064529379301171296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064529379301171296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人活着的意义是过程吗 但我现在感觉过程也无所谓了 没有任何意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064529379301171296",
+        "created_at": "2026-06-10T02:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064529379301171296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064529379301171296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人活着的意义是过程吗 但我现在感觉过程也无所谓了 没有任何意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 460,
+          "like_count": 749,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 2277
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

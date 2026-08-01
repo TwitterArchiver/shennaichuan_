@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070358359279390720"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2070358361846247775",
+    "created_at": "2026-06-26T04:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070358361846247775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLL7TQWG5n",
+          "end": 28,
+          "expanded_url": "https://x.com/shennaichuan_/status/2070358361846247775/photo/1",
+          "media_key": "3_2070358359279390720",
+          "start": 5,
+          "url": "https://t.co/FLL7TQWG5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070358361846247775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报喜报 https://t.co/FLL7TQWG5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070358359279390720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtj9WKb0AAyQlW.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070358359279390720"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070358361846247775",
+        "created_at": "2026-06-26T04:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070358361846247775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLL7TQWG5n",
+              "end": 28,
+              "expanded_url": "https://x.com/shennaichuan_/status/2070358361846247775/photo/1",
+              "media_key": "3_2070358359279390720",
+              "start": 5,
+              "url": "https://t.co/FLL7TQWG5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070358361846247775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报喜报 https://t.co/FLL7TQWG5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 546,
+          "like_count": 813,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 2766
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

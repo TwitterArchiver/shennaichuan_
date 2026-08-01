@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067543316523331689",
+    "created_at": "2026-06-18T13:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067607156598382673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 24,
+          "id": "2047614425012776961",
+          "start": 12,
+          "username": "Melody_0v0_"
+        },
+        {
+          "end": 38,
+          "id": "2067535566535815168",
+          "start": 25,
+          "username": "yumumu_msknb"
+        },
+        {
+          "end": 50,
+          "id": "217515352",
+          "start": 39,
+          "username": "idris21000"
+        },
+        {
+          "end": 61,
+          "id": "162974851",
+          "start": 51,
+          "username": "Paramjitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067607156598382673",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067543316523331689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 @Melody_0v0_ @yumumu_msknb @idris21000 @Paramjitt 兄弟们点点举报"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067543316523331689",
+        "created_at": "2026-06-18T13:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067607156598382673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 24,
+              "id": "2047614425012776961",
+              "start": 12,
+              "username": "Melody_0v0_"
+            },
+            {
+              "end": 38,
+              "id": "2067535566535815168",
+              "start": 25,
+              "username": "yumumu_msknb"
+            },
+            {
+              "end": 50,
+              "id": "217515352",
+              "start": 39,
+              "username": "idris21000"
+            },
+            {
+              "end": 61,
+              "id": "162974851",
+              "start": 51,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067607156598382673",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067543316523331689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @Melody_0v0_ @yumumu_msknb @idris21000 @Paramjitt 兄弟们点点举报"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2067543316523331689",
+        "created_at": "2026-06-18T09:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067543316523331689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 28,
+              "id": "2047614425012776961",
+              "start": 16,
+              "username": "Melody_0v0_"
+            },
+            {
+              "end": 43,
+              "id": "2067535566535815168",
+              "start": 30,
+              "username": "yumumu_msknb"
+            },
+            {
+              "end": 56,
+              "id": "217515352",
+              "start": 45,
+              "username": "idris21000"
+            },
+            {
+              "end": 68,
+              "id": "162974851",
+              "start": 58,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067543316523331689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 244,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "现在\n@Shivam3228 \n@Melody_0v0_ \n@yumumu_msknb \n@idris21000 \n@Paramjitt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n互关扩列友好tut",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 519,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2493
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2067588292372299787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 438,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:51:52.000Z",
+        "description": "",
+        "id": "2047614425012776961",
+        "name": "痛み♪",
+        "pinned_tweet_id": "2056315867156369630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047619292150239232/cnGphgyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 192,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 582
+        },
+        "username": "Melody_0v0_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:11:58.000Z",
+        "description": "",
+        "id": "2067535566535815168",
+        "name": "yumumu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067536430273048576/Utm49WY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "yumumu_msknb",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-19T18:56:43.000Z",
+        "description": "哈吉米\ntg：LIhua1314",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/8iH2EiKMXr"
+              }
+            ]
+          }
+        },
+        "id": "217515352",
+        "location": "食堂👉",
+        "name": "Catherine",
+        "pinned_tweet_id": "2067578681195991414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067529035207593984/XV93gPC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/8iH2EiKMXr",
+        "username": "idris21000",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "思思林",
+        "pinned_tweet_id": "2067545770711265564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067542157100232704/cUFqWLKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

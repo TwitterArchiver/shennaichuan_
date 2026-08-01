@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1417415621281673217",
+          "name": "Central Banks"
+        }
+      }
+    ],
+    "conversation_id": "2074180954344837477",
+    "created_at": "2026-07-06T17:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074180954344837477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shennaichuan_/…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/shennaichuan_/status/2066979620487069972",
+          "start": 106,
+          "url": "https://t.co/WvMs76sOzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074180954344837477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066979620487069972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同龄人： 游戏 短视频 烂梗 网蛆 二次元痴\n​见证  柜子vs品客 低脂cosplay  npc\n​我：斐波那契 Fvg  bos  对冲 fomc Adp\ncpi通胀  自媒体 雅思 绝对理性  市场化思维 https://t.co/WvMs76sOzX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15535,
+        "height": 1280,
+        "media_key": "7_2066979594457296896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066979594457296896/pu/img/J-kKgaDYcFbaspYs.jpg",
+        "public_metrics": {
+          "view_count": 7252611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/320x568/s0r_ZoSPicYCuZgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/480x852/ndT8ZydZc7_wy34t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/720x1280/qpZxzA6UXAnW_EaV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/pl/5NRhuLikXBpbBZO2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417415621281673217",
+              "name": "Central Banks"
+            }
+          }
+        ],
+        "conversation_id": "2074180954344837477",
+        "created_at": "2026-07-06T17:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074180954344837477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shennaichuan_/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/shennaichuan_/status/2066979620487069972",
+              "start": 106,
+              "url": "https://t.co/WvMs76sOzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074180954344837477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979620487069972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同龄人： 游戏 短视频 烂梗 网蛆 二次元痴\n​见证  柜子vs品客 低脂cosplay  npc\n​我：斐波那契 Fvg  bos  对冲 fomc Adp\ncpi通胀  自媒体 雅思 绝对理性  市场化思维 https://t.co/WvMs76sOzX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066979594457296896"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-16T20:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066979620487069972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHNdnzIXTV",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2066979620487069972/video/1",
+              "media_key": "7_2066979594457296896",
+              "start": 0,
+              "url": "https://t.co/eHNdnzIXTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066979620487069972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10768,
+          "impression_count": 7543469,
+          "like_count": 18421,
+          "quote_count": 293,
+          "reply_count": 476,
+          "retweet_count": 1299
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/eHNdnzIXTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 571,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3050
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

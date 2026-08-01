@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064426481934368798",
+    "created_at": "2026-06-09T19:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064426481934368798"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064426481934368798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "社会存在决定社会意识 意识具备相对独立性   滞后性就是常见的表现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064426481934368798",
+        "created_at": "2026-06-09T19:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064426481934368798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064426481934368798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社会存在决定社会意识 意识具备相对独立性   滞后性就是常见的表现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 460,
+          "like_count": 747,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2263
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

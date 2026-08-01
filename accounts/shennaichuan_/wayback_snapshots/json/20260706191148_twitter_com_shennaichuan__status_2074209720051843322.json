@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074201663930614165",
+    "created_at": "2026-07-06T19:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074209720051843322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865350100069076992",
+          "start": 0,
+          "username": "Reiaki114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074209720051843322",
+    "in_reply_to_user_id": "1865350100069076992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074201663930614165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reiaki114 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074201660365447168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkLa6aboAArspY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074201663930614165",
+        "created_at": "2026-07-06T19:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074209720051843322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865350100069076992",
+              "start": 0,
+              "username": "Reiaki114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074209720051843322",
+        "in_reply_to_user_id": "1865350100069076992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074201663930614165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiaki114 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074201660365447168"
+          ]
+        },
+        "author_id": "1865350100069076992",
+        "conversation_id": "2074201663930614165",
+        "created_at": "2026-07-06T18:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074201663930614165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPblQjjcTu",
+              "end": 39,
+              "expanded_url": "https://x.com/Reiaki114/status/2074201663930614165/photo/1",
+              "media_key": "3_2074201660365447168",
+              "start": 16,
+              "url": "https://t.co/vPblQjjcTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074201663930614165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我该怎么把这些独身女鸡给全杀了 https://t.co/vPblQjjcTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 579,
+          "like_count": 823,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3083
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T10:58:23.000Z",
+        "description": "locating in🇯🇵 ip东京\n地下アイドル❤️舞台派最棒了💗温良爱好者💕ヲタ芸一年め/Utage！MAGMAZ❤️\n中国語 English 日本語 可\n精神病 看成分互fo可 友跨🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/reiaki114_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/reiaki114_",
+                "start": 0,
+                "url": "https://t.co/gIV55HPwIQ"
+              }
+            ]
+          }
+        },
+        "id": "1865350100069076992",
+        "location": "歌舞伎町",
+        "name": "𡧃佐美リャキ",
+        "pinned_tweet_id": "2069032855783772197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056979654725283840/-M_pi1dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 626,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/gIV55HPwIQ",
+        "username": "Reiaki114",
+        "verified": true
+      }
+    ]
+  }
+}

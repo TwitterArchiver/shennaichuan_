@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078260017061642240",
+        "3_2078260059772186624"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078260142299345088",
+    "created_at": "2026-07-17T23:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078260142299345088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJ9y2ogj8U",
+          "end": 65,
+          "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+          "media_key": "3_2078260017061642240",
+          "start": 42,
+          "url": "https://t.co/rJ9y2ogj8U"
+        },
+        {
+          "display_url": "pic.x.com/rJ9y2ogj8U",
+          "end": 65,
+          "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+          "media_key": "3_2078260059772186624",
+          "start": 42,
+          "url": "https://t.co/rJ9y2ogj8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078260142299345088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我号炸了亲兄弟们，然后这个尬杂让你发个讣告真是成事不足败事有余，怎么给我写死了，， https://t.co/rJ9y2ogj8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2764,
+        "media_key": "3_2078260017061642240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2eXPbQAAlKQX.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2675,
+        "media_key": "3_2078260059772186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2g2WacAAPvfe.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078260017061642240",
+            "3_2078260059772186624"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078260142299345088",
+        "created_at": "2026-07-17T23:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078260142299345088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJ9y2ogj8U",
+              "end": 65,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+              "media_key": "3_2078260017061642240",
+              "start": 42,
+              "url": "https://t.co/rJ9y2ogj8U"
+            },
+            {
+              "display_url": "pic.x.com/rJ9y2ogj8U",
+              "end": 65,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+              "media_key": "3_2078260059772186624",
+              "start": 42,
+              "url": "https://t.co/rJ9y2ogj8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078260142299345088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我号炸了亲兄弟们，然后这个尬杂让你发个讣告真是成事不足败事有余，怎么给我写死了，， https://t.co/rJ9y2ogj8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067012903035896131",
+    "created_at": "2026-06-16T22:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T23:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067012903035896131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067012903035896131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1盘点那些感人的反见证语录\n我家边牧可以见证吗？\n盘盘赢麻了。\n红色嘉豪。\n火腿你在哪？\n不想工作可以辞职，闹钟不差你一个。\n想想凌晨一点还在工作的环卫阿姨。\n闹钟整体平均值收入43377/年。\n想想是不是自己不够努力？\n越了解，越拥护闹钟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067012903035896131",
+        "created_at": "2026-06-16T22:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067012903035896131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067012903035896131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1盘点那些感人的反见证语录\n我家边牧可以见证吗？\n盘盘赢麻了。\n红色嘉豪。\n火腿你在哪？\n不想工作可以辞职，闹钟不差你一个。\n想想凌晨一点还在工作的环卫阿姨。\n闹钟整体平均值收入43377/年。\n想想是不是自己不够努力？\n越了解，越拥护闹钟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 512,
+          "like_count": 771,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 2462
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

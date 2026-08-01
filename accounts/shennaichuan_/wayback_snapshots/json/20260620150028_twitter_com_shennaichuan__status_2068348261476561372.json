@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068268176509645145",
+    "created_at": "2026-06-20T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068348261476561372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016473938679963648",
+          "start": 0,
+          "username": "StefanieWa62112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068348261476561372",
+    "in_reply_to_user_id": "2016473938679963648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068268176509645145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StefanieWa62112 下次记得标记一下出处啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15567,
+        "height": 1280,
+        "media_key": "13_2068268109254041600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068268109254041600/img/igKPpNwHh86aHBQQ.jpg",
+        "public_metrics": {
+          "view_count": 123024
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068268109254041600/vid/avc1/320x568/Z671PejJcV4e1KDi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068268109254041600/vid/avc1/480x852/WMydW_dQMsWou8wY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068268109254041600/vid/avc1/720x1280/s6H1Q2JcneRNByaH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068268109254041600/pl/SAUVkw_XS9SFgkQY.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068268176509645145",
+        "created_at": "2026-06-20T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068348261476561372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016473938679963648",
+              "start": 0,
+              "username": "StefanieWa62112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068348261476561372",
+        "in_reply_to_user_id": "2016473938679963648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068268176509645145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StefanieWa62112 下次记得标记一下出处啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068268109254041600"
+          ]
+        },
+        "author_id": "2016473938679963648",
+        "conversation_id": "2068268176509645145",
+        "created_at": "2026-06-20T09:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068268176509645145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxJcwmZk7X",
+              "end": 37,
+              "expanded_url": "https://x.com/StefanieWa62112/status/2068268176509645145/video/1",
+              "media_key": "13_2068268109254041600",
+              "start": 14,
+              "url": "https://t.co/PxJcwmZk7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068268176509645145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 240630,
+          "like_count": 1407,
+          "quote_count": 2,
+          "reply_count": 339,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "给大王露一手 绝活助助兴嘛 https://t.co/PxJcwmZk7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 529,
+          "like_count": 779,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T11:30:33.000Z",
+        "description": "`_____我主号 @YaYee4016165289",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "YaYee4016165289"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bshvuq.zzym4.online",
+                "end": 23,
+                "expanded_url": "http://bshvuq.zzym4.online",
+                "start": 0,
+                "url": "https://t.co/9iRBTAImRq"
+              }
+            ]
+          }
+        },
+        "id": "2016473938679963648",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "猫女啾啾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033829360302755841/JTXfcirK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 532,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/9iRBTAImRq",
+        "username": "StefanieWa62112",
+        "verified": false
+      }
+    ]
+  }
+}

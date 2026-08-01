@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083038272926986286",
+    "created_at": "2026-07-31T04:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083051448699625900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554078434275430400",
+          "start": 0,
+          "username": "Rhine__H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083051448699625900",
+    "in_reply_to_user_id": "1554078434275430400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083038272926986286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhine__H 好可爱为啥不回我私信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083038266237050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhwREia4AAqfEf.jpg",
+        "width": 1594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083038272926986286",
+        "created_at": "2026-07-31T04:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083051448699625900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554078434275430400",
+              "start": 0,
+              "username": "Rhine__H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083051448699625900",
+        "in_reply_to_user_id": "1554078434275430400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083038272926986286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhine__H 好可爱为啥不回我私信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083038266237050880"
+          ]
+        },
+        "author_id": "1554078434275430400",
+        "conversation_id": "2083038272926986286",
+        "created_at": "2026-07-31T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083038272926986286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "subahibi"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "高島ざくろ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hY7g6xMbfh",
+              "end": 61,
+              "expanded_url": "https://x.com/Rhine__H/status/2083038272926986286/photo/1",
+              "media_key": "3_2083038266237050880",
+              "start": 38,
+              "url": "https://t.co/hY7g6xMbfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083038272926986286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 161,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界そのものの少女\n\n#素晴らしき日々 #subahibi  #高島ざくろ https://t.co/hY7g6xMbfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 659,
+          "like_count": 965,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 3551
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "莱茵 偶尔发感兴趣的cos内容和生活内容\n小莱茵：@Rhine___H",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Rhine___H"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883525122059096064/TtVf1nwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21839,
+          "following_count": 981,
+          "like_count": 44938,
+          "listed_count": 48,
+          "media_count": 1792,
+          "tweet_count": 13058
+        },
+        "url": "",
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

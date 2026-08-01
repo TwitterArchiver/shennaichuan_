@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069616918013894768",
+    "created_at": "2026-07-04T18:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073481572536529243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777255499811184640",
+          "start": 0,
+          "username": "Reisa_Music"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073481572536529243",
+    "in_reply_to_user_id": "1777255499811184640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069616918013894768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reisa_Music 恭喜宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069616918013894768].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069616918013894768",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069616918013894768"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069616918013894768",
+        "created_at": "2026-07-04T18:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073481572536529243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777255499811184640",
+              "start": 0,
+              "username": "Reisa_Music"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073481572536529243",
+        "in_reply_to_user_id": "1777255499811184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069616918013894768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reisa_Music 恭喜宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 568,
+          "like_count": 819,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 3004
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:42:23.000Z",
+        "description": "ご注文は宇沢レイサですか☕️ 誰かの🔑鍵垢。ここで毒を吐きます。 *不熟悉的人的follow會被拒絕。",
+        "id": "1777255499811184640",
+        "location": "Mainz, Germany",
+        "name": "マジカル喫茶店",
+        "pinned_tweet_id": "1902929825691734134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033742733232480256/OWEoym00_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 597,
+          "like_count": 10467,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 2634
+        },
+        "url": "",
+        "username": "Reisa_Music",
+        "verified": false
+      }
+    ]
+  }
+}

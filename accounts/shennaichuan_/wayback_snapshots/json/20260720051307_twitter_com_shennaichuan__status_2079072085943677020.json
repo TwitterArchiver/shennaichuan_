@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078999207420236070",
+    "created_at": "2026-07-20T05:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079072085943677020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826255472636350464",
+          "start": 0,
+          "username": "KawaiiTrotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079072085943677020",
+    "in_reply_to_user_id": "1826255472636350464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079058425401721254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiTrotsky 我又不是0720发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078999207420236070",
+        "created_at": "2026-07-20T05:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079072085943677020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826255472636350464",
+              "start": 0,
+              "username": "KawaiiTrotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079072085943677020",
+        "in_reply_to_user_id": "1826255472636350464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079058425401721254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiTrotsky 我又不是0720发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826255472636350464",
+        "conversation_id": "2078999207420236070",
+        "created_at": "2026-07-20T04:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079058425401721254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "哈哈哈哈文科的下场",
+              "display_url": "Twitter.com/shennaichuan_/…",
+              "end": 38,
+              "expanded_url": "https://Twitter.com/shennaichuan_/status/2073318060929564879?s=20",
+              "images": [
+                {
+                  "height": 901,
+                  "url": "https://pbs.twimg.com/news_img/2079058426236375040/nuYUW964?format=jpg&name=orig",
+                  "width": 1206
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079058426236375040/nuYUW964?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "河南说唱之神 (@shennaichuan_) on X",
+              "unwound_url": "https://Twitter.com/shennaichuan_/status/2073318060929564879?s=20",
+              "url": "https://t.co/8ZlBDZx9BN"
+            },
+            {
+              "description": "唉",
+              "display_url": "Twitter.com/shennaichuan_/…",
+              "end": 62,
+              "expanded_url": "https://Twitter.com/shennaichuan_/status/2075025055969685656?s=20",
+              "start": 39,
+              "status": 200,
+              "title": "河南说唱之神 (@shennaichuan_) on X",
+              "unwound_url": "https://Twitter.com/shennaichuan_/status/2075025055969685656?s=20",
+              "url": "https://t.co/FGRDHfSOoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079058425401721254",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075025055969685656",
+            "type": "quoted"
+          },
+          {
+            "id": "2078999207420236070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ https://t.co/8ZlBDZx9BN\nhttps://t.co/FGRDHfSOoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我是无糖mtf",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 622,
+          "like_count": 859,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3364
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T13:50:30.000Z",
+        "description": "無言フォロー失礼します|アニメ|フォロバ99%|block back100%(blocked 10000+)\n死妈盗号骗子的🖕👉@_fabianellis6\n账号终于解封了😭政治推文下别@我\n4LSOFFICIAL→@FourLeafStudios\nFair is foul, and foul is fair",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "_fabianellis6"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "FourLeafStudios"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com/KawaiiTrotsky/…",
+                "end": 23,
+                "expanded_url": "https://Twitter.com/KawaiiTrotsky/status/1935915282738168142?mx=1",
+                "start": 0,
+                "url": "https://t.co/4Haa7w9AKf"
+              }
+            ]
+          }
+        },
+        "id": "1826255472636350464",
+        "location": "IMNOT4LSACC|fuck@_fabianellis6",
+        "name": "砂藤リリー（終ノ空に帰す）",
+        "pinned_tweet_id": "2049346431367151848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931922308031250432/PgClKYdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 7476,
+          "like_count": 13717,
+          "listed_count": 3,
+          "media_count": 1414,
+          "tweet_count": 22568
+        },
+        "url": "https://t.co/4Haa7w9AKf",
+        "username": "KawaiiTrotsky",
+        "verified": false
+      }
+    ]
+  }
+}

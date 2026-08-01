@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2079077352693551316",
+    "created_at": "2026-07-21T01:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079376863055773802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706489705418588160",
+          "start": 0,
+          "username": "Mantou0618"
+        },
+        {
+          "end": 21,
+          "id": "1956382370669686784",
+          "start": 12,
+          "username": "siu98544"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079376863055773802",
+    "in_reply_to_user_id": "1706489705418588160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079077352693551316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mantou0618 @siu98544 给我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2079077335442354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpd0jebcAA4g2M.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079077335438110720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpd0jdasAAlrik.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079077335442370560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpd0jebsAAS4U4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2079077352693551316",
+        "created_at": "2026-07-21T01:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079376863055773802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706489705418588160",
+              "start": 0,
+              "username": "Mantou0618"
+            },
+            {
+              "end": 21,
+              "id": "1956382370669686784",
+              "start": 12,
+              "username": "siu98544"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079376863055773802",
+        "in_reply_to_user_id": "1706489705418588160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079077352693551316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mantou0618 @siu98544 给我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079077335442354176",
+            "3_2079077335438110720",
+            "3_2079077335442370560"
+          ]
+        },
+        "author_id": "1706489705418588160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079077352693551316",
+        "created_at": "2026-07-20T05:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079077352693551316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956382370669686784",
+              "start": 4,
+              "username": "siu98544"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJSsfuiAXp",
+              "end": 37,
+              "expanded_url": "https://x.com/Mantou0618/status/2079077352693551316/photo/1",
+              "media_key": "3_2079077335442354176",
+              "start": 14,
+              "url": "https://t.co/lJSsfuiAXp"
+            },
+            {
+              "display_url": "pic.x.com/lJSsfuiAXp",
+              "end": 37,
+              "expanded_url": "https://x.com/Mantou0618/status/2079077352693551316/photo/1",
+              "media_key": "3_2079077335438110720",
+              "start": 14,
+              "url": "https://t.co/lJSsfuiAXp"
+            },
+            {
+              "display_url": "pic.x.com/lJSsfuiAXp",
+              "end": 37,
+              "expanded_url": "https://x.com/Mantou0618/status/2079077352693551316/photo/1",
+              "media_key": "3_2079077335442370560",
+              "start": 14,
+              "url": "https://t.co/lJSsfuiAXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079077352693551316",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hi～😘@siu98544 https://t.co/lJSsfuiAXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我是无糖mtf🚪52",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 625,
+          "like_count": 860,
+          "listed_count": 4,
+          "media_count": 433,
+          "tweet_count": 3397
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-26T02:03:59.000Z",
+        "description": "过去结下的缘，当下总要清算。缘分深浅，全看欠得多寡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantou0717",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantou0717",
+                "start": 0,
+                "url": "https://t.co/ZZFqBq9g7f"
+              }
+            ]
+          }
+        },
+        "id": "1706489705418588160",
+        "name": "Mantou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867571702521376769/U7GUSsZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 791,
+          "like_count": 23084,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/ZZFqBq9g7f",
+        "username": "Mantou0618",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T15:49:08.000Z",
+        "description": "",
+        "id": "1956382370669686784",
+        "name": "siu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960063133323833344/tGsBNwuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 207,
+          "like_count": 5393,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 3154
+        },
+        "url": "",
+        "username": "siu98544",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078364796572033087",
+    "created_at": "2026-07-18T06:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078364796572033087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "15.公司",
+          "end": 167,
+          "expanded_url": "http://15.xn--55qx5d",
+          "start": 144,
+          "unwound_url": "http://15.xn--55qx5d",
+          "url": "https://t.co/Pb1HrhwWOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078364796572033087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "15.公司",
+            "end": 167,
+            "expanded_url": "http://15.xn--55qx5d",
+            "start": 144,
+            "url": "https://t.co/ODrZ8HMstw"
+          },
+          {
+            "display_url": "23.公司",
+            "end": 277,
+            "expanded_url": "http://23.xn--55qx5d",
+            "start": 254,
+            "url": "https://t.co/MkEbtsy4SA"
+          }
+        ]
+      },
+      "text": "1.试用期多久\n2.转正考核的标准是什么呢\n3.几号发工资\n4.每个月无责底薪多少\n5.有提成吗\n6.有提成的话提成怎么算\n7.是双休吗\n8.按照法定节假日放假吗\n9.试用期内离职要提前几天通知\n10.要加班吗\n11.加班有工资吗\n12.病假扣工资吗\n13.迟到要乐捐吗\n14.全勤多少\nhttps://t.co/ODrZ8HMstw交通方便吗\n16.有交通补贴吗\n17.有五险一金吗\n18.五险一金按什么基数缴纳的\n19.团建频率多久\n20.团建占用周末吗\n21.每天几点上班几点下班\n22.有绩效考核吗\nhttps://t.co/MkEbtsy4SA有微波炉吗\n24.有冰箱吗\n25.有保洁吗？要员工打扫卫生吗\n26.经常开会吗\n27.入职有人带我吗\n28.每日都有kpi吗\n29.工作内容和jd上写的一致吗\n30.同事平均在职多久\n31.上一个人为什么走\n32.加班能调休吗\n33.缺卡能补吗\n34.上一个人干到转正了吗\n35.会开实习证明吗\n36.干多久才会开实习证明\n37.签的是劳动合同吗\n38.劳动合同一般签几年\n39.有年终奖吗\n40.事假怎么扣工资\n41.涨薪周期多久\n42.晋升怎样\n43.出外勤报销车费吗\n44.老板会阴阳人吗\n45.直系领导是老板吗\n46.见到领导一定要打招呼吗\n47.有餐补吗\n48.要发朋友圈吗\n49.要换头像吗\n50.请假容易吗"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.试用期多久\n2.转正考核的标准是什么呢\n3.几号发工资\n4.每个月无责底薪多少\n5.有提成吗\n6.有提成的话提成怎么算\n7.是双休吗\n8.按照法定节假日放假吗\n9.试用期内离职要提前几天通知\n10.要加班吗\n11.加班有工资吗\n12.病假扣工资吗\n13.迟到要乐捐吗\n14.全勤多少\nhttps://t.co/Pb1HrhwWOq交通方便吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078364796572033087",
+        "created_at": "2026-07-18T06:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078364796572033087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "15.公司",
+              "end": 167,
+              "expanded_url": "http://15.xn--55qx5d",
+              "start": 144,
+              "unwound_url": "http://15.xn--55qx5d",
+              "url": "https://t.co/Pb1HrhwWOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078364796572033087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "15.公司",
+                "end": 167,
+                "expanded_url": "http://15.xn--55qx5d",
+                "start": 144,
+                "url": "https://t.co/ODrZ8HMstw"
+              },
+              {
+                "display_url": "23.公司",
+                "end": 277,
+                "expanded_url": "http://23.xn--55qx5d",
+                "start": 254,
+                "url": "https://t.co/MkEbtsy4SA"
+              }
+            ]
+          },
+          "text": "1.试用期多久\n2.转正考核的标准是什么呢\n3.几号发工资\n4.每个月无责底薪多少\n5.有提成吗\n6.有提成的话提成怎么算\n7.是双休吗\n8.按照法定节假日放假吗\n9.试用期内离职要提前几天通知\n10.要加班吗\n11.加班有工资吗\n12.病假扣工资吗\n13.迟到要乐捐吗\n14.全勤多少\nhttps://t.co/ODrZ8HMstw交通方便吗\n16.有交通补贴吗\n17.有五险一金吗\n18.五险一金按什么基数缴纳的\n19.团建频率多久\n20.团建占用周末吗\n21.每天几点上班几点下班\n22.有绩效考核吗\nhttps://t.co/MkEbtsy4SA有微波炉吗\n24.有冰箱吗\n25.有保洁吗？要员工打扫卫生吗\n26.经常开会吗\n27.入职有人带我吗\n28.每日都有kpi吗\n29.工作内容和jd上写的一致吗\n30.同事平均在职多久\n31.上一个人为什么走\n32.加班能调休吗\n33.缺卡能补吗\n34.上一个人干到转正了吗\n35.会开实习证明吗\n36.干多久才会开实习证明\n37.签的是劳动合同吗\n38.劳动合同一般签几年\n39.有年终奖吗\n40.事假怎么扣工资\n41.涨薪周期多久\n42.晋升怎样\n43.出外勤报销车费吗\n44.老板会阴阳人吗\n45.直系领导是老板吗\n46.见到领导一定要打招呼吗\n47.有餐补吗\n48.要发朋友圈吗\n49.要换头像吗\n50.请假容易吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.试用期多久\n2.转正考核的标准是什么呢\n3.几号发工资\n4.每个月无责底薪多少\n5.有提成吗\n6.有提成的话提成怎么算\n7.是双休吗\n8.按照法定节假日放假吗\n9.试用期内离职要提前几天通知\n10.要加班吗\n11.加班有工资吗\n12.病假扣工资吗\n13.迟到要乐捐吗\n14.全勤多少\nhttps://t.co/Pb1HrhwWOq交通方便吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 603,
+          "like_count": 848,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 3229
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

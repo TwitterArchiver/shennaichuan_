@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-19T00:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067762621592510662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1219652999087345665",
+          "start": 0,
+          "username": "habsburg334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067762621592510662",
+    "in_reply_to_user_id": "1219652999087345665",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067165846183534684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@habsburg334 lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-19T00:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067762621592510662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1219652999087345665",
+              "start": 0,
+              "username": "habsburg334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067762621592510662",
+        "in_reply_to_user_id": "1219652999087345665",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067165846183534684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@habsburg334 lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219652999087345665",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067165846183534684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067165846183534684",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3531,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979620487069972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 房间里不许荡秋千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我出生在河南小镇，从小到现在，谁家小朋友上学自杀的，谁家中年妇女吵架喝药自杀了，中年男性因为压力生病自杀了，老人没人赡养自杀了听的太多了。说起来就是喝药走了。今天和家人去诊所看病因为感冒，拿完药结账是45元。前天家人说公粮补贴下来了妈妈去账户看了一下是一百多元，姥爷活着的时候养老补贴我记得也是比较低的一二百好像？",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3386,
+          "following_count": 522,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T16:08:45.000Z",
+        "description": "巴蜀利亞托利黨人 papist 男人是女人的头 如同基督是教会的头 女人出生就老了，20岁以上的逼不肏",
+        "id": "1219652999087345665",
+        "name": "🚁Habsburg🚁",
+        "pinned_tweet_id": "2041429023046160447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535263546459639809/2ms5z5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 701,
+          "like_count": 36142,
+          "listed_count": 11,
+          "media_count": 1092,
+          "tweet_count": 28012
+        },
+        "url": "",
+        "username": "habsburg334",
+        "verified": false
+      }
+    ]
+  }
+}

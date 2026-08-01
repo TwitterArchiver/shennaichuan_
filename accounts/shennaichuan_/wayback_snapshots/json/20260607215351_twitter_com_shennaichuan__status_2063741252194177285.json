@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063610036782555339",
+    "created_at": "2026-06-07T21:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063741252194177285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063741252194177285",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063610036782555339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_2063608972746362880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNpbV_bEAAfCdL.png",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063610036782555339",
+        "created_at": "2026-06-07T21:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063741252194177285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063741252194177285",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063610036782555339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063608972746362880"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "conversation_id": "2063610036782555339",
+        "created_at": "2026-06-07T13:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063610036782555339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "碎碎念"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84zn4Tj139",
+              "end": 160,
+              "expanded_url": "https://x.com/hzqsns/status/2063610036782555339/photo/1",
+              "media_key": "3_2063608972746362880",
+              "start": 137,
+              "url": "https://t.co/84zn4Tj139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063610036782555339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "text": "#碎碎念\n和家里人聊天，好久没和我爸单独聊聊了，问了下他现在啥工资，把我给震惊到了，我以为我爸在广电干了三十年虽然是在小县城（坐标湖北仙桃）起码得有个3k吧，结果一问居然连3k都没有，扣完五险一金到手只有不到2k，然后我查了下仙桃最低工资刚好是1970元一个月，卡着发放的\n\n这么低也就算了，关键是一问工资还被扣着三个月没有发了（你法我笑.jpg），因为现在没人看电视，广电现在除了电视宽带好像还有个运营商的业务不过也是在被三大运营商打压了\n\n哎，都不造说啥了，感觉真的是选择比努力更重要，夕阳产业太难了，你就算在一个行业努力了一辈子也没有用，更何况他那么点工资还要每天到处去维修，帮忙看别人机顶盒哪里出故障了，现在感觉真的是不值\n\n算是明白为什么现在都想要个编制了，这种夕阳国企后面能不能活下来都是个未知数，不过好像我爸说可以办了内退然后再返聘（因为那个站点都没年轻人去入职了所以全是他这种老人）后面拿的工资能高点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3989,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#碎碎念\n和家里人聊天，好久没和我爸单独聊聊了，问了下他现在啥工资，把我给震惊到了，我以为我爸在广电干了三十年虽然是在小县城（坐标湖北仙桃）起码得有个3k吧，结果一问居然连3k都没有，扣完五险一金到手只有不到2k，然后我查了下仙桃最低工资刚好是1970元一个月，卡着发放的 https://t.co/84zn4Tj139"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 445,
+          "like_count": 738,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 2224
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数\n欢迎和我交朋友ww\n自我介绍请看亮点置顶喵",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2062500159960048055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060627202182651904/RO0pQWPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 511,
+          "like_count": 3309,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 2086
+        },
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

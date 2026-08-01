@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069334398823202886",
+    "created_at": "2026-06-25T03:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069985897748320709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297181001521590273",
+          "start": 0,
+          "username": "julystratus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069985897748320709",
+    "in_reply_to_user_id": "1297181001521590273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069334398823202886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@julystratus 你好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069334398823202886].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069334398823202886",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069334398823202886"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069334398823202886",
+        "created_at": "2026-06-25T03:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069985897748320709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297181001521590273",
+              "start": 0,
+              "username": "julystratus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069985897748320709",
+        "in_reply_to_user_id": "1297181001521590273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069334398823202886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@julystratus 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 548,
+          "like_count": 808,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 2724
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T14:37:23.000Z",
+        "description": "😼",
+        "id": "1297181001521590273",
+        "name": "🍋贅沢は無能の結果だ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806680265840050176/U5eQVTdm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 328,
+          "like_count": 93440,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3515
+        },
+        "url": "",
+        "username": "julystratus",
+        "verified": false
+      }
+    ]
+  }
+}

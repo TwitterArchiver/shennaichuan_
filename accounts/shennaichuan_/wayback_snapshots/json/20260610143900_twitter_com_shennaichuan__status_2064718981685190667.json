@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2064718981685190667",
+    "created_at": "2026-06-10T14:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064718981685190667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kukukumik0/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kukukumik0/status/2064575458616996317",
+          "start": 15,
+          "url": "https://t.co/71vcUkhRNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064718981685190667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064575458616996317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲兄弟们战火再再再次燃烧起来 https://t.co/71vcUkhRNI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2064718981685190667",
+        "created_at": "2026-06-10T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064718981685190667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kukukumik0/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kukukumik0/status/2064575458616996317",
+              "start": 15,
+              "url": "https://t.co/71vcUkhRNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718981685190667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064575458616996317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲兄弟们战火再再再次燃烧起来 https://t.co/71vcUkhRNI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554692587151593472",
+        "conversation_id": "2064474061640802607",
+        "created_at": "2026-06-10T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064575458616996317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905510632310325248",
+              "start": 0,
+              "username": "xin919_ZHOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064575458616996317",
+        "in_reply_to_user_id": "1905510632310325248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064474061640802607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xin919_ZHOU 我想和未成年发生性行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 464,
+          "like_count": 756,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 2317
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2064711108519411875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1532,
+          "like_count": 55370,
+          "listed_count": 12,
+          "media_count": 543,
+          "tweet_count": 19190
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

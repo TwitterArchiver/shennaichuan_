@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-17T08:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067162585536057436"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067162585536057436",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066979620487069972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈彻底疯魔！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15535,
+        "height": 1280,
+        "media_key": "7_2066979594457296896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066979594457296896/pu/img/J-kKgaDYcFbaspYs.jpg",
+        "public_metrics": {
+          "view_count": 104675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/320x568/s0r_ZoSPicYCuZgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/480x852/ndT8ZydZc7_wy34t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/720x1280/qpZxzA6UXAnW_EaV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/pl/5NRhuLikXBpbBZO2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T08:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067162585536057436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067162585536057436",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979620487069972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈彻底疯魔！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066979594457296896"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-16T20:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066979620487069972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHNdnzIXTV",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2066979620487069972/video/1",
+              "media_key": "7_2066979594457296896",
+              "start": 0,
+              "url": "https://t.co/eHNdnzIXTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066979620487069972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1399,
+          "impression_count": 239137,
+          "like_count": 3086,
+          "quote_count": 46,
+          "reply_count": 109,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eHNdnzIXTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 514,
+          "like_count": 772,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 2468
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

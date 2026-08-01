@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-17T09:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067175825456464029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3222028490",
+          "start": 0,
+          "username": "w201300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067175825456464029",
+    "in_reply_to_user_id": "3222028490",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067169102486253847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w201300 lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T09:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067175825456464029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3222028490",
+              "start": 0,
+              "username": "w201300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175825456464029",
+        "in_reply_to_user_id": "3222028490",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067169102486253847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w201300 lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3222028490",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-17T08:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067169102486253847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067169102486253847",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979620487069972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 不要在房间荡秋千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 517,
+          "like_count": 772,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 2475
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-21T06:31:50.000Z",
+        "description": "脾气差\n嘴臭\nYap",
+        "id": "3222028490",
+        "name": ".简Yap",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740034389952909312/kYfIeEnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 719,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "w201300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066576597566750720"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066576653619536235",
+    "created_at": "2026-06-15T17:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066576653619536235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fj4LJervQC",
+          "end": 36,
+          "expanded_url": "https://x.com/shennaichuan_/status/2066576653619536235/video/1",
+          "media_key": "7_2066576597566750720",
+          "start": 13,
+          "url": "https://t.co/Fj4LJervQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066576653619536235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "理性评价这是蟑螂喷药了吗 https://t.co/Fj4LJervQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46905,
+        "height": 1280,
+        "media_key": "7_2066576597566750720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066576597566750720/pu/img/wSCwV-Bq8bgT-6gX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066576597566750720/pu/vid/avc1/320x568/opK6A3nWsH4R9m08.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066576597566750720/pu/vid/avc1/480x852/r8DGDwyIpPw2u3Hm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066576597566750720/pu/vid/avc1/720x1280/ml43Irk8QHJY_7zq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066576597566750720/pu/pl/RWWTPGByPS5sf6mn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066576597566750720"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066576653619536235",
+        "created_at": "2026-06-15T17:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066576653619536235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fj4LJervQC",
+              "end": 36,
+              "expanded_url": "https://x.com/shennaichuan_/status/2066576653619536235/video/1",
+              "media_key": "7_2066576597566750720",
+              "start": 13,
+              "url": "https://t.co/Fj4LJervQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066576653619536235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理性评价这是蟑螂喷药了吗 https://t.co/Fj4LJervQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 495,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 2403
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

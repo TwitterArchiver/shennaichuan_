@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073484471429685556",
+    "created_at": "2026-07-05T09:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073699749887369435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800871440713199616",
+          "start": 0,
+          "username": "iiihate1109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073699749887369435",
+    "in_reply_to_user_id": "1800871440713199616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073625649496076396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihate1109 你是好女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073484471429685556",
+        "created_at": "2026-07-05T09:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073699749887369435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800871440713199616",
+              "start": 0,
+              "username": "iiihate1109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073699749887369435",
+        "in_reply_to_user_id": "1800871440713199616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073625649496076396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihate1109 你是好女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800871440713199616",
+        "conversation_id": "2073484471429685556",
+        "created_at": "2026-07-05T04:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073625649496076396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073625649496076396",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484471429685556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 我是好女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 570,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T12:43:15.000Z",
+        "description": "@kill1109_ ｜🚪66/520｜重加工 线下查无此人｜媒体纯享｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推🔗：https://t.co/w2YOOGN76U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "kill1109_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=J3YJqsoh",
+                "start": 65,
+                "url": "https://t.co/w2YOOGN76U"
+              }
+            ]
+          }
+        },
+        "id": "1800871440713199616",
+        "location": "堕落街",
+        "name": "刃下心",
+        "pinned_tweet_id": "1980668995046154452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070504634360434688/elOkSo21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 64,
+          "like_count": 3299,
+          "listed_count": 7,
+          "media_count": 214,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "iiihate1109",
+        "verified": false
+      }
+    ]
+  }
+}

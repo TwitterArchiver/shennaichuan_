@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074177795203465585",
+    "created_at": "2026-07-06T18:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074194884102422528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        },
+        {
+          "end": 26,
+          "id": "2074131584093970433",
+          "start": 10,
+          "username": "fuckingshit0721"
+        },
+        {
+          "end": 39,
+          "id": "2047295680138362880",
+          "start": 27,
+          "username": "littlejusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074194884102422528",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074177795203465585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir @fuckingshit0721 @littlejusir 那就好好告个别吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2074177569700913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj1gpsbIAA6-km.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074177795203465585",
+        "created_at": "2026-07-06T18:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074194884102422528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            },
+            {
+              "end": 26,
+              "id": "2074131584093970433",
+              "start": 10,
+              "username": "fuckingshit0721"
+            },
+            {
+              "end": 39,
+              "id": "2047295680138362880",
+              "start": 27,
+              "username": "littlejusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074194884102422528",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074177795203465585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir @fuckingshit0721 @littlejusir 那就好好告个别吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074177569700913152"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2074177795203465585",
+        "created_at": "2026-07-06T17:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074177795203465585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2074131584093970433",
+              "start": 4,
+              "username": "fuckingshit0721"
+            },
+            {
+              "end": 37,
+              "id": "2047295680138362880",
+              "start": 25,
+              "username": "littlejusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CakXWt11K2",
+              "end": 81,
+              "expanded_url": "https://x.com/bigjusir/status/2074177795203465585/photo/1",
+              "media_key": "3_2074177569700913152",
+              "start": 58,
+              "url": "https://t.co/CakXWt11K2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177795203465585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大哥@fuckingshit0721 送我小号@littlejusir 一个蓝标，富哥太豪了😭😭😭🙏🏻🙏🏻🙏🏻 https://t.co/CakXWt11K2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 575,
+          "like_count": 822,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3068
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1682,
+          "like_count": 5189,
+          "listed_count": 9,
+          "media_count": 636,
+          "tweet_count": 2694
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T12:45:27.000Z",
+        "description": "中国人，互fo",
+        "id": "2047295680138362880",
+        "location": "中华人民共和国",
+        "name": "jusir的二号机",
+        "pinned_tweet_id": "2067165589504983313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065441705143549952/4ZlbmVbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 518,
+          "like_count": 1106,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 989
+        },
+        "url": "",
+        "username": "littlejusir",
+        "verified": true
+      }
+    ]
+  }
+}

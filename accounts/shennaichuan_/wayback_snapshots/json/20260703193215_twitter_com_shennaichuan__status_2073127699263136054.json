@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2072982101914435626",
+    "created_at": "2026-07-03T19:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073127699263136054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1698561774306709504",
+          "start": 0,
+          "username": "parknewroad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073127699263136054",
+    "in_reply_to_user_id": "1698561774306709504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072982101914435626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parknewroad 低山臭水遇知音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2072982101914435626",
+        "created_at": "2026-07-03T19:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073127699263136054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1698561774306709504",
+              "start": 0,
+              "username": "parknewroad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073127699263136054",
+        "in_reply_to_user_id": "1698561774306709504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072982101914435626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parknewroad 低山臭水遇知音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698561774306709504",
+        "conversation_id": "2072982101914435626",
+        "created_at": "2026-07-03T09:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072982101914435626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2072886413700547070",
+              "start": 46,
+              "url": "https://t.co/5vTlq8Jtdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072982101914435626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1395,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072886413700547070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以水平低如方🦟⛰️、周结巴之流被捧这几十年臭脚，可见99.85的芝麻人根本不懂甚么是文笔。 https://t.co/5vTlq8Jtdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 555,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 2875
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T05:01:08.000Z",
+        "description": "认准那头牛。侠族co-founder。 \n新墨家。文淆评论。\n简中第一骂倭恨铁不成钢学家。\n费拉右大义觉迷中。",
+        "id": "1698561774306709504",
+        "location": "Tempe, AZ",
+        "name": "牛选侠☝️🐮",
+        "pinned_tweet_id": "2027981408808145112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792015959890554880/h5P3MU10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 2081,
+          "like_count": 68892,
+          "listed_count": 13,
+          "media_count": 2228,
+          "tweet_count": 50114
+        },
+        "url": "",
+        "username": "parknewroad",
+        "verified": false
+      }
+    ]
+  }
+}

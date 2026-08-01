@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "1900832438441394428",
+    "created_at": "2026-07-03T19:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073128632936186148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1498127949630894088",
+          "start": 0,
+          "username": "HollandClair1"
+        },
+        {
+          "end": 30,
+          "id": "1439904333361913856",
+          "start": 15,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073128632936186148",
+    "in_reply_to_user_id": "1498127949630894088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900908972783399182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HollandClair1 @shennaichuan22 选安徽师范大学还是江苏师范大学。。已经和家里吵了800架了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "1900832438441394428",
+        "created_at": "2026-07-03T19:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073128632936186148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1498127949630894088",
+              "start": 0,
+              "username": "HollandClair1"
+            },
+            {
+              "end": 30,
+              "id": "1439904333361913856",
+              "start": 15,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073128632936186148",
+        "in_reply_to_user_id": "1498127949630894088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900908972783399182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HollandClair1 @shennaichuan22 选安徽师范大学还是江苏师范大学。。已经和家里吵了800架了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498127949630894088",
+        "conversation_id": "1900832438441394428",
+        "created_at": "2025-03-15T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900908972783399182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900908972783399182",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3073,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900899989569798205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 哎 太惨了 当年死活要我抱师范生 现在彻底下岗潮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 557,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 2878
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T02:48:52.000Z",
+        "description": "恁刷到我都是有算法精准缘由的 反思一下自己面壁思过去吧 沉湎于自己的精神世界 没空battle",
+        "id": "1498127949630894088",
+        "location": "America",
+        "name": "仙仙仙（古希腊掌管退休前期的神）",
+        "pinned_tweet_id": "2037920894920823016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867183468524056576/XgGrKBgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 5463,
+          "like_count": 91359,
+          "listed_count": 8,
+          "media_count": 1377,
+          "tweet_count": 53864
+        },
+        "url": "",
+        "username": "HollandClair1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 1168,
+          "like_count": 242603,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 17488
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073061261382910460",
+    "created_at": "2026-07-03T19:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073123804344402427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1782820752389206021",
+          "start": 0,
+          "username": "wbpi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073123804344402427",
+    "in_reply_to_user_id": "1782820752389206021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073061261382910460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbpi8 那就好好告个别吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073061261382910460",
+        "created_at": "2026-07-03T19:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073123804344402427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1782820752389206021",
+              "start": 0,
+              "username": "wbpi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073123804344402427",
+        "in_reply_to_user_id": "1782820752389206021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073061261382910460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbpi8 那就好好告个别吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782820752389206021",
+        "conversation_id": "2073061261382910460",
+        "created_at": "2026-07-03T15:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073061261382910460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073061261382910460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "风声太大，听得不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 554,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T17:16:13.000Z",
+        "description": "We will fall right through the wall of the place where we were made. Right into the open mouth of the great annihilator.",
+        "id": "1782820752389206021",
+        "name": "银色锡安山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073034889000280064/_g-cBJs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 511,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "wbpi8",
+        "verified": false
+      }
+    ]
+  }
+}

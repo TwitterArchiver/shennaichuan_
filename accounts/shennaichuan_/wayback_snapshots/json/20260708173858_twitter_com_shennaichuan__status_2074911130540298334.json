@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074907692930584695",
+    "created_at": "2026-07-08T17:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074911130540298334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896950944312832000",
+          "start": 0,
+          "username": "Meowbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074911130540298334",
+    "in_reply_to_user_id": "1896950944312832000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074907692930584695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowbandage 我就这样od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074907692930584695",
+        "created_at": "2026-07-08T17:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911130540298334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896950944312832000",
+              "start": 0,
+              "username": "Meowbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074911130540298334",
+        "in_reply_to_user_id": "1896950944312832000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074907692930584695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowbandage 我就这样od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896950944312832000",
+        "conversation_id": "2074907692930584695",
+        "created_at": "2026-07-08T17:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074907692930584695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074907692930584695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天挑战买我之前od总配的饮料喝，我操那个ad钙还有阿萨姆奶茶，我尝一口我就感觉里面有毒，我感觉全是ymp的呕吐味。所以我决定拿这个督促我减肥，就是想吃东西我就逼我自己喝一口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 588,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 3150
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T15:48:52.000Z",
+        "description": "一颗心两面受伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow39997",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow39997",
+                "start": 0,
+                "url": "https://t.co/zHUpgwRLTD"
+              }
+            ]
+          }
+        },
+        "id": "1896950944312832000",
+        "name": "snow",
+        "pinned_tweet_id": "2052420793896976564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068747062259408896/jhoe_kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 272,
+          "like_count": 4869,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/zHUpgwRLTD",
+        "username": "Meowbandage",
+        "verified": false
+      }
+    ]
+  }
+}

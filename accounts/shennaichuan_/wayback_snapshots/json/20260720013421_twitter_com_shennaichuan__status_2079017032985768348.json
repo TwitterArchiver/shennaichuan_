@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2079013437485850660",
+    "created_at": "2026-07-20T01:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079017032985768348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749992514902487040",
+          "start": 0,
+          "username": "1Madoka11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079017032985768348",
+    "in_reply_to_user_id": "1749992514902487040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079013437485850660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Madoka11 老死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2079013437485850660",
+        "created_at": "2026-07-20T01:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079017032985768348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749992514902487040",
+              "start": 0,
+              "username": "1Madoka11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079017032985768348",
+        "in_reply_to_user_id": "1749992514902487040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079013437485850660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Madoka11 老死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749992514902487040",
+        "conversation_id": "2079013437485850660",
+        "created_at": "2026-07-20T01:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079013437485850660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079013437485850660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耄耋怎麼死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 620,
+          "like_count": 857,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-24T03:08:31.000Z",
+        "description": "🚪520，給大山裡的兄弟姐妹買包衛生巾",
+        "id": "1749992514902487040",
+        "location": "盧管中學",
+        "name": "Yuno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032419364545421312/XBbOuu6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 265,
+          "like_count": 8532,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "1Madoka11",
+        "verified": false
+      }
+    ]
+  }
+}

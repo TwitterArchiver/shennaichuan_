@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078856569555767627",
+    "created_at": "2026-07-19T23:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078990525643047397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078990525643047397",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078856569555767627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 台巴你继续魔怔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3091,
+        "height": 504,
+        "media_key": "13_2078856558491115520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078856558491115520/img/UhyvWZoA1yBJ1y6n.jpg",
+        "public_metrics": {
+          "view_count": 222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856558491115520/vid/avc1/304x270/uzMw8ra3Cby3CWaX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856558491115520/vid/avc1/404x360/A1LxwVuhVJbnWJqn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856558491115520/vid/avc1/568x504/BtdkDNGPnvFnbWQU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078856558491115520/pl/flt12Ztw7yl20D-L.m3u8"
+          }
+        ],
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078856569555767627",
+        "created_at": "2026-07-19T23:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078990525643047397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078990525643047397",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078856569555767627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 台巴你继续魔怔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078856558491115520"
+          ]
+        },
+        "author_id": "1786565196913541120",
+        "conversation_id": "2078856569555767627",
+        "created_at": "2026-07-19T14:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078856569555767627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJL0sD3TnR",
+              "end": 50,
+              "expanded_url": "https://x.com/dimangmu8964/status/2078856569555767627/video/1",
+              "media_key": "13_2078856558491115520",
+              "start": 27,
+              "url": "https://t.co/uJL0sD3TnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078856569555767627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要去当丘八了，到时候修炼闭口禅退推一段时间，勿念🤓 https://t.co/uJL0sD3TnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 617,
+          "like_count": 854,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3304
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "不正确的人类",
+        "id": "1786565196913541120",
+        "location": "驻马店市, 河南省",
+        "name": "迅鴿🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1135,
+          "like_count": 130162,
+          "listed_count": 19,
+          "media_count": 1571,
+          "tweet_count": 33975
+        },
+        "url": "",
+        "username": "dimangmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

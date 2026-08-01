@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2074154150775173146",
+    "created_at": "2026-07-06T16:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074172156808946025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1145314574318485504",
+          "start": 0,
+          "username": "NSJ_zz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074172156808946025",
+    "in_reply_to_user_id": "1145314574318485504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074154150775173146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NSJ_zz_ 我是导游"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074154150775173146].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074154150775173146",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074154150775173146"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2074154150775173146",
+        "created_at": "2026-07-06T16:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074172156808946025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1145314574318485504",
+              "start": 0,
+              "username": "NSJ_zz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074172156808946025",
+        "in_reply_to_user_id": "1145314574318485504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074154150775173146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NSJ_zz_ 我是导游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 571,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3031
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-30T12:54:08.000Z",
+        "description": "我們終將在沒有惡俗的地方相見。可能是毛主義者。",
+        "id": "1145314574318485504",
+        "location": "金邊某火車站二樓某房間",
+        "name": "沙洛特紹（L4-5、L5-S1輕微膨出",
+        "pinned_tweet_id": "1602163209112530944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746772550225682432/QQZyJAyH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 2094,
+          "like_count": 274910,
+          "listed_count": 17,
+          "media_count": 1992,
+          "tweet_count": 37458
+        },
+        "url": "",
+        "username": "NSJ_zz_",
+        "verified": false
+      }
+    ]
+  }
+}

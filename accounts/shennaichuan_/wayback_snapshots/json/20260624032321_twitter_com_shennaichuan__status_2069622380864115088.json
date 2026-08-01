@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069622378213371904"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2069622380864115088",
+    "created_at": "2026-06-24T03:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069622380864115088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoBpxRvixy",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2069622380864115088/photo/1",
+          "media_key": "3_2069622378213371904",
+          "start": 0,
+          "url": "https://t.co/HoBpxRvixy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069622380864115088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HoBpxRvixy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2069622378213371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjGlnCbcAANdFz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069622378213371904"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2069622380864115088",
+        "created_at": "2026-06-24T03:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069622380864115088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoBpxRvixy",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2069622380864115088/photo/1",
+              "media_key": "3_2069622378213371904",
+              "start": 0,
+              "url": "https://t.co/HoBpxRvixy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069622380864115088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HoBpxRvixy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "伟大 坚毅 真诚与爱",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 553,
+          "like_count": 802,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 2685
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

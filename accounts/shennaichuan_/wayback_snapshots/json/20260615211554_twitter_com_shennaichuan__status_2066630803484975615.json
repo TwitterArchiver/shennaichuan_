@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066528956350623875",
+    "created_at": "2026-06-15T21:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066630803484975615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1410093182176530437",
+          "start": 0,
+          "username": "CoolJX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066630803484975615",
+    "in_reply_to_user_id": "1410093182176530437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066528956350623875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoolJX4 想你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2066528866143752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3JDgiW0AAXdeP.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066528956350623875",
+        "created_at": "2026-06-15T21:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066630803484975615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1410093182176530437",
+              "start": 0,
+              "username": "CoolJX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066630803484975615",
+        "in_reply_to_user_id": "1410093182176530437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066528956350623875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolJX4 想你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066528866143752192"
+          ]
+        },
+        "author_id": "1410093182176530437",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066528956350623875",
+        "created_at": "2026-06-15T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528956350623875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFeODzZqKW",
+              "end": 37,
+              "expanded_url": "https://x.com/CoolJX4/status/2066528956350623875/photo/1",
+              "media_key": "3_2066528866143752192",
+              "start": 14,
+              "url": "https://t.co/FFeODzZqKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066528956350623875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上趕著slide，好累啊 https://t.co/FFeODzZqKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 501,
+          "like_count": 769,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2430
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T04:31:11.000Z",
+        "description": "≧ω≦≧∇≦≧ω≦≧∇≦\n薯條：@Flowers8964\n小號：@RisingStar97606\n好朋朋：@SnAuFlat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "RisingStar97606"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "SnAuFlat"
+              }
+            ]
+          }
+        },
+        "id": "1410093182176530437",
+        "location": "Malaysia",
+        "name": "私は 進軒 (｡’▽’｡)♡",
+        "pinned_tweet_id": "1697622511188623794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006371592931287040/OrUOUtVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1014,
+          "like_count": 88572,
+          "listed_count": 3,
+          "media_count": 1159,
+          "tweet_count": 10788
+        },
+        "username": "CoolJX4",
+        "verified": false
+      }
+    ]
+  }
+}

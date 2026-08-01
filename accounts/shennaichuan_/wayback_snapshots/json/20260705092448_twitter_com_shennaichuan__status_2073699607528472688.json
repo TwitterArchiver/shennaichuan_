@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073484471429685556",
+    "created_at": "2026-07-05T09:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073699607528472688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1892970687792402432",
+          "start": 0,
+          "username": "Toyiu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073699607528472688",
+    "in_reply_to_user_id": "1892970687792402432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073629510524875235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Toyiu11 支持👍我们简直是低山臭水遇知音😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073484471429685556",
+        "created_at": "2026-07-05T09:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073699607528472688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1892970687792402432",
+              "start": 0,
+              "username": "Toyiu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073699607528472688",
+        "in_reply_to_user_id": "1892970687792402432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073629510524875235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Toyiu11 支持👍我们简直是低山臭水遇知音😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892970687792402432",
+        "conversation_id": "2073484471429685556",
+        "created_at": "2026-07-05T04:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073629510524875235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629510524875235",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 433,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484471429685556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 门槛妹靠自己本事赚钱不丢人；吸毒的od的自残的都是只伤害自己不伤害别人不报复社会 骨子里就是善良的人只是有点脆弱；当三的出轨的 敢爱敢恨 追求自己的幸福有错吗 我会睡她但会娶你；卖逼的 如果家里有钱还会干这个吗 只是有点虚荣心罢了 但很多卖逼的确实都有个吸血家庭；辍学是个人选择罢了🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 570,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:12:46.000Z",
+        "description": "171/47kg 比我矮比我胖比我丑的没有资格骂我 本人3d人士患有精神病 想发什么就发什么",
+        "id": "1892970687792402432",
+        "name": "十亿少男少女的梦",
+        "pinned_tweet_id": "1932040756266737865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072346464077176832/_6kngLBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 70,
+          "like_count": 39,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "Toyiu11",
+        "verified": true
+      }
+    ]
+  }
+}

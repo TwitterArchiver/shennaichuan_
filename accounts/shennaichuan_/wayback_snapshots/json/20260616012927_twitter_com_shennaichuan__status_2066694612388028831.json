@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066556232593539516",
+    "created_at": "2026-06-16T01:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066694612388028831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037529951096705024",
+          "start": 0,
+          "username": "wwwww_han121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066694612388028831",
+    "in_reply_to_user_id": "2037529951096705024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066556232593539516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwww_han121 好米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066556215833042948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3h7eEaoAQl_fo.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066556232593539516",
+        "created_at": "2026-06-16T01:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066694612388028831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037529951096705024",
+              "start": 0,
+              "username": "wwwww_han121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066694612388028831",
+        "in_reply_to_user_id": "2037529951096705024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066556232593539516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwww_han121 好米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066556215833042948"
+          ]
+        },
+        "author_id": "2037529951096705024",
+        "conversation_id": "2066556232593539516",
+        "created_at": "2026-06-15T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066556232593539516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xyWPN5gZX",
+              "end": 41,
+              "expanded_url": "https://x.com/wwwww_han121/status/2066556232593539516/photo/1",
+              "media_key": "3_2066556215833042948",
+              "start": 18,
+              "url": "https://t.co/6xyWPN5gZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066556232593539516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好好学习就只能跟我这种黄毛谈恋爱 https://t.co/6xyWPN5gZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 507,
+          "like_count": 771,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 2452
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T14:00:05.000Z",
+        "description": "此账号发表的所有言论， 意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2037529951096705024",
+        "name": "这就是id",
+        "pinned_tweet_id": "2057857880020443484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064306643622600704/0RgHe5Gq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 44,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "username": "wwwww_han121",
+        "verified": false
+      }
+    ]
+  }
+}

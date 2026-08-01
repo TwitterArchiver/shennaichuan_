@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2073051649581695336",
+    "created_at": "2026-07-03T19:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073126942396793217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033844837787795456",
+          "start": 0,
+          "username": "Switzerland1815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073126942396793217",
+    "in_reply_to_user_id": "2033844837787795456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073051649581695336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Switzerland1815 支持尼老妈子献血"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2073051640807202816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT1e9taoAAVC9J.jpg",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2073051649581695336",
+        "created_at": "2026-07-03T19:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073126942396793217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033844837787795456",
+              "start": 0,
+              "username": "Switzerland1815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073126942396793217",
+        "in_reply_to_user_id": "2033844837787795456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073051649581695336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Switzerland1815 支持尼老妈子献血"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073051640807202816"
+          ]
+        },
+        "author_id": "2033844837787795456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073051649581695336",
+        "created_at": "2026-07-03T14:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073051649581695336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTZy8gdwyF",
+              "end": 39,
+              "expanded_url": "https://x.com/Switzerland1815/status/2073051649581695336/photo/1",
+              "media_key": "3_2073051640807202816",
+              "start": 16,
+              "url": "https://t.co/wTZy8gdwyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073051649581695336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈怎么突然想不开要带我献血浆 https://t.co/wTZy8gdwyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 554,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 2874
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T09:56:22.000Z",
+        "description": "やは〜♡",
+        "id": "2033844837787795456",
+        "location": "Istanbul",
+        "name": "Swiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063993088704667648/wzZe32OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 423,
+          "like_count": 3663,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "Switzerland1815",
+        "verified": false
+      }
+    ]
+  }
+}

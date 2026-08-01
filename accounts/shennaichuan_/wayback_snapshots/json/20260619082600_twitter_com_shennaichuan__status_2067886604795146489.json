@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2066979620487069972",
+    "created_at": "2026-06-19T08:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067886604795146489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549928929439391745",
+          "start": 0,
+          "username": "Laurfly115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067886604795146489",
+    "in_reply_to_user_id": "1549928929439391745",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067679372224422118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laurfly115 lol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2067679357464690689",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLHfa6sXQAExbAd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLHfa6sXQAExbAd.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-19T08:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067886604795146489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549928929439391745",
+              "start": 0,
+              "username": "Laurfly115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067886604795146489",
+        "in_reply_to_user_id": "1549928929439391745",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067679372224422118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laurfly115 lol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067679357464690689"
+          ]
+        },
+        "author_id": "1549928929439391745",
+        "conversation_id": "2066979620487069972",
+        "created_at": "2026-06-18T18:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067679372224422118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8sS34jkUh",
+              "end": 65,
+              "expanded_url": "https://x.com/Laurfly115/status/2067679372224422118/photo/1",
+              "media_key": "16_2067679357464690689",
+              "start": 42,
+              "url": "https://t.co/c8sS34jkUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067679372224422118",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1286,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067162585536057436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ Tienes un fetiche muy raro https://t.co/c8sS34jkUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴￴\n￴\n￴\n￴\n￴\n￴\n￴",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 524,
+          "like_count": 770,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 2516
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T01:27:17.000Z",
+        "description": "G.I.R.L\nTribi e1\nHoyotard\nHater de wuwa😎👍\nMigajero pro ☝️🧐\nRagebaiter pro 🤫",
+        "id": "1549928929439391745",
+        "name": "Nerx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890544106637545472/BsuWU_Hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 1449,
+          "like_count": 7065,
+          "listed_count": 0,
+          "media_count": 4001,
+          "tweet_count": 10453
+        },
+        "url": "",
+        "username": "Laurfly115",
+        "verified": false
+      }
+    ]
+  }
+}

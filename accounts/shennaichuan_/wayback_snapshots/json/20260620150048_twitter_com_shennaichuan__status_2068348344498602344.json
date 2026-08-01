@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2068148032999407871",
+    "created_at": "2026-06-20T15:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068348344498602344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854925585622892544",
+          "start": 0,
+          "username": "fantuan8964"
+        },
+        {
+          "end": 23,
+          "id": "1883059385997635585",
+          "start": 13,
+          "username": "Kikyo4000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068348344498602344",
+    "in_reply_to_user_id": "1854925585622892544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068148032999407871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fantuan8964 @Kikyo4000 亲兄弟们开始魔起点点举报"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kikyo4000].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kikyo4000",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kikyo4000"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2068148032999407871",
+        "created_at": "2026-06-20T15:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068348344498602344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854925585622892544",
+              "start": 0,
+              "username": "fantuan8964"
+            },
+            {
+              "end": 23,
+              "id": "1883059385997635585",
+              "start": 13,
+              "username": "Kikyo4000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068348344498602344",
+        "in_reply_to_user_id": "1854925585622892544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068148032999407871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantuan8964 @Kikyo4000 亲兄弟们开始魔起点点举报"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854925585622892544",
+        "conversation_id": "2068148032999407871",
+        "created_at": "2026-06-20T01:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068148032999407871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1883059385997635585",
+              "start": 9,
+              "username": "Kikyo4000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068148032999407871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在不为人知的角落，@Kikyo4000 悄悄的被马斯克杀害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "enby",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 529,
+          "like_count": 779,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 2563
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:35:04.000Z",
+        "description": "🩵",
+        "id": "1854925585622892544",
+        "location": "Earth",
+        "name": "飯糰酢汁",
+        "pinned_tweet_id": "2062699200043954250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908369811156922368/mkKfzt5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 261,
+          "like_count": 11138,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 3026
+        },
+        "url": "",
+        "username": "fantuan8964",
+        "verified": false
+      }
+    ]
+  }
+}

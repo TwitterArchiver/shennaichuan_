@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2081644785887252941",
+    "created_at": "2026-07-27T12:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081718659849023758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540897962674757632",
+          "start": 0,
+          "username": "Oldclem1919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081718659849023758",
+    "in_reply_to_user_id": "1540897962674757632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081672905197511159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oldclem1919 我不好说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081644785887252941",
+        "created_at": "2026-07-27T12:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081718659849023758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540897962674757632",
+              "start": 0,
+              "username": "Oldclem1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081718659849023758",
+        "in_reply_to_user_id": "1540897962674757632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081672905197511159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oldclem1919 我不好说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540897962674757632",
+        "conversation_id": "2081644785887252941",
+        "created_at": "2026-07-27T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081672905197511159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081672905197511159",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081644785887252941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 兔系是不是得头皮接甩棍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 630,
+          "like_count": 904,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 3477
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T03:21:26.000Z",
+        "description": "ルアーフィッシング好きの人（特にエギングとショアジギング），ant and tarantula feeding(also interest in predator fish and Betta); 爱好是瞎骂，同时也是你的直男处男发言bot",
+        "id": "1540897962674757632",
+        "location": "Ballarat, Victoria",
+        "name": "烟波钓徒🐜🪲🪳🐝🪱",
+        "pinned_tweet_id": "1827238490746318877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011817058875625472/3Og1YdlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 474,
+          "like_count": 150718,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 9348
+        },
+        "url": "",
+        "username": "Oldclem1919",
+        "verified": true
+      }
+    ]
+  }
+}

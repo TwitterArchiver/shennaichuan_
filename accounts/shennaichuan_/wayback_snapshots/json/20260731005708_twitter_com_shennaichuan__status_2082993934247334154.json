@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2082765358428033532",
+    "created_at": "2026-07-31T00:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082993934247334154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082993934247334154",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082765358428033532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan 是gg還是mm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2786,
+        "media_key": "3_2082765352027459584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd4DX4WkAA6uix.jpg",
+        "width": 1857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2082765358428033532",
+        "created_at": "2026-07-31T00:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082993934247334154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082993934247334154",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082765358428033532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan 是gg還是mm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082765352027459584"
+          ]
+        },
+        "author_id": "1468298719447887872",
+        "conversation_id": "2082765358428033532",
+        "created_at": "2026-07-30T09:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082765358428033532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqoTD9DbcC",
+              "end": 51,
+              "expanded_url": "https://x.com/dviolettchan/status/2082765358428033532/photo/1",
+              "media_key": "3_2082765352027459584",
+              "start": 28,
+              "url": "https://t.co/oqoTD9DbcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765358428033532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4401,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "推油推荐的衣服好好看（\n\n原来我也可以成为小蛋糕吗…… https://t.co/oqoTD9DbcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 652,
+          "like_count": 954,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3530
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "悲剧的女主角 | 想要变得幸福 | 制服爱好者 | 北美菜校ECE PhD Candidate | 魏晋名士 | 期待更温柔的世界 | 🌙: @xinxin_yume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "xinxin_yume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 582,
+          "like_count": 13583,
+          "listed_count": 16,
+          "media_count": 64,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

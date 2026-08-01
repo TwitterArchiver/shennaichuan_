@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "1989523102925996060",
+    "created_at": "2026-07-04T12:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073376983749451921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 25,
+          "id": "1295167822973173760",
+          "start": 16,
+          "username": "Kyrg1989"
+        },
+        {
+          "end": 36,
+          "id": "1829679457411477504",
+          "start": 26,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073376983749451921",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989551215500218872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @Kyrg1989 @miaowuqvq 我选水上由岐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "1989523102925996060",
+        "created_at": "2026-07-04T12:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073376983749451921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 25,
+              "id": "1295167822973173760",
+              "start": 16,
+              "username": "Kyrg1989"
+            },
+            {
+              "end": 36,
+              "id": "1829679457411477504",
+              "start": 26,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073376983749451921",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989551215500218872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @Kyrg1989 @miaowuqvq 我选水上由岐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "1989523102925996060",
+        "created_at": "2025-11-15T04:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989551215500218872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1295167822973173760",
+              "start": 0,
+              "username": "Kyrg1989"
+            },
+            {
+              "end": 20,
+              "id": "1829679457411477504",
+              "start": 10,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989551215500218872",
+        "in_reply_to_user_id": "1295167822973173760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989542814510899553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyrg1989 @miaowuqvq 御坂美琴，凉宫春日，战场原黑仪选哪个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "杯子@yeshsbxhjs\n给个三连谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 562,
+          "like_count": 817,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 2959
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "阿良良木鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1168,
+          "like_count": 242724,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 17504
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T01:20:57.000Z",
+        "description": "#blacklivesmatter #Pride2022 #Metoo 性别男",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "blacklivesmatter"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Pride2022"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "Metoo"
+              }
+            ]
+          }
+        },
+        "id": "1295167822973173760",
+        "location": "妙蛙底",
+        "name": "一个兴趣使然的黑人留学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598085086318333953/j5yEKoD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6239,
+          "following_count": 577,
+          "like_count": 122462,
+          "listed_count": 30,
+          "media_count": 1579,
+          "tweet_count": 61837
+        },
+        "url": "",
+        "username": "Kyrg1989",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡贤者反支萝莉 成人层司书 云南华欣药业官号 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing\n@kafei684134\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kafei684134"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！*۫۫۫۫۫♀️🈵🏳️‍🌈🎌🗾🍐互fo谢谢(永远与须臾的轮椅侠)🤚😭✋",
+        "pinned_tweet_id": "2072103178993111109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 3550,
+          "like_count": 12716,
+          "listed_count": 10,
+          "media_count": 999,
+          "tweet_count": 17381
+        },
+        "url": "",
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

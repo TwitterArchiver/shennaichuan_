@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080526745611169792"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2080526827685331105",
+    "created_at": "2026-07-24T05:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080526827685331105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZAUBKlHDw",
+          "end": 50,
+          "expanded_url": "https://x.com/shennaichuan_/status/2080526827685331105/photo/1",
+          "media_key": "3_2080526745611169792",
+          "start": 27,
+          "url": "https://t.co/fZAUBKlHDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080526827685331105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个夏美我谢谢你😭😭🙏如果我找到工作你联系我我还你😭 https://t.co/fZAUBKlHDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2167,
+        "media_key": "3_2080526745611169792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-EDVHacAA8XTv.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080526745611169792"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080526827685331105",
+        "created_at": "2026-07-24T05:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080526827685331105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZAUBKlHDw",
+              "end": 50,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080526827685331105/photo/1",
+              "media_key": "3_2080526745611169792",
+              "start": 27,
+              "url": "https://t.co/fZAUBKlHDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080526827685331105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个夏美我谢谢你😭😭🙏如果我找到工作你联系我我还你😭 https://t.co/fZAUBKlHDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "中国人能飞✈️✈️✈️✈️✈️✈️✈️✈️\n中国人能飞🚀🚀🚀🚀🚀🚀🚀🚀\n中国人能飞🚁🚁🚁🚁🚁🚁🚁🚁\n黄皮肤才对🧏🧏🧏🧏🧏🧏🧏🧏\n讲中文才飞🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️\n中国就是美🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳\nLAML",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 625,
+          "like_count": 865,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063295219198820352"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2063295221799227630",
+    "created_at": "2026-06-06T16:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063295221799227630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7omck9Ras",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2063295221799227630/photo/1",
+          "media_key": "3_2063295219198820352",
+          "start": 0,
+          "url": "https://t.co/I7omck9Ras"
+        },
+        {
+          "display_url": "x.com/Liechtensteina…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Liechtensteinal/status/2063280556545302629",
+          "start": 24,
+          "url": "https://t.co/RvJLcZvpcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063295221799227630",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063280556545302629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/I7omck9Ras https://t.co/RvJLcZvpcu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2063295219198820352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJMEe8bgAAazG3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063295219198820352"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063295221799227630",
+        "created_at": "2026-06-06T16:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063295221799227630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7omck9Ras",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063295221799227630/photo/1",
+              "media_key": "3_2063295219198820352",
+              "start": 0,
+              "url": "https://t.co/I7omck9Ras"
+            },
+            {
+              "display_url": "x.com/Liechtensteina…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Liechtensteinal/status/2063280556545302629",
+              "start": 24,
+              "url": "https://t.co/RvJLcZvpcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063295221799227630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063280556545302629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/I7omck9Ras https://t.co/RvJLcZvpcu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095998402817454087",
+        "conversation_id": "2063271211820605896",
+        "created_at": "2026-06-06T15:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063280556545302629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280556545302629",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063271211820605896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 庆幸自己没有参加过高考以及没有被高中生活摧残过😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 430,
+          "like_count": 731,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2184
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T10:49:16.000Z",
+        "description": "ISTP/Minarchy/Individualism/Pro-Life/Antifeminism/Non populist anti-elitism/Libertarian Zionism🇮🇱/Trumpism libertarian🇺🇸/💛🖤@Panpkin0973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Panpkin0973"
+              }
+            ]
+          }
+        },
+        "id": "1095998402817454087",
+        "location": "Watertown, SD",
+        "name": "列支敦士登匿名用户🇺🇸🇮🇱🗽",
+        "pinned_tweet_id": "2055647614742212771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883580647337558016/wFl9Uhk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 1788,
+          "like_count": 72939,
+          "listed_count": 21,
+          "media_count": 1449,
+          "tweet_count": 19759
+        },
+        "username": "Liechtensteinal",
+        "verified": false
+      }
+    ]
+  }
+}

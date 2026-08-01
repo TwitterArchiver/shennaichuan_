@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065258429950861312"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2065041165590884501",
+    "created_at": "2026-06-12T02:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065258432094179696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007060747910795264",
+          "start": 0,
+          "username": "Y01ukawa_Mi0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XezKQFnteu",
+          "end": 37,
+          "expanded_url": "https://x.com/shennaichuan_/status/2065258432094179696/photo/1",
+          "media_key": "3_2065258429950861312",
+          "start": 14,
+          "url": "https://t.co/XezKQFnteu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065258432094179696",
+    "in_reply_to_user_id": "2007060747910795264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065247697620353042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y01ukawa_Mi0 https://t.co/XezKQFnteu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2249,
+        "media_key": "3_2065258429950861312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlFmY6aIAALmbm.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065258429950861312"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2065041165590884501",
+        "created_at": "2026-06-12T02:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065258432094179696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007060747910795264",
+              "start": 0,
+              "username": "Y01ukawa_Mi0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XezKQFnteu",
+              "end": 37,
+              "expanded_url": "https://x.com/shennaichuan_/status/2065258432094179696/photo/1",
+              "media_key": "3_2065258429950861312",
+              "start": 14,
+              "url": "https://t.co/XezKQFnteu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065258432094179696",
+        "in_reply_to_user_id": "2007060747910795264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065247697620353042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y01ukawa_Mi0 https://t.co/XezKQFnteu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007060747910795264",
+        "conversation_id": "2065041165590884501",
+        "created_at": "2026-06-12T01:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065247697620353042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065247697620353042",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065041165590884501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ rsb知道你拿他照片炒作吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 481,
+          "like_count": 763,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 2343
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:06:10.000Z",
+        "description": "1971年，卡辛斯基在辞去教职，并在朗伯德的老家住了两年后前往蒙大拿州隐居。他在蒙大拿州的林肯建了一座小木屋，过上没水没电且开销小的简单生活——他四处打零工，但主要是受到其家人的经济援助。卡辛斯基原本的目标是能够自给自足的生活",
+        "id": "2007060747910795264",
+        "name": "澪澪澪澪澪澪澪澪澪澪",
+        "pinned_tweet_id": "2059271338540585442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008194766023041024/lejrrQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 18,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 253
+        },
+        "username": "Y01ukawa_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

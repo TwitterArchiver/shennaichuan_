@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074823796091973632",
+        "3_2074823793621491712"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074823799007215652",
+    "created_at": "2026-07-08T11:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074823799007215652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WplPrb9RjY",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2074823799007215652/photo/1",
+          "media_key": "3_2074823796091973632",
+          "start": 0,
+          "url": "https://t.co/WplPrb9RjY"
+        },
+        {
+          "display_url": "pic.x.com/WplPrb9RjY",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2074823799007215652/photo/1",
+          "media_key": "3_2074823793621491712",
+          "start": 0,
+          "url": "https://t.co/WplPrb9RjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074823799007215652",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WplPrb9RjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074823796091973632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBP-mW8AAFZXt.jpg",
+        "width": 1920
+      },
+      {
+        "height": 298,
+        "media_key": "3_2074823793621491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBP1ZWYAAuFaJ.jpg",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074823796091973632",
+            "3_2074823793621491712"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074823799007215652",
+        "created_at": "2026-07-08T11:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074823799007215652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WplPrb9RjY",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2074823799007215652/photo/1",
+              "media_key": "3_2074823796091973632",
+              "start": 0,
+              "url": "https://t.co/WplPrb9RjY"
+            },
+            {
+              "display_url": "pic.x.com/WplPrb9RjY",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2074823799007215652/photo/1",
+              "media_key": "3_2074823793621491712",
+              "start": 0,
+              "url": "https://t.co/WplPrb9RjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823799007215652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WplPrb9RjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "喂!新来的家伙，欢迎来到雄英高中!\n别一副愣头青的样子杵在那儿，能考进这里，算你还有点本事。雄英可不是混日子的地方，想当顶尖英雄就给我拿出全部实力来!\n在这里只有强者才有话语权，别想着拖别人后腿，也别随便把自己和旁人混为一谈。好好磨炼个性，拼命变强，要是敢偷懒懈怠，，\n租借杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4800,
+          "following_count": 587,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3128
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2067148368741359658",
+    "created_at": "2026-06-17T09:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067178174493110778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387282075896541184",
+          "start": 0,
+          "username": "pinkyfuckoff"
+        },
+        {
+          "end": 26,
+          "id": "1714894056986460160",
+          "start": 14,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067178174493110778",
+    "in_reply_to_user_id": "1387282075896541184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067167230547357704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinkyfuckoff @89JinPing64 给个互关友友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2067148368741359658",
+        "created_at": "2026-06-17T09:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067178174493110778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387282075896541184",
+              "start": 0,
+              "username": "pinkyfuckoff"
+            },
+            {
+              "end": 26,
+              "id": "1714894056986460160",
+              "start": 14,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178174493110778",
+        "in_reply_to_user_id": "1387282075896541184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067167230547357704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkyfuckoff @89JinPing64 给个互关友友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387282075896541184",
+        "conversation_id": "2067148368741359658",
+        "created_at": "2026-06-17T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067167230547357704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067167230547357704",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067148368741359658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 这是从集中营刚救出来？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个yuki表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 518,
+          "like_count": 772,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 2477
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T05:46:44.000Z",
+        "description": "关于我ban人的7个标准：\n1.粉蛆\n2.坏逼（王菊类）\n3.傻逼（菊粉、轮粉类）\n4.黄推，诈骗推\n5.锁推\n6.极端xx权（包括极端女权）\n7.看心情\n8.不识数的人",
+        "id": "1387282075896541184",
+        "location": "東京（山里）",
+        "name": "对韭裆割（破産済）",
+        "pinned_tweet_id": "1737714897591669195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701126516107857920/77hT4oDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 359,
+          "like_count": 55642,
+          "listed_count": 3,
+          "media_count": 1063,
+          "tweet_count": 21870
+        },
+        "username": "pinkyfuckoff",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7211,
+          "following_count": 1817,
+          "like_count": 134073,
+          "listed_count": 67,
+          "media_count": 1325,
+          "tweet_count": 27706
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2062348796378726620",
+    "created_at": "2026-06-05T08:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062811298770080009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "himuro155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062811298770080009",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062348796378726620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himuro155 还能参加吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2062348792008208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7vTK6a8AAJ6Qr.jpg",
+        "width": 800
+      },
+      {
+        "height": 1049,
+        "media_key": "3_2062348792016646144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7vTK8bsAAB-Ar.jpg",
+        "width": 1037
+      },
+      {
+        "height": 829,
+        "media_key": "3_2062348791999758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7vTK4aAAAd9x6.jpg",
+        "width": 437
+      },
+      {
+        "height": 1470,
+        "media_key": "3_2062348792054284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7vTLFaAAAhVCg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2062348796378726620",
+        "created_at": "2026-06-05T08:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062811298770080009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "himuro155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062811298770080009",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062348796378726620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himuro155 还能参加吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062348792008208384",
+            "3_2062348792016646144",
+            "3_2062348791999758336",
+            "3_2062348792054284288"
+          ]
+        },
+        "author_id": "1761631129331957760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2062348796378726620",
+        "created_at": "2026-06-04T01:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062348796378726620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaF427hNU5",
+              "end": 168,
+              "expanded_url": "https://x.com/himuro155/status/2062348796378726620/photo/1",
+              "media_key": "3_2062348792008208384",
+              "start": 145,
+              "url": "https://t.co/iaF427hNU5"
+            },
+            {
+              "display_url": "pic.x.com/iaF427hNU5",
+              "end": 168,
+              "expanded_url": "https://x.com/himuro155/status/2062348796378726620/photo/1",
+              "media_key": "3_2062348792016646144",
+              "start": 145,
+              "url": "https://t.co/iaF427hNU5"
+            },
+            {
+              "display_url": "pic.x.com/iaF427hNU5",
+              "end": 168,
+              "expanded_url": "https://x.com/himuro155/status/2062348796378726620/photo/1",
+              "media_key": "3_2062348791999758336",
+              "start": 145,
+              "url": "https://t.co/iaF427hNU5"
+            },
+            {
+              "display_url": "pic.x.com/iaF427hNU5",
+              "end": 168,
+              "expanded_url": "https://x.com/himuro155/status/2062348796378726620/photo/1",
+              "media_key": "3_2062348792054284288",
+              "start": 145,
+              "url": "https://t.co/iaF427hNU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062348796378726620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 17399,
+          "like_count": 385,
+          "quote_count": 0,
+          "reply_count": 290,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我也来抽奖！(˶‾᷄ ⁻̫ ‾᷅˵)\n评论即可参与 我会回复数字\n\n哥哥生日当天开🥺🤲🏻\n\n抽三个宝贝妹妹\n1️⃣jellycat红苹果玩偶*1\n2️⃣fernanda苹果淡香水 特别清新的脆苹果味（≧∇≦）🍎*1\n3️⃣fernanda苹果香薰*1\n4️⃣嘉云水果糖*2  口味可以选！ https://t.co/iaF427hNU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 422,
+          "like_count": 728,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 2144
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "無言フォロー失礼します/18↑/互fo大欢迎\n日本語ok\n推文可能出现：负面言论/成分很复杂什么都玩一点\n⚠️ センシティブ発言注意⚠️",
+        "id": "1761631129331957760",
+        "name": "ちあき",
+        "pinned_tweet_id": "2062348796378726620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058827334938161153/rakQK-ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 461,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 664
+        },
+        "username": "himuro155",
+        "verified": false
+      }
+    ]
+  }
+}
