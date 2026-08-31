@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084974063081202098",
+    "created_at": "2026-08-05T12:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084982938702373152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084982938702373152",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084974063081202098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 给我发发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084974063081202098",
+        "created_at": "2026-08-05T12:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084982938702373152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982938702373152",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084974063081202098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 给我发发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053112758531715072",
+        "conversation_id": "2084974063081202098",
+        "created_at": "2026-08-05T12:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974063081202098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084974063081202098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对没有兴趣的人会很快失去耐心...能让我好好哄发小作文的已经是很重要的人了 我至今只给一个女孩发过小作文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4919,
+          "following_count": 725,
+          "like_count": 1066,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 3707
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "你妒忌著曾經的自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatfE2d"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "name": "Nevado",
+        "pinned_tweet_id": "2080926495384674599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 95,
+          "like_count": 10665,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/s4fAatfE2d",
+        "username": "Nevado_snow",
+        "verified": false
+      }
+    ]
+  }
+}

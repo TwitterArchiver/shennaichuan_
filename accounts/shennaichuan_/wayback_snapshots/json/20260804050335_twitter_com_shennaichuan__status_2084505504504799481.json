@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084280019812286906",
+    "created_at": "2026-08-04T05:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084505504504799481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 22,
+          "id": "2037086952034566144",
+          "start": 13,
+          "username": "tsingin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084505504504799481",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084280019812286906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 @tsingin1 whxmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2084279762655326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzZZrGbMAA7Pt8.png",
+        "width": 423
+      },
+      {
+        "height": 862,
+        "media_key": "3_2084279923347525632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzZjBubkAAXs5G.png",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084280019812286906",
+        "created_at": "2026-08-04T05:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084505504504799481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 22,
+              "id": "2037086952034566144",
+              "start": 13,
+              "username": "tsingin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084505504504799481",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084280019812286906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @tsingin1 whxmn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084279762655326208",
+            "3_2084279923347525632"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084280019812286906",
+        "created_at": "2026-08-03T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084280019812286906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037086952034566144",
+              "start": 6,
+              "username": "tsingin1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSCSQbCfko",
+              "end": 66,
+              "expanded_url": "https://x.com/Wesley10032/status/2084280019812286906/photo/1",
+              "media_key": "3_2084279762655326208",
+              "start": 43,
+              "url": "https://t.co/kSCSQbCfko"
+            },
+            {
+              "display_url": "pic.x.com/kSCSQbCfko",
+              "end": 66,
+              "expanded_url": "https://x.com/Wesley10032/status/2084280019812286906/photo/1",
+              "media_key": "3_2084279923347525632",
+              "start": 43,
+              "url": "https://t.co/kSCSQbCfko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084280019812286906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "统一感谢喵\n@tsingin1 谢谢喵，不过你怎么也这样😡\n还有这是谁喵，谢谢你喵😭 https://t.co/kSCSQbCfko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 687,
+          "like_count": 1018,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3625
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1133,
+          "like_count": 11714,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 346,
+          "like_count": 2737,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      }
+    ]
+  }
+}

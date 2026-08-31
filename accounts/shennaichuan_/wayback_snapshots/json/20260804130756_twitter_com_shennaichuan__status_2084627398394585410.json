@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084581804766568448"
+      ],
+      "media_source_tweet_id": [
+        "2084581814744875138"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084627398394585410",
+    "created_at": "2026-08-04T13:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084627398394585410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2084579730473590784",
+          "start": 3,
+          "username": "MIMIsamaowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GLjMbp5g1P",
+          "end": 65,
+          "expanded_url": "https://x.com/MIMIsamaowo/status/2084581814744875138/photo/1",
+          "media_key": "3_2084581804766568448",
+          "start": 42,
+          "url": "https://t.co/GLjMbp5g1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084627398394585410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084581814744875138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIMIsamaowo: 这里是MIMI的二号机，msk你（）什么时候（） https://t.co/GLjMbp5g1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2084581804766568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3sG1paoAASicB.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084581804766568448"
+          ]
+        },
+        "author_id": "2084579730473590784",
+        "conversation_id": "2084581814744875138",
+        "created_at": "2026-08-04T10:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084581814744875138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLjMbp5g1P",
+              "end": 48,
+              "expanded_url": "https://x.com/MIMIsamaowo/status/2084581814744875138/photo/1",
+              "media_key": "3_2084581804766568448",
+              "start": 25,
+              "url": "https://t.co/GLjMbp5g1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084581814744875138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这里是MIMI的二号机，msk你（）什么时候（） https://t.co/GLjMbp5g1P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084581804766568448"
+          ],
+          "media_source_tweet_id": [
+            "2084581814744875138"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084627398394585410",
+        "created_at": "2026-08-04T13:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084627398394585410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2084579730473590784",
+              "start": 3,
+              "username": "MIMIsamaowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLjMbp5g1P",
+              "end": 65,
+              "expanded_url": "https://x.com/MIMIsamaowo/status/2084581814744875138/photo/1",
+              "media_key": "3_2084581804766568448",
+              "start": 42,
+              "url": "https://t.co/GLjMbp5g1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084627398394585410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084581814744875138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIMIsamaowo: 这里是MIMI的二号机，msk你（）什么时候（） https://t.co/GLjMbp5g1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4903,
+          "following_count": 705,
+          "like_count": 1043,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-04T10:00:12.000Z",
+        "description": "关注mimi二号机谢谢喵，梦到什么发什么\n戒毒中day0\nmsk你（）什么时候（）",
+        "id": "2084579730473590784",
+        "name": "MIMIsama-2.0",
+        "pinned_tweet_id": "2084581814744875138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084580696350425088/x9MF-CMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 40,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "MIMIsamaowo",
+        "verified": false
+      }
+    ]
+  }
+}

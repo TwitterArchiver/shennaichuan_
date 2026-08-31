@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084452479199285336",
+    "created_at": "2026-08-04T05:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084508997215015358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896950944312832000",
+          "start": 0,
+          "username": "Meowbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084508997215015358",
+    "in_reply_to_user_id": "1896950944312832000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084452479199285336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowbandage 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084452479199285336",
+        "created_at": "2026-08-04T05:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084508997215015358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896950944312832000",
+              "start": 0,
+              "username": "Meowbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084508997215015358",
+        "in_reply_to_user_id": "1896950944312832000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084452479199285336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowbandage 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896950944312832000",
+        "conversation_id": "2084452479199285336",
+        "created_at": "2026-08-04T01:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084452479199285336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084452479199285336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我od已经戒了，我也不擦边，我认为我更像一个健全人，但是我依旧觉得每个人不应该这么早就离开，怀念朋友也没有什么错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 691,
+          "like_count": 1019,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3631
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:48:52.000Z",
+        "description": "一颗心两面受伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow39997",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow39997",
+                "start": 0,
+                "url": "https://t.co/zHUpgwRLTD"
+              }
+            ]
+          }
+        },
+        "id": "1896950944312832000",
+        "name": "snow",
+        "pinned_tweet_id": "2082867090575503598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068747062259408896/jhoe_kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 278,
+          "like_count": 5975,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/zHUpgwRLTD",
+        "username": "Meowbandage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085847178673840128"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085847187980960107",
+    "created_at": "2026-08-07T21:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T22:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085847187980960107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDFuZTy48p",
+          "end": 23,
+          "expanded_url": "https://x.com/shennaichuan_/status/2085847187980960107/photo/1",
+          "media_key": "3_2085847178673840128",
+          "start": 0,
+          "url": "https://t.co/JDFuZTy48p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085847187980960107",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JDFuZTy48p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2085847178673840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJq9Sya4AALWq1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085847178673840128"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085847187980960107",
+        "created_at": "2026-08-07T21:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085847187980960107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDFuZTy48p",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2085847187980960107/photo/1",
+              "media_key": "3_2085847178673840128",
+              "start": 0,
+              "url": "https://t.co/JDFuZTy48p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085847187980960107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JDFuZTy48p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4922,
+          "following_count": 753,
+          "like_count": 1114,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 3769
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

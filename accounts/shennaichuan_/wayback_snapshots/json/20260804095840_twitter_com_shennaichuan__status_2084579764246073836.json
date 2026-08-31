@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084292590942519354",
+    "created_at": "2026-08-04T09:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084579764246073836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644482642631602178",
+          "start": 0,
+          "username": "xibaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084579764246073836",
+    "in_reply_to_user_id": "1644482642631602178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084292590942519354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xibaomi 你的生活我的梦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1649,
+        "media_key": "3_2084292578720272384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlDqqa0AAVnZv.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084292590942519354",
+        "created_at": "2026-08-04T09:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084579764246073836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644482642631602178",
+              "start": 0,
+              "username": "xibaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579764246073836",
+        "in_reply_to_user_id": "1644482642631602178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084292590942519354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xibaomi 你的生活我的梦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084292578720272384"
+          ]
+        },
+        "author_id": "1644482642631602178",
+        "conversation_id": "2084292590942519354",
+        "created_at": "2026-08-03T14:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084292590942519354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRzjDXZ3Me",
+              "end": 130,
+              "expanded_url": "https://x.com/xibaomi/status/2084292590942519354/photo/1",
+              "media_key": "3_2084292578720272384",
+              "start": 107,
+              "url": "https://t.co/DRzjDXZ3Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084292590942519354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 794,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本包蜜已經徹底失敗😿這幾天玉玉症退網了一段時間🤧\n畫了一副furry自畫像😞畫技漸長，本包蜜在日本就這樣\n\n人生五十年，真能轟轟烈烈活五十年也是不枉此生了\n\n庸庸碌碌活的久也毫無意義，回國幾個月肉眼可見老了十歲🤕 https://t.co/DRzjDXZ3Me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 696,
+          "like_count": 1028,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3649
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T23:30:06.000Z",
+        "description": "潤🇯🇵國中生 彼氏 @Kawhkmoe 彼女 @honxine8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "Kawhkmoe"
+              },
+              {
+                "end": 35,
+                "start": 23,
+                "username": "honxine8964"
+              }
+            ]
+          }
+        },
+        "id": "1644482642631602178",
+        "name": "翠々砂💮",
+        "pinned_tweet_id": "1897255888840483105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049486289419005952/y_mqktO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 1089,
+          "like_count": 51650,
+          "listed_count": 7,
+          "media_count": 677,
+          "tweet_count": 8265
+        },
+        "url": "",
+        "username": "xibaomi",
+        "verified": false
+      }
+    ]
+  }
+}

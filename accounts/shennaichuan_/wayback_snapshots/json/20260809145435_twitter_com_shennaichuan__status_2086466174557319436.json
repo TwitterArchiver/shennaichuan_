@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2086465405800141005",
+    "created_at": "2026-08-09T14:54:35.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086466174557319436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "chiakii_mhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086466174557319436",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086465405800141005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiakii_mhr 我拍照就这么懵逼🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 1280,
+        "media_key": "13_2086465383171809281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086465383171809281/img/Z7C2y-Df1f5wjWZI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086465383171809281/vid/avc1/320x568/d--9IpzlnLM5O2EP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086465383171809281/vid/avc1/480x852/k_6MyVg_PCQkRgSg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086465383171809281/vid/avc1/720x1280/7ig-hX6Jl9qdjGfG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086465383171809281/pl/ZecbtT5K0mhp05Yt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2086465405800141005",
+        "created_at": "2026-08-09T14:54:35.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086466174557319436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "chiakii_mhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086466174557319436",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086465405800141005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiakii_mhr 我拍照就这么懵逼🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086465383171809281"
+          ]
+        },
+        "author_id": "1761631129331957760",
+        "conversation_id": "2086465405800141005",
+        "created_at": "2026-08-09T14:51:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086465405800141005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KchNWOXk0k",
+              "end": 34,
+              "expanded_url": "https://x.com/chiakii_mhr/status/2086465405800141005/video/1",
+              "media_key": "13_2086465383171809281",
+              "start": 11,
+              "url": "https://t.co/KchNWOXk0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086465405800141005",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086465383171809281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無加工\n#自撮り界隈 https://t.co/KchNWOXk0k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086466174557319436",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 749,
+          "like_count": 1126,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "無言フォロー失礼します🙇‍♀️\n日本語ok",
+        "id": "1761631129331957760",
+        "is_identity_verified": false,
+        "location": "雑多垢",
+        "most_recent_tweet_id": "2086465405800141005",
+        "name": "ちあき",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761631129331957760/1785055383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081292777841950720/Plg87OYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 449,
+          "like_count": 3323,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "chiakii_mhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

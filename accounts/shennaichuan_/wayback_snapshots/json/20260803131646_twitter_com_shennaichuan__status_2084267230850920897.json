@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084252107746718170",
+    "created_at": "2026-08-03T13:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084267230850920897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896950944312832000",
+          "start": 0,
+          "username": "Meowbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084267230850920897",
+    "in_reply_to_user_id": "1896950944312832000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084252107746718170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowbandage 什么情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084252107746718170",
+        "created_at": "2026-08-03T13:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084267230850920897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896950944312832000",
+              "start": 0,
+              "username": "Meowbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267230850920897",
+        "in_reply_to_user_id": "1896950944312832000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084252107746718170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowbandage 什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896950944312832000",
+        "conversation_id": "2084252107746718170",
+        "created_at": "2026-08-03T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084252107746718170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084252107746718170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉很无语就是之前有一个聊天的男生然后我当时把他删了，就是他突然触发了一连串连锁反应一样骂我之后把wyy和dy改成和我同样的主页到现在都没改然后他谈了个女朋友又来点赞我的抖音，我很生气的是他凭什么喜欢我喜欢的角色我喜欢间桐樱他也跟着，生日蛋糕都是间桐樱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 676,
+          "like_count": 1007,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:48:52.000Z",
+        "description": "一颗心两面受伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow39997",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow39997",
+                "start": 0,
+                "url": "https://t.co/zHUpgwRLTD"
+              }
+            ]
+          }
+        },
+        "id": "1896950944312832000",
+        "name": "snow",
+        "pinned_tweet_id": "2082867090575503598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068747062259408896/jhoe_kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 279,
+          "like_count": 5859,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/zHUpgwRLTD",
+        "username": "Meowbandage",
+        "verified": false
+      }
+    ]
+  }
+}

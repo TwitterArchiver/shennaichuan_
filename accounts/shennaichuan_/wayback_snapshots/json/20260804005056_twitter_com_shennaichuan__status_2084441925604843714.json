@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084435138579251266",
+    "created_at": "2026-08-04T00:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084441925604843714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "921003533218000896",
+          "start": 0,
+          "username": "MoeQike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084441925604843714",
+    "in_reply_to_user_id": "921003533218000896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084435138579251266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoeQike 什么情况呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084435138579251266",
+        "created_at": "2026-08-04T00:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084441925604843714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "921003533218000896",
+              "start": 0,
+              "username": "MoeQike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084441925604843714",
+        "in_reply_to_user_id": "921003533218000896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084435138579251266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoeQike 什么情况呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921003533218000896",
+        "conversation_id": "2084435138579251266",
+        "created_at": "2026-08-04T00:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084435138579251266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084435138579251266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上能找工作吗\n想要双休，薪资4.5k以上就好\n之前被广电运通的交行驻场运维给鸽了\n\n广州市区 网络专业\n会一些网络的部署交换路由配置\n之前有HCIA证书过期没考\n没认证证书 没弱电证\n会服务器维护 WIN/Liunx系统维护\n虚拟化开发 云计算等技术(有点忘了)\n还有自己玩过H3C的AP\n还有一些架构不复杂的网站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 680,
+          "like_count": 1015,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3617
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T13:22:08.000Z",
+        "description": "INFJ-T | 小透明 | 什么都不知道 | 缺爱 | 渴望陪伴 | 记录日常生活 | 摄影 | 旅行 | 想扩列交朋友，交友大欢迎～ \nHRT:21.9.27,大证:23.4.19\nSRS:原本24.9以及26.9现在未知\n子账号/サブ垢:@MeowQike 💫@komacyan_zZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "MeowQike"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "komacyan_zZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "quq.cat",
+                "end": 23,
+                "expanded_url": "https://quq.cat",
+                "start": 0,
+                "url": "https://t.co/XbChQcGHz3"
+              }
+            ]
+          }
+        },
+        "id": "921003533218000896",
+        "name": "琪可",
+        "pinned_tweet_id": "2071287723114287276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051127191250038785/IPVQe5zn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 378,
+          "like_count": 1905,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/XbChQcGHz3",
+        "username": "MoeQike",
+        "verified": true
+      }
+    ]
+  }
+}

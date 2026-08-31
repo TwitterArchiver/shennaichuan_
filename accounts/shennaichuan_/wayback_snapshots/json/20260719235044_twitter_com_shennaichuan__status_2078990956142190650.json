@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078961934410645567",
+    "created_at": "2026-07-19T23:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078990956142190650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078990956142190650",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078961934410645567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 我有他大头你要不😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078961916136067072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNn02RDbEAA0z5o.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078961934410645567",
+        "created_at": "2026-07-19T23:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078990956142190650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078990956142190650",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078961934410645567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我有他大头你要不😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078961916136067072"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2078961934410645567",
+        "created_at": "2026-07-19T21:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078961934410645567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQm73T3aMC",
+              "end": 127,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2078961934410645567/photo/1",
+              "media_key": "3_2078961916136067072",
+              "start": 104,
+              "url": "https://t.co/KQm73T3aMC"
+            },
+            {
+              "display_url": "x.com/Kenntnis22/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/2078766193519792562",
+              "start": 128,
+              "url": "https://t.co/iIJgCmANSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078961934410645567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本质上是讨厌那种扫兴、不合时宜发言的人\n\n比如图中这个场景：我只是在回忆不堪的过往，抒发出来让大家看到而已，但是评论区这个人说了一句「日本人用这把砍的」\n\n不明不白，毫无意义，这就是我所讨厌的「政治露阴癖」\n\n说的粗鄙一点：同样是一个鸡巴，你在厕所里掏出来没问题，但是在追悼会上掏出来，你就有变态的嫌疑了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 948,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078766193519792562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质上是讨厌那种扫兴、不合时宜发言的人\n\n比如图中这个场景：我只是在回忆不堪的过往，抒发出来让大家看到而已，但是评论区这个人说了一句「日本人用这把砍的」\n\n不明不白，毫无意义，这就是我所讨厌的「政治露阴癖」 https://t.co/KQm73T3aMC https://t.co/iIJgCmANSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 617,
+          "like_count": 854,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3305
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12962,
+          "following_count": 4398,
+          "like_count": 51721,
+          "listed_count": 23,
+          "media_count": 3385,
+          "tweet_count": 18124
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

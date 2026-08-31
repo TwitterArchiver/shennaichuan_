@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2078961934410645567",
+    "created_at": "2026-07-20T00:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078994205201092888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687019762612924416",
+          "start": 0,
+          "username": "TungGwa"
+        },
+        {
+          "end": 23,
+          "id": "1622066090074607616",
+          "start": 9,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078994205201092888",
+    "in_reply_to_user_id": "1687019762612924416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078993763876393454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TungGwa @hoshinofujivy 算了不害他😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078961934410645567",
+        "created_at": "2026-07-20T00:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078994205201092888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687019762612924416",
+              "start": 0,
+              "username": "TungGwa"
+            },
+            {
+              "end": 23,
+              "id": "1622066090074607616",
+              "start": 9,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078994205201092888",
+        "in_reply_to_user_id": "1687019762612924416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078993763876393454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TungGwa @hoshinofujivy 算了不害他😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687019762612924416",
+        "conversation_id": "2078961934410645567",
+        "created_at": "2026-07-20T00:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078993763876393454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 29,
+              "id": "1622066090074607616",
+              "start": 15,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078993763876393454",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078990956142190650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ @hoshinofujivy 台巴大头发出来瞅瞅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "赛博亲兄弟@dongxuelian_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "dongxuelian_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 619,
+          "like_count": 854,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3309
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T08:37:22.000Z",
+        "description": "永远都是中国人/长发福清龟男/耀祖光宗//萬眾一心，殺敵鋤奸， 收復失地，還我河山/谢谢你叫我长发男！#Pro2A",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "Pro2A"
+              }
+            ]
+          }
+        },
+        "id": "1687019762612924416",
+        "location": "價錢很便宜 趕快買回家",
+        "name": "疯唐冬瓜👊🏻🇺🇸🔥",
+        "pinned_tweet_id": "1950051251691069634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964533366562455552/B87q_Dre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 392,
+          "like_count": 18599,
+          "listed_count": 1,
+          "media_count": 666,
+          "tweet_count": 11069
+        },
+        "url": "",
+        "username": "TungGwa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12962,
+          "following_count": 4398,
+          "like_count": 51721,
+          "listed_count": 23,
+          "media_count": 3385,
+          "tweet_count": 18124
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

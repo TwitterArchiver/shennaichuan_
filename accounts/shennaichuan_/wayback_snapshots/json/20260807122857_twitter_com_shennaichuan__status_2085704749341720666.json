@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2085700748457943324",
+    "created_at": "2026-08-07T12:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085704749341720666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554620206751879168",
+          "start": 0,
+          "username": "maozhong123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085704749341720666",
+    "in_reply_to_user_id": "1554620206751879168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085700748457943324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maozhong123 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2085700748457943324",
+        "created_at": "2026-08-07T12:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085704749341720666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554620206751879168",
+              "start": 0,
+              "username": "maozhong123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085704749341720666",
+        "in_reply_to_user_id": "1554620206751879168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085700748457943324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maozhong123 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554620206751879168",
+        "conversation_id": "2085700748457943324",
+        "created_at": "2026-08-07T12:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085700748457943324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085700748457943324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操，byd商场做活动送一堆玩具枪和剑，一群小屁孩搁那打架我还以为是70年代呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2085351246773498007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 748,
+          "like_count": 1115,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 3764
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T00:08:47.000Z",
+        "description": "半清水系日留长发男，🚪61，女生无🚪。\n长期Lo➕地雷系，但是人不地雷也不吃药。\n互关请私信或者评论区交流，谢谢。\n🇯🇵在住の天朝人です。ロリータや地雷系が好きです。",
+        "id": "1554620206751879168",
+        "location": "Tokyo-to, Japan",
+        "name": "猫塚",
+        "pinned_tweet_id": "2080669742386549049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084174500002959360/JNA4x-AC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 39,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "maozhong123",
+        "verified": false
+      }
+    ]
+  }
+}

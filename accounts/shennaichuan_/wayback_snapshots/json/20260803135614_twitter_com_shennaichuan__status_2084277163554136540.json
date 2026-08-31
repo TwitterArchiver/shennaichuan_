@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084277154091864064"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084277163554136540",
+    "created_at": "2026-08-03T13:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084277163554136540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfhcnnjlmU",
+          "end": 49,
+          "expanded_url": "https://x.com/shennaichuan_/status/2084277163554136540/photo/1",
+          "media_key": "3_2084277154091864064",
+          "start": 26,
+          "url": "https://t.co/lfhcnnjlmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084277163554136540",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 这个宝子谢谢你😭😭orz谢谢你 https://t.co/lfhcnnjlmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2084277154091864064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzXB1cbkAAkEfD.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084277154091864064"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084277163554136540",
+        "created_at": "2026-08-03T13:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084277163554136540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfhcnnjlmU",
+              "end": 49,
+              "expanded_url": "https://x.com/shennaichuan_/status/2084277163554136540/photo/1",
+              "media_key": "3_2084277154091864064",
+              "start": 26,
+              "url": "https://t.co/lfhcnnjlmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084277163554136540",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 这个宝子谢谢你😭😭orz谢谢你 https://t.co/lfhcnnjlmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 676,
+          "like_count": 1009,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 3608
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 是夜貓子呢。。多夜間出沒！\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 115,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2084165092191703268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 623,
+          "like_count": 4956,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true
+      }
+    ]
+  }
+}

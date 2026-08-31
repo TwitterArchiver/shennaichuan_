@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084553520280416749",
+    "created_at": "2026-08-04T23:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084785170213994798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        },
+        {
+          "end": 24,
+          "id": "1715327452246102016",
+          "start": 13,
+          "username": "Icanic_i1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084785170213994798",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084783845946401261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow @Icanic_i1e 人之常情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084553520280416749",
+        "created_at": "2026-08-04T23:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084785170213994798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            },
+            {
+              "end": 24,
+              "id": "1715327452246102016",
+              "start": 13,
+              "username": "Icanic_i1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084785170213994798",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084783845946401261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow @Icanic_i1e 人之常情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053112758531715072",
+        "conversation_id": "2084553520280416749",
+        "created_at": "2026-08-04T23:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084783845946401261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715327452246102016",
+              "start": 0,
+              "username": "Icanic_i1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084783845946401261",
+        "in_reply_to_user_id": "1715327452246102016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084553520280416749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Icanic_i1e 人之常情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4908,
+          "following_count": 717,
+          "like_count": 1047,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "你妒忌著曾經的自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatfE2d"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "name": "Nevado",
+        "pinned_tweet_id": "2080926495384674599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 96,
+          "like_count": 10539,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/s4fAatfE2d",
+        "username": "Nevado_snow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T11:22:34.000Z",
+        "description": "沒人是木訥的樹，人只對自己喜歡的人用心",
+        "id": "1715327452246102016",
+        "location": "那边天气好不好",
+        "name": "愛",
+        "pinned_tweet_id": "2061881110087512269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987540438883135489/WpiAZ2F1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 59,
+          "like_count": 1531,
+          "listed_count": 6,
+          "media_count": 66,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Icanic_i1e",
+        "verified": false
+      }
+    ]
+  }
+}

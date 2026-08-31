@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2087254594720235874",
+    "created_at": "2026-08-11T19:53:15.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087266113352786018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375434056930713601",
+          "start": 0,
+          "username": "Ava___OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087266113352786018",
+    "in_reply_to_user_id": "1375434056930713601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087254594720235874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ava___OvO 王萌豚呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2087254582531600384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdq--uaMAAgjPK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2087254594720235874",
+        "created_at": "2026-08-11T19:53:15.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087266113352786018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375434056930713601",
+              "start": 0,
+              "username": "Ava___OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087266113352786018",
+        "in_reply_to_user_id": "1375434056930713601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087254594720235874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ava___OvO 王萌豚呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087254582531600384"
+          ]
+        },
+        "author_id": "1375434056930713601",
+        "conversation_id": "2087254594720235874",
+        "created_at": "2026-08-11T19:07:29.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087254594720235874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO7XARLbCv",
+              "end": 56,
+              "expanded_url": "https://x.com/Ava___OvO/status/2087254594720235874/photo/1",
+              "media_key": "3_2087254582531600384",
+              "start": 33,
+              "url": "https://t.co/LO7XARLbCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087254594720235874",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087254582531600384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偌大的酒店只有我一个人\n为什么没有小男孩和我一起\n我已经彻底失败 https://t.co/LO7XARLbCv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087266113352786018",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 753,
+          "like_count": 1140,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 3836
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-26T13:06:55.000Z",
+        "description": "人生若只如初见",
+        "id": "1375434056930713601",
+        "is_identity_verified": false,
+        "location": "Hakuna Matata",
+        "most_recent_tweet_id": "2087254594720235874",
+        "name": "小清",
+        "pinned_tweet_id": "2079032737235972336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375434056930713601/1734337387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868559312358125568/pdKaXoBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 197,
+          "like_count": 2793,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 9636
+        },
+        "url": "",
+        "username": "Ava___OvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

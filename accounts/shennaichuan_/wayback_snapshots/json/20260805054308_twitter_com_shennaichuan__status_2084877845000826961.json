@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084877845000826961",
+    "created_at": "2026-08-05T05:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084877845000826961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429306904656760834",
+          "start": 3,
+          "username": "arst0zka8964"
+        },
+        {
+          "end": 30,
+          "id": "1698561774306709504",
+          "start": 18,
+          "username": "parknewroad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084877845000826961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061826669028221409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arst0zka8964: @parknewroad 你再把JH这种野狗推到tl上你电动爹轮胎必被野基米撒尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084877845000826961",
+        "created_at": "2026-08-05T05:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084877845000826961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429306904656760834",
+              "start": 3,
+              "username": "arst0zka8964"
+            },
+            {
+              "end": 30,
+              "id": "1698561774306709504",
+              "start": 18,
+              "username": "parknewroad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084877845000826961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061826669028221409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arst0zka8964: @parknewroad 你再把JH这种野狗推到tl上你电动爹轮胎必被野基米撒尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429306904656760834",
+        "conversation_id": "2061815241764462710",
+        "created_at": "2026-06-02T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061826669028221409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1698561774306709504",
+              "start": 0,
+              "username": "parknewroad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061826669028221409",
+        "in_reply_to_user_id": "1698561774306709504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061815241764462710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parknewroad 你再把JH这种野狗推到tl上你电动爹轮胎必被野基米撒尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4909,
+          "following_count": 727,
+          "like_count": 1052,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 3697
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T04:58:22.000Z",
+        "description": "活人-Not a bot/\n英语水平就那样-Able to communicate in English/\n社交是为了镇痛，而非享乐-Socializing is for soothing pain, not seeking pleasure /\n转生次数：二-Two accounts have been banned",
+        "id": "1429306904656760834",
+        "location": "IP属地：柱岛泊地",
+        "name": "373K",
+        "pinned_tweet_id": "1842813035993497820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457557127715688450/xrZBjkKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 1015,
+          "like_count": 37316,
+          "listed_count": 7,
+          "media_count": 1400,
+          "tweet_count": 17052
+        },
+        "url": "",
+        "username": "arst0zka8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T05:01:08.000Z",
+        "description": "认准那头牛。侠族co-founder。 \n新墨家。文淆评论。\n简中第一骂倭恨铁不成钢学家。\n费拉右大义觉迷中。",
+        "id": "1698561774306709504",
+        "location": "Tempe, AZ",
+        "name": "牛选侠☝️🐮",
+        "pinned_tweet_id": "2027981408808145112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792015959890554880/h5P3MU10_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 2089,
+          "like_count": 70152,
+          "listed_count": 13,
+          "media_count": 2269,
+          "tweet_count": 51347
+        },
+        "url": "",
+        "username": "parknewroad",
+        "verified": false
+      }
+    ]
+  }
+}

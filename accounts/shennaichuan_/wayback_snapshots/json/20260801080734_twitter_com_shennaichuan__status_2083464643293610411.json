@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083464631016992768"
+      ]
+    },
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083464643293610411",
+    "created_at": "2026-08-01T08:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083464643293610411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/myrx6qvS7v",
+          "end": 34,
+          "expanded_url": "https://x.com/shennaichuan_/status/2083464643293610411/photo/1",
+          "media_key": "3_2083464631016992768",
+          "start": 11,
+          "url": "https://t.co/myrx6qvS7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083464643293610411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你(´ᴗ`ʃƪ) https://t.co/myrx6qvS7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2083464631016992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn0CxHbsAA7qey.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083464631016992768"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083464643293610411",
+        "created_at": "2026-08-01T08:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083464643293610411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myrx6qvS7v",
+              "end": 34,
+              "expanded_url": "https://x.com/shennaichuan_/status/2083464643293610411/photo/1",
+              "media_key": "3_2083464631016992768",
+              "start": 11,
+              "url": "https://t.co/myrx6qvS7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083464643293610411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你(´ᴗ`ʃƪ) https://t.co/myrx6qvS7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 663,
+          "like_count": 985,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 3575
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

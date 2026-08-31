@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083207595129717105",
+    "created_at": "2026-08-04T08:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084550874937090525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559222562378244096",
+          "start": 0,
+          "username": "lrsy000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084550874937090525",
+    "in_reply_to_user_id": "1559222562378244096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083207595129717105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrsy000 别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083207595129717105",
+        "created_at": "2026-08-04T08:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084550874937090525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559222562378244096",
+              "start": 0,
+              "username": "lrsy000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084550874937090525",
+        "in_reply_to_user_id": "1559222562378244096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083207595129717105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrsy000 别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559222562378244096",
+        "conversation_id": "2083207595129717105",
+        "created_at": "2026-07-31T15:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083207595129717105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083207595129717105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都没有清醒的时候……好希望能遇到点什么意外死掉啊，卧轨跳楼跳海全都不敢，割手找不到刀，喝酒找不到酒，堕落的房间全是酒瓶药瓶。让霜叶死掉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 692,
+          "like_count": 1024,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T16:57:03.000Z",
+        "description": "只是一个很想死掉的普通人",
+        "id": "1559222562378244096",
+        "name": "凌冉霜叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049191571439128576/E3R_3_ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 53,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "lrsy000",
+        "verified": false
+      }
+    ]
+  }
+}

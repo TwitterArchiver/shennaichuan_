@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2087477808721514708",
+    "created_at": "2026-08-12T10:15:29.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087483099898954045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087483099898954045",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087482908085023227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ 沃尔玛我都好久没逛了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087482908085023227].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087482908085023227",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087482908085023227"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2087477808721514708",
+        "created_at": "2026-08-12T10:15:29.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087483099898954045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087483099898954045",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087482908085023227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ 沃尔玛我都好久没逛了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087483099898954045",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4898,
+          "following_count": 756,
+          "like_count": 1146,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 3855
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨疯狂宇宙型人格丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨有时可能没看到消息请见谅丨本人戾气极重请谨慎关注丨反物质级别负能量场丨习近平在此百鬼退避！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/I0k2RlXlLS"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "is_identity_verified": false,
+        "location": "au bout de la terre",
+        "most_recent_tweet_id": "2084633152782561374",
+        "name": "🦇𝔉𝔩𝔞𝔫𝔡𝔯𝔢🐦‍⬛",
+        "pinned_tweet_id": "2081178507733065799",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378723007762366467/1774534359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083525362110328832/whrR8QDM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 4383,
+          "like_count": 59220,
+          "listed_count": 1,
+          "media_count": 3590,
+          "tweet_count": 32427
+        },
+        "url": "https://t.co/I0k2RlXlLS",
+        "username": "Flandre_OvO_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

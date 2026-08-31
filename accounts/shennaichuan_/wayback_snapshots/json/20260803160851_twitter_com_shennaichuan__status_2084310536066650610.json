@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "1996464929839439976",
+    "created_at": "2026-08-03T16:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084310536066650610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084310536066650610",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996464929839439976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14566,
+        "height": 720,
+        "media_key": "13_1996464865863720960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996464865863720960/img/yVQzj5brZRWIqfXh.jpg",
+        "public_metrics": {
+          "view_count": 2707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996464865863720960/vid/avc1/432x270/pOpfhJCCw4oG-pjC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996464865863720960/vid/avc1/576x360/_yu4cR82ht5TMcFt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996464865863720960/vid/avc1/1152x720/LwlytwyIm2T4o5xp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996464865863720960/pl/3PEqGpBCri5Y4dOQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "1996464929839439976",
+        "created_at": "2026-08-03T16:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084310536066650610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084310536066650610",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996464929839439976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996464865863720960"
+          ]
+        },
+        "author_id": "1703762928",
+        "conversation_id": "1996464929839439976",
+        "created_at": "2025-12-04T06:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996464929839439976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yFvBqAHyu",
+              "end": 26,
+              "expanded_url": "https://x.com/1965chich/status/1996464929839439976/video/1",
+              "media_key": "13_1996464865863720960",
+              "start": 3,
+              "url": "https://t.co/7yFvBqAHyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996464929839439976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12104,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍔💦 https://t.co/7yFvBqAHyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 678,
+          "like_count": 1011,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "location": "Hong Kong",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1943737094880604528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9382,
+          "following_count": 1277,
+          "like_count": 27874,
+          "listed_count": 11,
+          "media_count": 423,
+          "tweet_count": 9160
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

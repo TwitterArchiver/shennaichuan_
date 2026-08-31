@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084255275058631032",
+    "created_at": "2026-08-04T06:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084520736107160062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        },
+        {
+          "end": 30,
+          "id": "4223840896",
+          "start": 17,
+          "username": "dreamhawk_cn"
+        },
+        {
+          "end": 47,
+          "id": "1417793109988020226",
+          "start": 31,
+          "username": "4jZU8xPs41YIClw"
+        },
+        {
+          "end": 64,
+          "id": "1778616836214439936",
+          "start": 48,
+          "username": "H20_chemistry_x"
+        },
+        {
+          "end": 78,
+          "id": "1589451050767224833",
+          "start": 65,
+          "username": "ChinTAT_2008"
+        },
+        {
+          "end": 95,
+          "id": "1503516796493590530",
+          "start": 79,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084520736107160062",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084255275058631032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 @dreamhawk_cn @4jZU8xPs41YIClw @H20_chemistry_x @ChinTAT_2008 @orangefish_stew 玩的开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084255275058631032",
+        "created_at": "2026-08-04T06:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084520736107160062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            },
+            {
+              "end": 30,
+              "id": "4223840896",
+              "start": 17,
+              "username": "dreamhawk_cn"
+            },
+            {
+              "end": 47,
+              "id": "1417793109988020226",
+              "start": 31,
+              "username": "4jZU8xPs41YIClw"
+            },
+            {
+              "end": 64,
+              "id": "1778616836214439936",
+              "start": 48,
+              "username": "H20_chemistry_x"
+            },
+            {
+              "end": 78,
+              "id": "1589451050767224833",
+              "start": 65,
+              "username": "ChinTAT_2008"
+            },
+            {
+              "end": 95,
+              "id": "1503516796493590530",
+              "start": 79,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084520736107160062",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084255275058631032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 @dreamhawk_cn @4jZU8xPs41YIClw @H20_chemistry_x @ChinTAT_2008 @orangefish_stew 玩的开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2084255275058631032",
+        "created_at": "2026-08-03T12:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084255275058631032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "4223840896",
+              "start": 45,
+              "username": "dreamhawk_cn"
+            },
+            {
+              "end": 75,
+              "id": "1417793109988020226",
+              "start": 59,
+              "username": "4jZU8xPs41YIClw"
+            },
+            {
+              "end": 92,
+              "id": "1778616836214439936",
+              "start": 76,
+              "username": "H20_chemistry_x"
+            },
+            {
+              "end": 105,
+              "id": "2032079184726802439",
+              "start": 94,
+              "username": "Eliot_Hsia"
+            },
+            {
+              "end": 119,
+              "id": "1589451050767224833",
+              "start": 106,
+              "username": "ChinTAT_2008"
+            },
+            {
+              "end": 136,
+              "id": "1503516796493590530",
+              "start": 120,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084255275058631032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从泰国回国之后准备去送礼物的人（如果不在一个城市会寄快递）：\n姥姥，爷爷奶奶，爸爸\n以及\n@dreamhawk_cn\n@4jZU8xPs41YIClw\n@H20_chemistry_x \n@Eliot_Hsia\n@ChinTAT_2008\n@orangefish_stew \n排名无先后顺序，都只会是一些小东西，好像还遗漏掉了一些人想不起来了，熟人可以来评论区报名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 692,
+          "like_count": 1020,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3633
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者📷，ins账号如下💕请关注💕                      。—⚠️负面警告⚠️—@GLaDOS8964 的转生，老号被人搞丢了—本人脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好，tg：https://t.co/DqaXKntrrj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "GLaDOS8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/GLaDOSlove",
+                "end": 127,
+                "expanded_url": "http://t.me/GLaDOSlove",
+                "start": 104,
+                "url": "https://t.co/DqaXKntrrj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS📷",
+        "pinned_tweet_id": "2082375964735181033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 291,
+          "like_count": 2412,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/😘Never lament, stride forever./😑负能里:@dreamhawk_cn_in/✍️匿名提问：https://t.co/tCv3oXISZG\n「立身天邊，安守地緣。守先待後，不激不隨。」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "dreamhawk_cn_in"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/garnetstar_cn",
+                "end": 107,
+                "expanded_url": "https://ngl.link/garnetstar_cn",
+                "start": 84,
+                "url": "https://t.co/tCv3oXISZG"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan/Canton, P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1933387075707154766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071568238555643904/imzMO2WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1065,
+          "like_count": 100799,
+          "listed_count": 6,
+          "media_count": 948,
+          "tweet_count": 12608
+        },
+        "url": "",
+        "username": "dreamhawk_cn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:26:55.000Z",
+        "description": "He (him) 友female。有意愿友跨🏳️‍⚧️，但不一定友跨。吃惊时会学猫🐱叫或发出“Oh My Mother”。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oystersaucezhaoart.com",
+                "end": 23,
+                "expanded_url": "https://www.oystersaucezhaoart.com/",
+                "start": 0,
+                "url": "https://t.co/4fkgFEHvrb"
+              }
+            ]
+          }
+        },
+        "id": "1417793109988020226",
+        "location": " 中华人民共和国辽宁省",
+        "name": "haoyu von mukden",
+        "pinned_tweet_id": "1766432051979243938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830525781056897024/AhFwS2Y__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 77,
+          "like_count": 2606,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/4fkgFEHvrb",
+        "username": "4jZU8xPs41YIClw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 2021,
+          "like_count": 44347,
+          "listed_count": 2,
+          "media_count": 1112,
+          "tweet_count": 13947
+        },
+        "url": "",
+        "username": "H20_chemistry_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T02:54:31.000Z",
+        "description": "08男（高中毕业入学前努力学习雅思ing）\n音游人，正太控，百合豚，二次元 \nBanG Dream邦批 INFP \n其余成分在置顶\n欢迎骚扰（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chintat2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chintat2",
+                "start": 0,
+                "url": "https://t.co/ntaYD0mAgs"
+              }
+            ]
+          }
+        },
+        "id": "1589451050767224833",
+        "location": "郑州",
+        "name": "ChinTAT没有网名",
+        "pinned_tweet_id": "2067294781785682181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918735211594231809/IO5FtmEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 992,
+          "like_count": 29174,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 5234
+        },
+        "url": "https://t.co/ntaYD0mAgs",
+        "username": "ChinTAT_2008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜18已毕业高中牲｜INFP｜代词随意｜🏳️‍🌈喜欢男的｜纯负能里里推 @calcipetitgrain （只会过熟人）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "calcipetitgrain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew75829",
+                "start": 0,
+                "url": "https://t.co/I42jWGR17A"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "2071353465612468377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6520,
+          "following_count": 2573,
+          "like_count": 63850,
+          "listed_count": 3,
+          "media_count": 755,
+          "tweet_count": 9624
+        },
+        "url": "https://t.co/I42jWGR17A",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

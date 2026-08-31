@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2083809426511983072",
+    "created_at": "2026-08-03T14:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084278323409293820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1782820752389206021",
+          "start": 0,
+          "username": "wbpi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084278323409293820",
+    "in_reply_to_user_id": "1782820752389206021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083809426511983072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbpi8 你他妈处女讲什么性欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2083809426511983072",
+        "created_at": "2026-08-03T14:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084278323409293820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1782820752389206021",
+              "start": 0,
+              "username": "wbpi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084278323409293820",
+        "in_reply_to_user_id": "1782820752389206021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083809426511983072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbpi8 你他妈处女讲什么性欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782820752389206021",
+        "conversation_id": "2083809426511983072",
+        "created_at": "2026-08-02T06:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083809426511983072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083809426511983072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食欲很难克服，性欲极难克服，虚荣欲无法克服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 676,
+          "like_count": 1009,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 3609
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T17:16:13.000Z",
+        "description": "We will fall right through the wall of the place where we were made. Right into the open mouth of the great annihilator.",
+        "id": "1782820752389206021",
+        "name": "银色锡安山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273042524606465/e-i_WtE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 547,
+          "like_count": 3649,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "wbpi8",
+        "verified": false
+      }
+    ]
+  }
+}
