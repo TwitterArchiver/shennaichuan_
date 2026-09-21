@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2084580063761272834",
+    "created_at": "2026-08-04T10:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084582508717543891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084582508717543891",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084580063761272834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084580033700761601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3qfv6bEAEByqG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084580033725861889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3qfwAaEAEKg0G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084580063761272834",
+        "created_at": "2026-08-04T10:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084582508717543891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084582508717543891",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084580063761272834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084580033700761601",
+            "3_2084580033725861889"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2084580063761272834",
+        "created_at": "2026-08-04T09:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084580063761272834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNQVDEbcaT",
+              "end": 59,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2084580063761272834/photo/1",
+              "media_key": "3_2084580033700761601",
+              "start": 36,
+              "url": "https://t.co/CNQVDEbcaT"
+            },
+            {
+              "display_url": "pic.x.com/CNQVDEbcaT",
+              "end": 59,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2084580063761272834/photo/1",
+              "media_key": "3_2084580033725861889",
+              "start": 36,
+              "url": "https://t.co/CNQVDEbcaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084580063761272834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们我在拍生日写真。我草这个女的是谁我不是屌丝吗，我怎么变成女的了？ https://t.co/CNQVDEbcaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 696,
+          "like_count": 1030,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yZ4u21Oez7Y3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+yZ4u21Oez7Y3ZmQ9",
+                "start": 0,
+                "url": "https://t.co/HPwIfhLJlR"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150 tele频道在下面",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 256,
+          "like_count": 417,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/HPwIfhLJlR",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

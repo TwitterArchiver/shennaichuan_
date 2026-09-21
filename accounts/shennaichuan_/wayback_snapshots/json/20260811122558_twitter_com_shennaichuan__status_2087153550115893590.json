@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2010357366466990080",
+    "conversation_id": "2087102051880714525",
+    "created_at": "2026-08-11T12:25:58.000Z",
+    "display_text_range": [
+      49,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087153550115893590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        },
+        {
+          "end": 32,
+          "id": "1292071635072061440",
+          "start": 16,
+          "username": "aeiQ5NP3CdaHpLW"
+        },
+        {
+          "end": 48,
+          "id": "779405903305011200",
+          "start": 33,
+          "username": "Nickel_Schwarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087153550115893590",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087144815603732937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 @aeiQ5NP3CdaHpLW @Nickel_Schwarz 😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2087102051880714525",
+        "created_at": "2026-08-11T12:25:58.000Z",
+        "display_text_range": [
+          49,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087153550115893590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            },
+            {
+              "end": 32,
+              "id": "1292071635072061440",
+              "start": 16,
+              "username": "aeiQ5NP3CdaHpLW"
+            },
+            {
+              "end": 48,
+              "id": "779405903305011200",
+              "start": 33,
+              "username": "Nickel_Schwarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087153550115893590",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087144815603732937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 @aeiQ5NP3CdaHpLW @Nickel_Schwarz 😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2087102051880714525",
+        "created_at": "2026-08-11T11:51:15.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087144815603732937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292071635072061440",
+              "start": 0,
+              "username": "aeiQ5NP3CdaHpLW"
+            },
+            {
+              "end": 32,
+              "id": "779405903305011200",
+              "start": 17,
+              "username": "Nickel_Schwarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087144815603732937",
+        "in_reply_to_user_id": "1292071635072061440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087102051880714525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeiQ5NP3CdaHpLW @Nickel_Schwarz 你别这样😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087153550115893590",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4898,
+          "following_count": 752,
+          "like_count": 1137,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 3815
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "还有男德吗wcnm😭",
+        "id": "1439904333361913856",
+        "is_identity_verified": false,
+        "location": "驻马店",
+        "most_recent_tweet_id": "2087145023913812302",
+        "name": "阿良良木鼠",
+        "pinned_tweet_id": "2083778053730365528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1439904333361913856/1712921213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1231,
+          "like_count": 256299,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 19329
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-08T12:14:25.000Z",
+        "description": "科研人员（习近平新时代思想研究方向）上网是为了看各国短发妹\n\n我们能取得一切成果的原因，在于习近平总书记领航掌舵，在于习近平新时代思想的科学指引——李强总理🥺",
+        "id": "1292071635072061440",
+        "is_identity_verified": false,
+        "location": "酒精依赖与药物滥用成瘾治疗中心",
+        "most_recent_tweet_id": "2087102051880714525",
+        "name": "🇺🇦🇨🇳网友新鲜的冻鱼🥺",
+        "pinned_tweet_id": "2059229625604325562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292071635072061440/1688817379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677643931851554817/rt9c3J6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 2209,
+          "like_count": 34051,
+          "listed_count": 29,
+          "media_count": 7050,
+          "tweet_count": 46375
+        },
+        "url": "",
+        "username": "aeiQ5NP3CdaHpLW",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-23T19:43:42.000Z",
+        "description": "Old Otaku, Computer Engineering, https://t.co/GT1GCmZgA5 Aviation,turbomachienay,CFD. Thanks for follow. Wer die Zwangsgebühren für ZDF und ARD zustimmt, der ist Hurensohn.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "M.Sc",
+                "end": 56,
+                "expanded_url": "http://M.Sc",
+                "start": 33,
+                "url": "https://t.co/GT1GCmZgA5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Rundfunk-frei.de",
+                "end": 23,
+                "expanded_url": "http://Rundfunk-frei.de",
+                "start": 0,
+                "url": "https://t.co/jdGSbgwHiT"
+              }
+            ]
+          }
+        },
+        "id": "779405903305011200",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2087150531315687646",
+        "name": "Nickel",
+        "pinned_tweet_id": "1063516333621559298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779405903305011200/1581099247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614495857520574464/Hb9U2xcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 471,
+          "like_count": 21908,
+          "listed_count": 15,
+          "media_count": 13442,
+          "tweet_count": 78944
+        },
+        "url": "https://t.co/jdGSbgwHiT",
+        "username": "Nickel_Schwarz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
